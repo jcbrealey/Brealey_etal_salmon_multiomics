@@ -1,0 +1,66 @@
+2023-08-21 14:51:03 INFO::Writing function arguments to log file
+2023-08-21 14:51:03 DEBUG::Function arguments
+2023-08-21 14:51:03 DEBUG::Output folder: output_maaslin2/MAGv6_filt_abund
+2023-08-21 14:51:03 DEBUG::Min Abundance: 0.000000
+2023-08-21 14:51:03 DEBUG::Min Prevalence: 0.100000
+2023-08-21 14:51:03 DEBUG::Normalization: NONE
+2023-08-21 14:51:03 DEBUG::Transform: LOG
+2023-08-21 14:51:03 DEBUG::Analysis method: LM
+2023-08-21 14:51:03 DEBUG::Max significance: 0.250000
+2023-08-21 14:51:03 DEBUG::Random effects: Sampling.Date
+2023-08-21 14:51:03 DEBUG::Fixed effects: Size.class,Feed.Type,Tapeworm.bin,metag.sequencing.depth
+2023-08-21 14:51:03 DEBUG::Correction method: BH
+2023-08-21 14:51:03 DEBUG::Standardize: TRUE
+2023-08-21 14:51:03 DEBUG::Cores: 1
+2023-08-21 14:51:03 INFO::Verifying options selected are valid
+2023-08-21 14:51:03 INFO::Determining format of input files
+2023-08-21 14:51:03 INFO::Input format is data samples as rows and metadata samples as rows
+2023-08-21 14:51:03 DEBUG::A total of 392 samples were found in both the data and metadata
+2023-08-21 14:51:03 DEBUG::Reordering data/metadata to use same sample ordering
+2023-08-21 14:51:03 INFO::Formula for random effects: expr ~ (1 | Sampling.Date)
+2023-08-21 14:51:03 INFO::Formula for fixed effects: expr ~  Size.class + Feed.Type + Tapeworm.bin + metag.sequencing.depth
+2023-08-21 14:51:03 INFO::Filter data based on min abundance and min prevalence
+2023-08-21 14:51:03 INFO::Total samples in data: 392
+2023-08-21 14:51:03 INFO::Min samples required with min abundance for a feature not to be filtered: 39.200000
+2023-08-21 14:51:03 INFO::Total filtered features: 6
+2023-08-21 14:51:03 INFO::Filtered feature names from abundance and prevalence filtering: MAG07_Photobacterium_iliopiscarium, MAG09_Aliivibrio_sp, MAG10_Aliivibrio_salmonicida, MAG13_Lactobacillus_johnsonii, MAG14_Clostridium_ljungdahlii, MAG15_Psychromonas_sp
+2023-08-21 14:51:03 INFO::Total filtered features with variance filtering: 0
+2023-08-21 14:51:03 INFO::Filtered feature names from variance filtering:
+2023-08-21 14:51:03 INFO::Running selected normalization method: NONE
+2023-08-21 14:51:03 INFO::Applying z-score to standardize continuous metadata
+2023-08-21 14:51:03 INFO::Running selected transform method: LOG
+2023-08-21 14:51:03 INFO::Running selected analysis method: LM
+2023-08-21 14:51:03 INFO::Fitting model to feature number 1, MAG01_Mycoplasma_salmoninae
+2023-08-21 14:51:03 INFO::Fitting model to feature number 2, MAG02_Mycoplasma_sp
+2023-08-21 14:51:03 INFO::Fitting model to feature number 3, MAG03_Mycoplasma_sp
+2023-08-21 14:51:03 INFO::Fitting model to feature number 4, MAG04_Mycoplasma_sp
+2023-08-21 14:51:03 INFO::Fitting model to feature number 5, MAG05_Mycoplasma_sp
+2023-08-21 14:51:03 INFO::Fitting model to feature number 6, MAG06_Photobacterium_phosphoreum
+2023-08-21 14:51:03 INFO::Fitting model to feature number 7, MAG08_Aliivibrio_sp
+2023-08-21 14:51:03 INFO::Fitting model to feature number 8, MAG11_Brevinema_sp
+2023-08-21 14:51:03 INFO::Fitting model to feature number 9, MAG12_Carnobacterium_maltaromaticum
+2023-08-21 14:51:04 INFO::Counting total values for each feature
+2023-08-21 14:51:04 INFO::Writing residuals to file output_maaslin2/MAGv6_filt_abund/residuals.rds
+2023-08-21 14:51:04 INFO::Writing fitted values to file output_maaslin2/MAGv6_filt_abund/fitted.rds
+2023-08-21 14:51:04 INFO::Writing extracted random effects to file output_maaslin2/MAGv6_filt_abund/ranef.rds
+2023-08-21 14:51:04 INFO::Writing all results to file (ordered by increasing q-values): output_maaslin2/MAGv6_filt_abund/all_results.tsv
+2023-08-21 14:51:04 INFO::Writing the significant results (those which are less than or equal to the threshold of 0.250000 ) to file (ordered by increasing q-values): output_maaslin2/MAGv6_filt_abund/significant_results.tsv
+2023-08-21 14:51:04 INFO::Writing heatmap of significant results to file: output_maaslin2/MAGv6_filt_abund/heatmap.pdf
+2023-08-21 14:51:04 INFO::Writing association plots (one for each significant association) to output folder: output_maaslin2/MAGv6_filt_abund
+2023-08-21 14:51:04 INFO::Plotting associations from most to least significant, grouped by metadata
+2023-08-21 14:51:04 INFO::Plotting data for metadata number 1, Size.class
+2023-08-21 14:51:04 INFO::Creating boxplot for categorical data, Size.class vs MAG06_Photobacterium_phosphoreum
+2023-08-21 14:51:04 INFO::Creating boxplot for categorical data, Size.class vs MAG01_Mycoplasma_salmoninae
+2023-08-21 14:51:04 INFO::Creating boxplot for categorical data, Size.class vs MAG05_Mycoplasma_sp
+2023-08-21 14:51:04 INFO::Creating boxplot for categorical data, Size.class vs MAG02_Mycoplasma_sp
+2023-08-21 14:51:05 INFO::Plotting data for metadata number 2, Tapeworm.bin
+2023-08-21 14:51:05 INFO::Creating boxplot for categorical data, Tapeworm.bin vs MAG02_Mycoplasma_sp
+2023-08-21 14:51:06 INFO::Creating boxplot for categorical data, Tapeworm.bin vs MAG03_Mycoplasma_sp
+2023-08-21 14:51:06 INFO::Creating boxplot for categorical data, Tapeworm.bin vs MAG04_Mycoplasma_sp
+2023-08-21 14:51:06 INFO::Creating boxplot for categorical data, Tapeworm.bin vs MAG05_Mycoplasma_sp
+2023-08-21 14:51:06 INFO::Creating boxplot for categorical data, Tapeworm.bin vs MAG12_Carnobacterium_maltaromaticum
+2023-08-21 14:51:06 INFO::Creating boxplot for categorical data, Tapeworm.bin vs MAG11_Brevinema_sp
+2023-08-21 14:51:06 INFO::Creating boxplot for categorical data, Tapeworm.bin vs MAG01_Mycoplasma_salmoninae
+2023-08-21 14:51:08 INFO::Plotting data for metadata number 3, Feed.Type
+2023-08-21 14:51:08 INFO::Creating boxplot for categorical data, Feed.Type vs MAG08_Aliivibrio_sp
+2023-08-21 14:51:08 INFO::Creating boxplot for categorical data, Feed.Type vs MAG02_Mycoplasma_sp

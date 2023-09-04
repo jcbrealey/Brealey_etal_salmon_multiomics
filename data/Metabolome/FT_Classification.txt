@@ -1,0 +1,766 @@
+SIRIUS_ID	MS2	type	Project	FT_ID	name	molecularFormula	adduct	most specific class	level 5	subclass	class	superclass
+0	MS2	all	HoloFish	1	0_MS2_all_HoloFish_1	C24H36O3	[M + H]+	"Monohydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+1	MS2	all	HoloFish	2	1_MS2_all_HoloFish_2	C13H25NO2	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+2	MS2	all	HoloFish	3	2_MS2_all_HoloFish_3	C48H80O10	[M + H]+	"Hydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+3	MS2	all	HoloFish	4	3_MS2_all_HoloFish_4	C24H34O2	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+4	MS2	all	HoloFish	5	4_MS2_all_HoloFish_5	C16H33NO3	[M + H]+	N-acyl amines	N-acyl amines	Fatty amides	Fatty Acyls	Lipids and lipid-like molecules
+5	MS2	all	HoloFish	6	5_MS2_all_HoloFish_6	C24H38O4	[M + H]+	"Dihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+6	MS2	all	HoloFish	7	6_MS2_all_HoloFish_7	C15H29NO3	[M + H]+	N-acyl-alpha amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+8	MS2	all	HoloFish	9	8_MS2_all_HoloFish_9	C31H40N6O4	[M + H]+	Hydroxysteroids		Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+9	MS2	all	HoloFish	10	9_MS2_all_HoloFish_10	C30H37N5O3	[M + H]+	"Hydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+11	MS2	all	HoloFish	12	11_MS2_all_HoloFish_12	C13H25NO3	[M + H]+	Fatty acids and conjugates		Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+12	MS2	all	HoloFish	13	12_MS2_all_HoloFish_13	C29H44N2O6	[M + H]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+13	MS2	all	HoloFish	14	13_MS2_all_HoloFish_14	C22H43NO	[M + H]+	Fatty amides		Fatty amides	Fatty Acyls	Lipids and lipid-like molecules
+14	MS2	all	HoloFish	15	14_MS2_all_HoloFish_15	C29H41NO7	[M + Na]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+15	MS2	all	HoloFish	16	15_MS2_all_HoloFish_16	C17H24O3	[M + H]+	Carboxylic acid esters	Carboxylic acid esters	Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+18	MS2	all	HoloFish	19	18_MS2_all_HoloFish_19	C11H12O	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+19	MS2	all	HoloFish	20	19_MS2_all_HoloFish_20	C27H48O8	[M + H]+	Triacylglycerols	Triacylglycerols	Triradylcglycerols	Glycerolipids	Lipids and lipid-like molecules
+20	MS2	all	HoloFish	21	20_MS2_all_HoloFish_21	C48H83NO10	[M + H]+	"Dihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+21	MS2	all	HoloFish	22	21_MS2_all_HoloFish_22	C27H51NO8	[M + H]+	Sphingolipids			Sphingolipids	Lipids and lipid-like molecules
+22	MS2	all	HoloFish	23	22_MS2_all_HoloFish_23	C17H24O	[M + Na]+	Organooxygen compounds			Organooxygen compounds	Organic oxygen compounds
+23	MS2	all	HoloFish	24	23_MS2_all_HoloFish_24	C13H23NO2	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+24	MS2	all	HoloFish	25	24_MS2_all_HoloFish_25	C3H6BF2O2	[M + Na]+	Boronic acid derivatives			Boronic acid derivatives	Organic acids and derivatives
+25	MS2	all	HoloFish	26	25_MS2_all_HoloFish_26	C10H24B2O4	[M + H]+	Fatty acids and conjugates		Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+26	MS2	all	HoloFish	27	26_MS2_all_HoloFish_27	C2H5N2O2S	[M + K]+	Thiadiazoles		Thiadiazoles	Azoles	Organoheterocyclic compounds
+27	MS2	all	HoloFish	28	27_MS2_all_HoloFish_28	C24H35N5O10	[M + H]+	N-acyl amines	N-acyl amines	Fatty amides	Fatty Acyls	Lipids and lipid-like molecules
+28	MS2	all	HoloFish	29	28_MS2_all_HoloFish_29	C18H30O3	[M + H]+	Lineolic acids and derivatives		Lineolic acids and derivatives	Fatty Acyls	Lipids and lipid-like molecules
+29	MS2	all	HoloFish	30	29_MS2_all_HoloFish_30	C30H37N5O2	[M + Na]+	Amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+30	MS2	all	HoloFish	31	30_MS2_all_HoloFish_31	C33H37NO7	[M + H]+	"Trihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+31	MS2	all	HoloFish	32	31_MS2_all_HoloFish_32	C12H20O3	[M + H]+	Unsaturated fatty acids	Unsaturated fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+32	MS2	all	HoloFish	33	32_MS2_all_HoloFish_33	C15H24O6	[M + H]+	Enoate esters	Carboxylic acid esters	Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+33	MS2	all	HoloFish	34	33_MS2_all_HoloFish_34	C9H7BClN3O	[M + H]+	Aryl chlorides		Aryl chlorides	Aryl halides	Organohalogen compounds
+34	MS2	all	HoloFish	35	34_MS2_all_HoloFish_35	C30H41NO8	[M + Na]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+35	MS2	all	HoloFish	36	35_MS2_all_HoloFish_36	C15H12O3	[M + H]+	Benzophenones		Benzophenones	Benzene and substituted derivatives	Benzenoids
+36	MS2	all	HoloFish	37	36_MS2_all_HoloFish_37	C12H25NO	[M + H]+	Fatty amides		Fatty amides	Fatty Acyls	Lipids and lipid-like molecules
+37	MS2	all	HoloFish	38	37_MS2_all_HoloFish_38	C24H38O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+38	MS2	all	HoloFish	39	38_MS2_all_HoloFish_39	C14H8O2	[M + H]+	Anthraquinones		Anthraquinones	Anthracenes	Benzenoids
+39	MS2	all	HoloFish	40	39_MS2_all_HoloFish_40	C4H4N2O3S	[M + Na]+	Azoles			Azoles	Organoheterocyclic compounds
+40	MS2	all	HoloFish	41	40_MS2_all_HoloFish_41	C12H18O2	[M + H]+	Carboxylic acids		Carboxylic acids	Carboxylic acids and derivatives	Organic acids and derivatives
+42	MS2	all	HoloFish	43	42_MS2_all_HoloFish_43	C29H37NO4	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+44	MS2	all	HoloFish	45	44_MS2_all_HoloFish_45	C27H45NO6	[M + H]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+45	MS2	all	HoloFish	46	45_MS2_all_HoloFish_46	C30H35N5O	[M + H]+	3-beta-hydroxy delta-5-steroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+46	MS2	all	HoloFish	47	46_MS2_all_HoloFish_47	C4H4N2O3S	[M + Na]+	Heteroaromatic compounds			Heteroaromatic compounds	Organoheterocyclic compounds
+47	MS2	all	HoloFish	48	47_MS2_all_HoloFish_48	C3H6O3P	[M + K]+	Carboxylic acids		Carboxylic acids	Carboxylic acids and derivatives	Organic acids and derivatives
+48	MS2	all	HoloFish	49	48_MS2_all_HoloFish_49	C6H8O2	[M + H]+	Unsaturated fatty acids	Unsaturated fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+50	MS2	all	HoloFish	51	50_MS2_all_HoloFish_51	C9H16O3	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+51	MS2	all	HoloFish	52	51_MS2_all_HoloFish_52	C44H86N2O2	[M + H]+	Ceramides		Ceramides	Sphingolipids	Lipids and lipid-like molecules
+52	MS2	all	HoloFish	53	52_MS2_all_HoloFish_53	CH4BBrO3	[M + H]+	Boronic acids		Boronic acids	Boronic acid derivatives	Organic acids and derivatives
+53	MS2	all	HoloFish	54	53_MS2_all_HoloFish_54	C12H18O5	[M + H]+	Acrylic acid esters	Acrylic acid esters	Acrylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+54	MS2	all	HoloFish	55	54_MS2_all_HoloFish_55	C4H6Cl2NO	[M + H]+	Organochlorides			Organochlorides	Organohalogen compounds
+55	MS2	all	HoloFish	56	55_MS2_all_HoloFish_56	C26H50N2O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+56	MS2	all	HoloFish	57	56_MS2_all_HoloFish_57	C16H29FN4O	[M + H]+	Triazoles		Triazoles	Azoles	Organoheterocyclic compounds
+57	MS2	all	HoloFish	58	57_MS2_all_HoloFish_58	C6H10O2	[M + H]+	Straight chain fatty acids	Straight chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+58	MS2	all	HoloFish	59	58_MS2_all_HoloFish_59	C10H14ClN2O3PS	[M + Na]+	Chlorobenzenes	Chlorobenzenes	Halobenzenes	Benzene and substituted derivatives	Benzenoids
+59	MS2	all	HoloFish	60	59_MS2_all_HoloFish_60	C14H20N4	[M + H]+	Azoles			Azoles	Organoheterocyclic compounds
+60	MS2	all	HoloFish	61	60_MS2_all_HoloFish_61	C29H35N3O7	[M + H]+	Nitroaromatic compounds	C-nitro compounds	Organic nitro compounds	"Allyl-type 1,3-dipolar organic compounds"	"Organic 1,3-dipolar compounds"
+61	MS2	all	HoloFish	62	61_MS2_all_HoloFish_62	C33H37NO7	[M + H]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+62	MS2	all	HoloFish	63	62_MS2_all_HoloFish_63	C26H29N9O5	[M + Na]+	Amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+63	MS2	all	HoloFish	64	63_MS2_all_HoloFish_64	C8H14O2	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+64	MS2	all	HoloFish	65	64_MS2_all_HoloFish_65	C31H37N5O4	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+66	MS2	all	HoloFish	67	66_MS2_all_HoloFish_67	C3H4F3NO	[M + Na]+	Alkyl fluorides		Alkyl fluorides	Alkyl halides	Organohalogen compounds
+67	MS2	all	HoloFish	68	67_MS2_all_HoloFish_68	C8H14O2	[M + H]+	Carboxylic acid esters	Carboxylic acid esters	Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+69	MS2	all	HoloFish	70	69_MS2_all_HoloFish_70	C9H14O2	[M + H]+	Unsaturated fatty acids	Unsaturated fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+70	MS2	all	HoloFish	71	70_MS2_all_HoloFish_71	C12H14O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+72	MS2	all	HoloFish	73	72_MS2_all_HoloFish_73	C2H3Cl2O	[M + Na]+	Aryl-aldehydes	Aldehydes	Carbonyl compounds	Organooxygen compounds	Organic oxygen compounds
+73	MS2	all	HoloFish	74	73_MS2_all_HoloFish_74	C3H3FN4O2	[M + K]+	Azoles			Azoles	Organoheterocyclic compounds
+77	MS2	all	HoloFish	78	77_MS2_all_HoloFish_78	C15H27NO6	[M + H]+	O-glycosyl compounds	Glycosyl compounds	Carbohydrates and carbohydrate conjugates	Organooxygen compounds	Organic oxygen compounds
+78	MS2	all	HoloFish	79	78_MS2_all_HoloFish_79	C2HNO2S	[M + Na]+	Azoles			Azoles	Organoheterocyclic compounds
+79	MS2	all	HoloFish	80	79_MS2_all_HoloFish_80	C9H8O2	[M + H]+	Benzoic acids and derivatives		Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+80	MS2	all	HoloFish	81	80_MS2_all_HoloFish_81	C11H21FN4O	[M + H]+	Alkyl fluorides		Alkyl fluorides	Alkyl halides	Organohalogen compounds
+81	MS2	all	HoloFish	82	81_MS2_all_HoloFish_82	C5H8O2	[M + H]+	Straight chain fatty acids	Straight chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+82	MS2	all	HoloFish	83	82_MS2_all_HoloFish_83	C7H12O2	[M + H]+	Monocarboxylic acids and derivatives		Monocarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+83	MS2	all	HoloFish	84	83_MS2_all_HoloFish_84	CH4BBrO3	[M + H]+	Boronic acids		Boronic acids	Boronic acid derivatives	Organic acids and derivatives
+84	MS2	all	HoloFish	85	84_MS2_all_HoloFish_85	C3H6BF2O2	[M + Na]+	Boronic acid derivatives			Boronic acid derivatives	Organic acids and derivatives
+85	MS2	all	HoloFish	86	85_MS2_all_HoloFish_86	C5H8O2	[M + H]+	Unsaturated fatty acids	Unsaturated fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+86	MS2	all	HoloFish	87	86_MS2_all_HoloFish_87	C3H4F3NO	[M + Na]+	Alkyl fluorides		Alkyl fluorides	Alkyl halides	Organohalogen compounds
+87	MS2	all	HoloFish	88	87_MS2_all_HoloFish_88	C24H44N6O9	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+88	MS2	all	HoloFish	89	88_MS2_all_HoloFish_89	C30H33N5O	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+90	MS2	all	HoloFish	91	90_MS2_all_HoloFish_91	C15H29NO3	[M + H]+	N-acyl-alpha amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+91	MS2	all	HoloFish	92	91_MS2_all_HoloFish_92	CH4O5P2	[M + H]+	Organic phosphonic acids		Organic phosphonic acids	Organic phosphonic acids and derivatives	Organic acids and derivatives
+92	MS2	all	HoloFish	93	92_MS2_all_HoloFish_93	C16H27N	[M + H]+	Pyridines and derivatives			Pyridines and derivatives	Organoheterocyclic compounds
+95	MS2	all	HoloFish	96	95_MS2_all_HoloFish_96	C16H30O4	[M + H]+	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+97	MS2	all	HoloFish	98	97_MS2_all_HoloFish_98	C14H28O2	[M + H]+	Fatty acids and conjugates		Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+100	MS2	all	HoloFish	101	100_MS2_all_HoloFish_101	C24H34O2	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+101	MS2	all	HoloFish	102	101_MS2_all_HoloFish_102	C8H9N4O7P	[M + Na]+	Purine nucleotides			Purine nucleotides	"Nucleosides, nucleotides, and analogues"
+102	MS2	all	HoloFish	103	102_MS2_all_HoloFish_103	C16H30O4	[M + H]+	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+103	MS2	all	HoloFish	104	103_MS2_all_HoloFish_104	C9H12N2O6P2	[M + Na]+	Aminopyrimidines and derivatives	Aminopyrimidines and derivatives	Pyrimidines and pyrimidine derivatives	Diazines	Organoheterocyclic compounds
+104	MS2	all	HoloFish	105	104_MS2_all_HoloFish_105	C15H25N	[M + H]+	Organonitrogen compounds			Organonitrogen compounds	Organic nitrogen compounds
+106	MS2	all	HoloFish	107	106_MS2_all_HoloFish_107	C24H38O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+107	MS2	all	HoloFish	108	107_MS2_all_HoloFish_108	C16H32O4	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+108	MS2	all	HoloFish	109	108_MS2_all_HoloFish_109	C13H25NO2	[M + H]+	N-acyl amines	N-acyl amines	Fatty amides	Fatty Acyls	Lipids and lipid-like molecules
+109	MS2	all	HoloFish	110	109_MS2_all_HoloFish_110	C27H39N3O10	[M + H]+	"Hydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+111	MS2	all	HoloFish	112	111_MS2_all_HoloFish_112	C24H40O5	[M + H]+	"Trihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+112	MS2	all	HoloFish	113	112_MS2_all_HoloFish_113	C22H36O3	[M + H]+	Diterpenoids		Diterpenoids	Prenol lipids	Lipids and lipid-like molecules
+113	MS2	all	HoloFish	114	113_MS2_all_HoloFish_114	C24H36O4	[M + H]+	"Hydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+115	MS2	all	HoloFish	116	115_MS2_all_HoloFish_116	C30H35N5O	[M + H]+	3-hydroxysteroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+116	MS2	all	HoloFish	117	116_MS2_all_HoloFish_117	C18H28O2	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+117	MS2	all	HoloFish	118	117_MS2_all_HoloFish_118	C25H43NO6	[M + H]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+118	MS2	all	HoloFish	119	118_MS2_all_HoloFish_119	C25H40O6	[M + H]+	"Hydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+119	MS2	all	HoloFish	120	119_MS2_all_HoloFish_120	C22H30O3	[M + H]+	Very long-chain fatty acids	Very long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+120	MS2	all	HoloFish	121	120_MS2_all_HoloFish_121	C17H26O4	[M + H]+	Secondary alcohols	Secondary alcohols	Alcohols and polyols	Organooxygen compounds	Organic oxygen compounds
+121	MS2	all	HoloFish	122	121_MS2_all_HoloFish_122	C20H32O3	[M + H]+	Diterpenoids		Diterpenoids	Prenol lipids	Lipids and lipid-like molecules
+122	MS2	all	HoloFish	123	122_MS2_all_HoloFish_123	C19H36O4S	[M + H]+	Hydroxy fatty acids	Hydroxy fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+124	MS2	all	HoloFish	125	124_MS2_all_HoloFish_125	C17H28O5	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+125	MS2	all	HoloFish	126	125_MS2_all_HoloFish_126	C16H30F2N2	[M + H]+	Aralkylamines	Aralkylamines	Amines	Organonitrogen compounds	Organic nitrogen compounds
+126	MS2	all	HoloFish	127	126_MS2_all_HoloFish_127	C15H24O3	[M + H]+	Alcohols and polyols		Alcohols and polyols	Organooxygen compounds	Organic oxygen compounds
+127	MS2	all	HoloFish	128	127_MS2_all_HoloFish_128	C20H28O3	[M + H]+	Unsaturated fatty acids	Unsaturated fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+128	MS2	all	HoloFish	129	128_MS2_all_HoloFish_129	C18H30O2	[M + H]+	Lineolic acids and derivatives		Lineolic acids and derivatives	Fatty Acyls	Lipids and lipid-like molecules
+129	MS2	all	HoloFish	130	129_MS2_all_HoloFish_130	C10H16O5	[M + H]+	Carboxylic acid esters	Carboxylic acid esters	Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+130	MS2	all	HoloFish	131	130_MS2_all_HoloFish_131	C30H35N5O2	[M + H]+	3-beta-hydroxy delta-5-steroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+131	MS2	all	HoloFish	132	131_MS2_all_HoloFish_132	C6H10O2	[M + H]+	Straight chain fatty acids	Straight chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+132	MS2	all	HoloFish	133	132_MS2_all_HoloFish_133	C22H32O5	[M + H]+	Prostaglandins and related compounds	Prostaglandins and related compounds	Eicosanoids	Fatty Acyls	Lipids and lipid-like molecules
+133	MS2	all	HoloFish	134	133_MS2_all_HoloFish_134	C24H41NO5	[M + H]+	"Trihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+134	MS2	all	HoloFish	135	134_MS2_all_HoloFish_135	C23H36O4	[M + Na]+	Benzoic acids	Benzoic acids	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+135	MS2	all	HoloFish	136	135_MS2_all_HoloFish_136	C8H12	[M + H]+	Branched unsaturated hydrocarbons		Branched unsaturated hydrocarbons	Unsaturated hydrocarbons	Hydrocarbons
+136	MS2	all	HoloFish	137	136_MS2_all_HoloFish_137	C6H12B2N2O	[M + H]+	Boronic acids		Boronic acids	Boronic acid derivatives	Organic acids and derivatives
+138	MS2	all	HoloFish	139	138_MS2_all_HoloFish_139	C18H28O2	[M + H]+	Lineolic acids and derivatives		Lineolic acids and derivatives	Fatty Acyls	Lipids and lipid-like molecules
+139	MS2	all	HoloFish	140	139_MS2_all_HoloFish_140	C14H20O2	[M + H]+	Prenol lipids			Prenol lipids	Lipids and lipid-like molecules
+140	MS2	all	HoloFish	141	140_MS2_all_HoloFish_141	C25H40O6	[M + H]+	"Hydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+141	MS2	all	HoloFish	142	141_MS2_all_HoloFish_142	C15H22O2	[M + H]+	Phenylpropanes		Phenylpropanes	Benzene and substituted derivatives	Benzenoids
+142	MS2	all	HoloFish	143	142_MS2_all_HoloFish_143	C24H40O4	[M + H]+	"Dihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+143	MS2	all	HoloFish	144	143_MS2_all_HoloFish_144	C25H26O3	[M + H]+	Benzenoids				Benzenoids
+144	MS2	all	HoloFish	145	144_MS2_all_HoloFish_145	C24H44N6O9	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+146	MS2	all	HoloFish	147	146_MS2_all_HoloFish_147	C17H37N2O3P	[M + H]+	Organic phosphoramides		Organic phosphoramides	Organic phosphoric acids and derivatives	Organic acids and derivatives
+147	MS2	all	HoloFish	148	147_MS2_all_HoloFish_148	C23H39NO14	[M + H]+	Oxanes			Oxanes	Organoheterocyclic compounds
+149	MS2	all	HoloFish	150	149_MS2_all_HoloFish_150	C20H39NO5	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+151	MS2	all	HoloFish	152	151_MS2_all_HoloFish_152	C24H36O3	[M + H]+	"Monohydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+152	MS2	all	HoloFish	153	152_MS2_all_HoloFish_153	C21H39NO6	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+154	MS2	all	HoloFish	155	154_MS2_all_HoloFish_155	C24H30O6	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+155	MS2	all	HoloFish	156	155_MS2_all_HoloFish_156	C24H38O5	[M + H]+	"Trihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+156	MS2	all	HoloFish	157	156_MS2_all_HoloFish_157	C24H38O4	[M + H]+	"Hydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+157	MS2	all	HoloFish	158	157_MS2_all_HoloFish_158	C24H38O3	[M + H]+	"Dihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+158	MS2	all	HoloFish	159	158_MS2_all_HoloFish_159	C21H30N2O2S	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+159	MS2	all	HoloFish	160	159_MS2_all_HoloFish_160	C18H35NO4	[M + H]+	Acyl carnitines	Acyl carnitines	Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+161	MS2	all	HoloFish	162	161_MS2_all_HoloFish_162	C43H58N6O9	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+164	MS2	all	HoloFish	165	164_MS2_all_HoloFish_165	C30H37N5O2	[M + H]+	"Dihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+165	MS2	all	HoloFish	166	165_MS2_all_HoloFish_166	C18H36O5	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+166	MS2	all	HoloFish	167	166_MS2_all_HoloFish_167	C28H42N4O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+167	MS2	all	HoloFish	168	167_MS2_all_HoloFish_168	C27H41N3O7	[M + H]+	Cyclic depsipeptides	Cyclic depsipeptides	Depsipeptides	Peptidomimetics	Organic acids and derivatives
+169	MS2	all	HoloFish	170	169_MS2_all_HoloFish_170	C18H34O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+170	MS2	all	HoloFish	171	170_MS2_all_HoloFish_171	C34H43N5O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+171	MS2	all	HoloFish	172	171_MS2_all_HoloFish_172	C12H18O2	[M + H]+	Carbonyl compounds		Carbonyl compounds	Organooxygen compounds	Organic oxygen compounds
+172	MS2	all	HoloFish	173	172_MS2_all_HoloFish_173	C18H37BN6O5	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+173	MS2	all	HoloFish	174	173_MS2_all_HoloFish_174	C34H43N5O8	[M + H]+	Peptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+174	MS2	all	HoloFish	175	174_MS2_all_HoloFish_175	C22H42O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+175	MS2	all	HoloFish	176	175_MS2_all_HoloFish_176	C21H39NO5	[M + H]+	Acyl carnitines	Acyl carnitines	Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+176	MS2	all	HoloFish	177	176_MS2_all_HoloFish_177	C14H22N2O3	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+177	MS2	all	HoloFish	178	177_MS2_all_HoloFish_178	C16H22O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+179	MS2	all	HoloFish	180	179_MS2_all_HoloFish_180	C18H32O3	[M + H]+	Lineolic acids and derivatives		Lineolic acids and derivatives	Fatty Acyls	Lipids and lipid-like molecules
+181	MS2	all	HoloFish	182	181_MS2_all_HoloFish_182	C18H34O4	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+182	MS2	all	HoloFish	183	182_MS2_all_HoloFish_183	C29H35NO4	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+183	MS2	all	HoloFish	184	183_MS2_all_HoloFish_184	C13H16O3	[M + H]+	Alkyl aryl ethers	Alkyl aryl ethers	Ethers	Organooxygen compounds	Organic oxygen compounds
+185	MS2	all	HoloFish	186	185_MS2_all_HoloFish_186	C19H37NO5S	[M + H]+	Alpha amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+186	MS2	all	HoloFish	187	186_MS2_all_HoloFish_187	C18H33ClN2O	[M + Na]+	N-acyl amines	N-acyl amines	Fatty amides	Fatty Acyls	Lipids and lipid-like molecules
+187	MS2	all	HoloFish	188	187_MS2_all_HoloFish_188	C17H35N7O4S	[M + H]+	Biotin and derivatives			Biotin and derivatives	Organoheterocyclic compounds
+188	MS2	all	HoloFish	189	188_MS2_all_HoloFish_189	C18H18O5	[M + H]+	Benzodioxoles			Benzodioxoles	Organoheterocyclic compounds
+189	MS2	all	HoloFish	190	189_MS2_all_HoloFish_190	C24H35N5O2	[M + H]+	Alpha amino acid amides	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+190	MS2	all	HoloFish	191	190_MS2_all_HoloFish_191	C19H37NO5	[M + H]+	Acyl carnitines	Acyl carnitines	Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+191	MS2	all	HoloFish	192	191_MS2_all_HoloFish_192	C18H32BN3O5	[M + Na]+	Phenoxy compounds		Phenoxy compounds	Benzene and substituted derivatives	Benzenoids
+193	MS2	all	HoloFish	194	193_MS2_all_HoloFish_194	C14H26O4	[M + H]+	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+194	MS2	all	HoloFish	195	194_MS2_all_HoloFish_195	C16H20O4	[M + H]+	Lactones			Lactones	Organoheterocyclic compounds
+195	MS2	all	HoloFish	196	195_MS2_all_HoloFish_196	C16H25N5O	[M + H]+	Azoles			Azoles	Organoheterocyclic compounds
+196	MS2	all	HoloFish	197	196_MS2_all_HoloFish_197	C14H24O3	[M + H]+	Monocarboxylic acids and derivatives		Monocarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+197	MS2	all	HoloFish	198	197_MS2_all_HoloFish_198	C14H31NO2S	[M + H]+	Phenylpropanes		Phenylpropanes	Benzene and substituted derivatives	Benzenoids
+198	MS2	all	HoloFish	199	198_MS2_all_HoloFish_199	C29H35NO4	[M + H]+	Delta-5-steroids		Delta-5-steroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+199	MS2	all	HoloFish	200	199_MS2_all_HoloFish_200	C33H37NO7	[M + H]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+200	MS2	all	HoloFish	201	200_MS2_all_HoloFish_201	C32H35N5O3	[M + H]+	3-hydroxysteroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+201	MS2	all	HoloFish	202	201_MS2_all_HoloFish_202	C33H35NO6	[M + H]+	1-hydroxy-2-unsubstituted benzenoids		1-hydroxy-2-unsubstituted benzenoids	Phenols	Benzenoids
+203	MS2	all	HoloFish	204	203_MS2_all_HoloFish_204	C34H27N5O4	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+205	MS2	all	HoloFish	206	205_MS2_all_HoloFish_206	C9H16O3	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+206	MS2	all	HoloFish	207	206_MS2_all_HoloFish_207	C12H20O3	[M + H]+	Carboxylic acids		Carboxylic acids	Carboxylic acids and derivatives	Organic acids and derivatives
+207	MS2	all	HoloFish	208	207_MS2_all_HoloFish_208	C24H33NO6	[M + H]+	Cyclic ketones	Ketones	Carbonyl compounds	Organooxygen compounds	Organic oxygen compounds
+209	MS2	all	HoloFish	210	209_MS2_all_HoloFish_210	C12H18O2	[M + H]+	Carbonyl compounds		Carbonyl compounds	Organooxygen compounds	Organic oxygen compounds
+210	MS2	all	HoloFish	211	210_MS2_all_HoloFish_211	C32H46O9	[M + Na]+	14-hydroxysteroids	14-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+211	MS2	all	HoloFish	212	211_MS2_all_HoloFish_212	C26H42FNO8	[M + Na]+	"Trihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+213	MS2	all	HoloFish	214	213_MS2_all_HoloFish_214	C41H54N6O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+216	MS2	all	HoloFish	217	216_MS2_all_HoloFish_217	C24H36BClN2O5	[M + Na]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+217	MS2	all	HoloFish	218	217_MS2_all_HoloFish_218	C21H39NO6	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+218	MS2	all	HoloFish	219	218_MS2_all_HoloFish_219	C25H44O6	[M + H]+	"1,2-diacylglycerols"	Diacylglycerols	Diradylglycerols	Glycerolipids	Lipids and lipid-like molecules
+220	MS2	all	HoloFish	221	220_MS2_all_HoloFish_221	C17H31N7O3	[M + H]+	Peptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+222	MS2	all	HoloFish	223	222_MS2_all_HoloFish_223	C13H14O2	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+223	MS2	all	HoloFish	224	223_MS2_all_HoloFish_224	C19H35NO5	[M + H]+	N-acyl amines	N-acyl amines	Fatty amides	Fatty Acyls	Lipids and lipid-like molecules
+226	MS2	all	HoloFish	227	226_MS2_all_HoloFish_227	C27H43BN4O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+227	MS2	all	HoloFish	228	227_MS2_all_HoloFish_228	C14H23N	[M + H]+	Pyridines and derivatives			Pyridines and derivatives	Organoheterocyclic compounds
+228	MS2	all	HoloFish	229	228_MS2_all_HoloFish_229	C9H24N4O4	[M + H]+	Monoalkylamines	Primary amines	Amines	Organonitrogen compounds	Organic nitrogen compounds
+230	MS2	all	HoloFish	231	230_MS2_all_HoloFish_231	C25H45NO6	[M + H]+	Lipids and lipid-like molecules				Lipids and lipid-like molecules
+231	MS2	all	HoloFish	232	231_MS2_all_HoloFish_232	C10H16O5	[M + H]+	Carboxylic acid esters	Carboxylic acid esters	Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+232	MS2	all	HoloFish	233	232_MS2_all_HoloFish_233	C6H10O2	[M + H]+	Straight chain fatty acids	Straight chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+233	MS2	all	HoloFish	234	233_MS2_all_HoloFish_234	C8H14O2	[M + H]+	Carboxylic acid derivatives		Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+234	MS2	all	HoloFish	235	234_MS2_all_HoloFish_235	C17H29NO7	[M + H]+	Monosaccharides	Monosaccharides	Carbohydrates and carbohydrate conjugates	Organooxygen compounds	Organic oxygen compounds
+235	MS2	all	HoloFish	236	235_MS2_all_HoloFish_236	C5H8O2	[M + H]+	Straight chain fatty acids	Straight chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+236	MS2	all	HoloFish	237	236_MS2_all_HoloFish_237	C7H12O2	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+237	MS2	all	HoloFish	238	237_MS2_all_HoloFish_238	CH4O5P2	[M + H]+	Organic phosphonic acids		Organic phosphonic acids	Organic phosphonic acids and derivatives	Organic acids and derivatives
+238	MS2	all	HoloFish	239	238_MS2_all_HoloFish_239	C18H34O4	[M + H]+	Lineolic acids and derivatives		Lineolic acids and derivatives	Fatty Acyls	Lipids and lipid-like molecules
+239	MS2	all	HoloFish	240	239_MS2_all_HoloFish_240	C27H42N6O11	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+240	MS2	all	HoloFish	241	240_MS2_all_HoloFish_241	C25H34N10O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+241	MS2	all	HoloFish	242	241_MS2_all_HoloFish_242	C27H42N6O10	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+242	MS2	all	HoloFish	243	242_MS2_all_HoloFish_243	C3H3FN4O2	[M + K]+	Azoles			Azoles	Organoheterocyclic compounds
+243	MS2	all	HoloFish	244	243_MS2_all_HoloFish_244	C27H42N6O11	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+244	MS2	all	HoloFish	245	244_MS2_all_HoloFish_245	C27H42N6O10	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+245	MS2	all	HoloFish	246	245_MS2_all_HoloFish_246	C18H35NO4	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+246	MS2	all	HoloFish	247	246_MS2_all_HoloFish_247	C15H30F2O	[M + Na]+	Primary alcohols	Primary alcohols	Alcohols and polyols	Organooxygen compounds	Organic oxygen compounds
+249	MS2	all	HoloFish	250	249_MS2_all_HoloFish_250	C14H28O2	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+250	MS2	all	HoloFish	251	250_MS2_all_HoloFish_251	C26H39NO5S	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+251	MS2	all	HoloFish	252	251_MS2_all_HoloFish_252	C23H40N2O4	[M + H]+	N-acyl-L-glutamines	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+252	MS2	all	HoloFish	253	252_MS2_all_HoloFish_253	C24H35N5O10	[M + H]+	Lipids and lipid-like molecules				Lipids and lipid-like molecules
+253	MS2	all	HoloFish	254	253_MS2_all_HoloFish_254	C12H16B2O2	[M + H]+	Monocarboxylic acids and derivatives		Monocarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+254	MS2	all	HoloFish	255	254_MS2_all_HoloFish_255	C15H22O4	[M + H]+	Prenol lipids			Prenol lipids	Lipids and lipid-like molecules
+256	MS2	all	HoloFish	257	256_MS2_all_HoloFish_257	C20H39NO5	[M + H]+	Acyl carnitines	Acyl carnitines	Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+257	MS2	all	HoloFish	258	257_MS2_all_HoloFish_258	C24H38O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+258	MS2	all	HoloFish	259	258_MS2_all_HoloFish_259	C20H37NO4	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+260	MS2	all	HoloFish	261	260_MS2_all_HoloFish_261	C28H48N4O11	[M + Na]+	Amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+261	MS2	all	HoloFish	262	261_MS2_all_HoloFish_262	C26H39NO5S	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+262	MS2	all	HoloFish	263	262_MS2_all_HoloFish_263	C25H32F5NO4	[M + H]+	3-hydroxysteroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+263	MS2	all	HoloFish	264	263_MS2_all_HoloFish_264	C12H22BN2O2	[M + H]+	Imidazoles		Imidazoles	Azoles	Organoheterocyclic compounds
+266	MS2	all	HoloFish	267	266_MS2_all_HoloFish_267	C41H56N6O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+268	MS2	all	HoloFish	269	268_MS2_all_HoloFish_269	C24H41N3O6	[M + H]+	Histidine and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+269	MS2	all	HoloFish	270	269_MS2_all_HoloFish_270	C30H40N4O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+271	MS2	all	HoloFish	272	271_MS2_all_HoloFish_272	C30H37N5O2	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+272	MS2	all	HoloFish	273	272_MS2_all_HoloFish_273	C13H21N	[M + H]+	Pyridines and derivatives			Pyridines and derivatives	Organoheterocyclic compounds
+273	MS2	all	HoloFish	274	273_MS2_all_HoloFish_274	C23H41FN4O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+274	MS2	all	HoloFish	275	274_MS2_all_HoloFish_275	C19H35NO6	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+275	MS2	all	HoloFish	276	275_MS2_all_HoloFish_276	C19H37NO4	[M + H]+	"1,2-aminoalcohols"	Alkanolamines	Amines	Organonitrogen compounds	Organic nitrogen compounds
+277	MS2	all	HoloFish	278	277_MS2_all_HoloFish_278	C31H37N5O4	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+279	MS2	all	HoloFish	280	279_MS2_all_HoloFish_280	C33H43N5O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+280	MS2	all	HoloFish	281	280_MS2_all_HoloFish_281	C24H36N4O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+281	MS2	all	HoloFish	282	281_MS2_all_HoloFish_282	C30H41N3O9	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+283	MS2	all	HoloFish	284	283_MS2_all_HoloFish_284	C32H41N5O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+286	MS2	all	HoloFish	287	286_MS2_all_HoloFish_287	C24H38N8O5	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+287	MS2	all	HoloFish	288	287_MS2_all_HoloFish_288	C30H35N5O	[M + H]+	3-hydroxysteroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+290	MS2	all	HoloFish	291	290_MS2_all_HoloFish_291	C33H35NO6	[M + H]+	Benzoic acids and derivatives		Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+291	MS2	all	HoloFish	292	291_MS2_all_HoloFish_292	C8H22N4O3	[M + H]+	Organonitrogen compounds			Organonitrogen compounds	Organic nitrogen compounds
+292	MS2	all	HoloFish	293	292_MS2_all_HoloFish_293	C12H16N4O7	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+293	MS2	all	HoloFish	294	293_MS2_all_HoloFish_294	C19H35NO5S	[M + H]+	Leukotrienes	Leukotrienes	Eicosanoids	Fatty Acyls	Lipids and lipid-like molecules
+294	MS2	all	HoloFish	295	294_MS2_all_HoloFish_295	C21H18F2N2O2	[M + H]+	Fluorobenzenes	Fluorobenzenes	Halobenzenes	Benzene and substituted derivatives	Benzenoids
+295	MS2	all	HoloFish	296	295_MS2_all_HoloFish_296	C21H36FN3O4	[M + H]+	Indoles and derivatives			Indoles and derivatives	Organoheterocyclic compounds
+296	MS2	all	HoloFish	297	296_MS2_all_HoloFish_297	C19H24N2O2S	[M + H]+	Alkaloids and derivatives				Alkaloids and derivatives
+297	MS2	all	HoloFish	298	297_MS2_all_HoloFish_298	C22H26F2N2O	[M + H]+	Indoles and derivatives			Indoles and derivatives	Organoheterocyclic compounds
+298	MS2	all	HoloFish	299	298_MS2_all_HoloFish_299	C10H8O3	[M + H]+	Benzoic acids and derivatives		Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+299	MS2	all	HoloFish	300	299_MS2_all_HoloFish_300	C21H39N7O8	[M + Na]+	Peptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+300	MS2	all	HoloFish	301	300_MS2_all_HoloFish_301	C31H40N6O4	[M + H]+	Hydroxysteroids		Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+301	MS2	all	HoloFish	302	301_MS2_all_HoloFish_302	C20H28O3	[M + H]+	Diterpenoids		Diterpenoids	Prenol lipids	Lipids and lipid-like molecules
+302	MS2	all	HoloFish	303	302_MS2_all_HoloFish_303	C47H75NO12	[M + H]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+303	MS2	all	HoloFish	304	303_MS2_all_HoloFish_304	C14H26O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+304	MS2	all	HoloFish	305	304_MS2_all_HoloFish_305	C16H35NO3S	[M + H]+	Sulfonyls			Sulfonyls	Organosulfur compounds
+305	MS2	all	HoloFish	306	305_MS2_all_HoloFish_306	C18H31B2NO4	[M + H]+	Borinic acid esters		Borinic acid esters	Borinic acid derivatives	Organic acids and derivatives
+306	MS2	all	HoloFish	307	306_MS2_all_HoloFish_307	C15H24O2	[M + H]+	Prenol lipids			Prenol lipids	Lipids and lipid-like molecules
+307	MS2	all	HoloFish	308	307_MS2_all_HoloFish_308	C14H30FNO3	[M + H]+	Alkyl halides			Alkyl halides	Organohalogen compounds
+309	MS2	all	HoloFish	310	309_MS2_all_HoloFish_310	C8H12	[M + H]+	Branched unsaturated hydrocarbons		Branched unsaturated hydrocarbons	Unsaturated hydrocarbons	Hydrocarbons
+310	MS2	all	HoloFish	311	310_MS2_all_HoloFish_311	C33H43N5O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+312	MS2	all	HoloFish	313	312_MS2_all_HoloFish_313	C24H45N7O10	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+313	MS2	all	HoloFish	314	313_MS2_all_HoloFish_314	C21H33N3O4	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+314	MS2	all	HoloFish	315	314_MS2_all_HoloFish_315	C23H41NO4S	[M + H]+	N-acyl-L-alpha-amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+315	MS2	all	HoloFish	316	315_MS2_all_HoloFish_316	C24H35N5O10	[M + H]+	Lipids and lipid-like molecules				Lipids and lipid-like molecules
+316	MS2	all	HoloFish	317	316_MS2_all_HoloFish_317	C12H19N	[M + H]+	Organonitrogen compounds			Organonitrogen compounds	Organic nitrogen compounds
+317	MS2	all	HoloFish	318	317_MS2_all_HoloFish_318	C21H33N3O4	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+318	MS2	all	HoloFish	319	318_MS2_all_HoloFish_319	C25H35NO4	[M + H]+	Tyrosine and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+320	MS2	all	HoloFish	321	320_MS2_all_HoloFish_321	C30H35N5O	[M + H]+	Aminopyrimidines and derivatives	Aminopyrimidines and derivatives	Pyrimidines and pyrimidine derivatives	Diazines	Organoheterocyclic compounds
+322	MS2	all	HoloFish	323	322_MS2_all_HoloFish_323	C23H37NO4	[M + H]+	Tyrosine and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+325	MS2	all	HoloFish	326	325_MS2_all_HoloFish_326	C22H39N4O8P	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+326	MS2	all	HoloFish	327	326_MS2_all_HoloFish_327	C24H35N5O10	[M + H]+	Lipids and lipid-like molecules				Lipids and lipid-like molecules
+327	MS2	all	HoloFish	328	327_MS2_all_HoloFish_328	C31H53N11O11	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+328	MS2	all	HoloFish	329	328_MS2_all_HoloFish_329	C30H40N4O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+329	MS2	all	HoloFish	330	329_MS2_all_HoloFish_330	C21H28N2O4	[M + H]+	Amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+330	MS2	all	HoloFish	331	330_MS2_all_HoloFish_331	C24H36O2	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+332	MS2	all	HoloFish	333	332_MS2_all_HoloFish_333	C25H36O4	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+333	MS2	all	HoloFish	334	333_MS2_all_HoloFish_334	C18H36O5	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+334	MS2	all	HoloFish	335	334_MS2_all_HoloFish_335	C19H33NO5	[M + H]+	Acyl carnitines	Acyl carnitines	Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+336	MS2	all	HoloFish	337	336_MS2_all_HoloFish_337	C8H4O3	[M + H]+	Phthalic anhydrides	Phthalic anhydrides	Benzofuranones	Benzofurans	Organoheterocyclic compounds
+337	MS2	all	HoloFish	338	337_MS2_all_HoloFish_338	C14H24N6O3	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+340	MS2	all	HoloFish	341	340_MS2_all_HoloFish_341	C34H27N5O4	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+341	MS2	all	HoloFish	342	341_MS2_all_HoloFish_342	C12H20O3	[M + H]+	Carboxylic acids		Carboxylic acids	Carboxylic acids and derivatives	Organic acids and derivatives
+342	MS2	all	HoloFish	343	342_MS2_all_HoloFish_343	C20H39NO5	[M + H]+	Acyl carnitines	Acyl carnitines	Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+343	MS2	all	HoloFish	344	343_MS2_all_HoloFish_344	C24H38O4	[M + H]+	"Dihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+346	MS2	all	HoloFish	347	346_MS2_all_HoloFish_347	C13H14O2	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+347	MS2	all	HoloFish	348	347_MS2_all_HoloFish_348	C13H24O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+348	MS2	all	HoloFish	349	348_MS2_all_HoloFish_349	C30H40N6O3	[M + H]+	"Dihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+351	MS2	all	HoloFish	352	351_MS2_all_HoloFish_352	C19H37NO4	[M + H]+	Secondary alcohols	Secondary alcohols	Alcohols and polyols	Organooxygen compounds	Organic oxygen compounds
+353	MS2	all	HoloFish	354	353_MS2_all_HoloFish_354	C18H30O4	[M + H]+	Prostaglandins and related compounds	Prostaglandins and related compounds	Eicosanoids	Fatty Acyls	Lipids and lipid-like molecules
+354	MS2	all	HoloFish	355	354_MS2_all_HoloFish_355	C11H24BN5O3	[M + H]+	Heteroaromatic compounds			Heteroaromatic compounds	Organoheterocyclic compounds
+355	MS2	all	HoloFish	356	355_MS2_all_HoloFish_356	C12H23NO3	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+356	MS2	all	HoloFish	357	356_MS2_all_HoloFish_357	C18H34O5	[M + H]+	Secondary alcohols	Secondary alcohols	Alcohols and polyols	Organooxygen compounds	Organic oxygen compounds
+358	MS2	all	HoloFish	359	358_MS2_all_HoloFish_359	C7H12O2	[M + H]+	Straight chain fatty acids	Straight chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+359	MS2	all	HoloFish	360	359_MS2_all_HoloFish_360	C23H41FN4O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+361	MS2	all	HoloFish	362	361_MS2_all_HoloFish_362	CH4BBrO3	[M + H]+	Boronic acids		Boronic acids	Boronic acid derivatives	Organic acids and derivatives
+362	MS2	all	HoloFish	363	362_MS2_all_HoloFish_363	C23H39NO14	[M + H]+	Aminocyclitol glycosides	Aminosaccharides	Carbohydrates and carbohydrate conjugates	Organooxygen compounds	Organic oxygen compounds
+363	MS2	all	HoloFish	364	363_MS2_all_HoloFish_364	C9H16O3	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+364	MS2	all	HoloFish	365	364_MS2_all_HoloFish_365	C29H37NO4	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+365	MS2	all	HoloFish	366	365_MS2_all_HoloFish_366	C21H39NO6	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+366	MS2	all	HoloFish	367	366_MS2_all_HoloFish_367	C9H16O3	[M + H]+	Monocarboxylic acids and derivatives		Monocarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+372	MS2	all	HoloFish	373	372_MS2_all_HoloFish_373	C18H26N2O	[M + H]+	Phenols			Phenols	Benzenoids
+374	MS2	all	HoloFish	375	374_MS2_all_HoloFish_375	C14H24FN3O4	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+378	MS2	all	HoloFish	379	378_MS2_all_HoloFish_379	C19H33NO5	[M + H]+	N-acyl-alpha amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+381	MS2	all	HoloFish	382	381_MS2_all_HoloFish_382	C9H24N4O4	[M + H]+	Monoalkylamines	Primary amines	Amines	Organonitrogen compounds	Organic nitrogen compounds
+382	MS2	all	HoloFish	383	382_MS2_all_HoloFish_383	C21H18F2N2O2	[M + H]+	Fluorobenzenes	Fluorobenzenes	Halobenzenes	Benzene and substituted derivatives	Benzenoids
+383	MS2	all	HoloFish	384	383_MS2_all_HoloFish_384	C31H37N5O4	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+384	MS2	all	HoloFish	385	384_MS2_all_HoloFish_385	C26H39NO5S	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+385	MS2	all	HoloFish	386	385_MS2_all_HoloFish_386	C24H37N5O4	[M + H]+	Glutamic acid and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+387	MS2	all	HoloFish	388	387_MS2_all_HoloFish_388	C22H32O5	[M + H]+	Carboxylic acid derivatives		Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+392	MS2	all	HoloFish	393	392_MS2_all_HoloFish_393	C41H56N6O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+394	MS2	all	HoloFish	395	394_MS2_all_HoloFish_395	C24H37N5O4	[M + H]+	Glutamic acid and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+396	MS2	all	HoloFish	397	396_MS2_all_HoloFish_397	C11H24F2N4	[M + H]+	Aryl fluorides		Aryl fluorides	Aryl halides	Organohalogen compounds
+397	MS2	all	HoloFish	398	397_MS2_all_HoloFish_398	C43H58N6O9	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+398	MS2	all	HoloFish	399	398_MS2_all_HoloFish_399	C18H37NO5	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+401	MS2	all	HoloFish	402	401_MS2_all_HoloFish_402	C14H23N	[M + H]+	Pyridines and derivatives			Pyridines and derivatives	Organoheterocyclic compounds
+402	MS2	all	HoloFish	403	402_MS2_all_HoloFish_403	C29H41NO6	[M + H]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+403	MS2	all	HoloFish	404	403_MS2_all_HoloFish_404	C19H35NO5	[M + H]+	Acyl carnitines	Acyl carnitines	Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+404	MS2	all	HoloFish	405	404_MS2_all_HoloFish_405	C30H35N5O	[M + H]+	3-hydroxysteroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+405	MS2	all	HoloFish	406	405_MS2_all_HoloFish_406	C29H37NO4	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+406	MS2	all	HoloFish	407	406_MS2_all_HoloFish_407	C19H28O	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+407	MS2	all	HoloFish	408	407_MS2_all_HoloFish_408	C31H42N2O7	[M + H]+	Fatty amides		Fatty amides	Fatty Acyls	Lipids and lipid-like molecules
+408	MS2	all	HoloFish	409	408_MS2_all_HoloFish_409	C13H21N	[M + H]+	Pyridines and derivatives			Pyridines and derivatives	Organoheterocyclic compounds
+409	MS2	all	HoloFish	410	409_MS2_all_HoloFish_410	C10H16O5	[M + H]+	Carboxylic acid esters	Carboxylic acid esters	Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+411	MS2	all	HoloFish	412	411_MS2_all_HoloFish_412	C25H36BN3O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+412	MS2	all	HoloFish	413	412_MS2_all_HoloFish_413	C6H10O2	[M + H]+	Straight chain fatty acids	Straight chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+413	MS2	all	HoloFish	414	413_MS2_all_HoloFish_414	C24H41N3O7	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+414	MS2	all	HoloFish	415	414_MS2_all_HoloFish_415	C30H40N6O3	[M + H]+	"Dihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+415	MS2	all	HoloFish	416	415_MS2_all_HoloFish_416	C23H34O2	[M + H]+	Very long-chain fatty acids	Very long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+416	MS2	all	HoloFish	417	416_MS2_all_HoloFish_417	C23H39NO14	[M + H]+	Aminocyclitol glycosides	Aminosaccharides	Carbohydrates and carbohydrate conjugates	Organooxygen compounds	Organic oxygen compounds
+417	MS2	all	HoloFish	418	417_MS2_all_HoloFish_418	C33H58O14	[M + H]+	Glycosylglycerols		Glycosylglycerols	Glycerolipids	Lipids and lipid-like molecules
+419	MS2	all	HoloFish	420	419_MS2_all_HoloFish_420	C29H35NO4	[M + H]+	Delta-5-steroids		Delta-5-steroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+420	MS2	all	HoloFish	421	420_MS2_all_HoloFish_421	C33H37NO7	[M + H]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+421	MS2	all	HoloFish	422	421_MS2_all_HoloFish_422	C29H35NO4	[M + H]+	Delta-5-steroids		Delta-5-steroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+422	MS2	all	HoloFish	423	422_MS2_all_HoloFish_423	C30H35N5O2	[M + H]+	3-beta-hydroxy delta-5-steroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+424	MS2	all	HoloFish	425	424_MS2_all_HoloFish_425	C41H56N6O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+425	MS2	all	HoloFish	426	425_MS2_all_HoloFish_426	C12H19N	[M + H]+	Phenylalkylamines	Aralkylamines	Amines	Organonitrogen compounds	Organic nitrogen compounds
+426	MS2	all	HoloFish	427	426_MS2_all_HoloFish_427	C14H26O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+427	MS2	all	HoloFish	428	427_MS2_all_HoloFish_428	C32H41N5O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+428	MS2	all	HoloFish	429	428_MS2_all_HoloFish_429	C8H22N4O3	[M + H]+	Monoalkylamines	Primary amines	Amines	Organonitrogen compounds	Organic nitrogen compounds
+429	MS2	all	HoloFish	430	429_MS2_all_HoloFish_430	C16H30O4	[M + H]+	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+430	MS2	all	HoloFish	431	430_MS2_all_HoloFish_431	C23H41FN4O6	[M + H]+	Peptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+431	MS2	all	HoloFish	432	431_MS2_all_HoloFish_432	C33H37NO7	[M + H]+	"Hydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+432	MS2	all	HoloFish	433	432_MS2_all_HoloFish_433	C27H42N6O10	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+433	MS2	all	HoloFish	434	433_MS2_all_HoloFish_434	C23H39NO14	[M + H]+	O-glycosyl compounds	Glycosyl compounds	Carbohydrates and carbohydrate conjugates	Organooxygen compounds	Organic oxygen compounds
+434	MS2	all	HoloFish	435	434_MS2_all_HoloFish_435	C25H43NO6	[M + H]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+435	MS2	all	HoloFish	436	435_MS2_all_HoloFish_436	C33H37NO7	[M + H]+	"Trihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+436	MS2	all	HoloFish	437	436_MS2_all_HoloFish_437	C9H12N2O6P2	[M + Na]+	Aminopyrimidines and derivatives	Aminopyrimidines and derivatives	Pyrimidines and pyrimidine derivatives	Diazines	Organoheterocyclic compounds
+437	MS2	all	HoloFish	438	437_MS2_all_HoloFish_438	C11H15F	[M + K]+	Fluorobenzenes	Fluorobenzenes	Halobenzenes	Benzene and substituted derivatives	Benzenoids
+438	MS2	all	HoloFish	439	438_MS2_all_HoloFish_439	C21H36FN3O4	[M + H]+	Indoles and derivatives			Indoles and derivatives	Organoheterocyclic compounds
+439	MS2	all	HoloFish	440	439_MS2_all_HoloFish_440	C13H13Cl	[M + H]+	Chlorobenzenes	Chlorobenzenes	Halobenzenes	Benzene and substituted derivatives	Benzenoids
+441	MS2	all	HoloFish	442	441_MS2_all_HoloFish_442	C20H33NO4S	[M + H]+	N-acyl-alpha amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+442	MS2	all	HoloFish	443	442_MS2_all_HoloFish_443	C14H26O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+443	MS2	all	HoloFish	444	443_MS2_all_HoloFish_444	C19H33NO5	[M + H]+	N-acyl-alpha amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+444	MS2	all	HoloFish	445	444_MS2_all_HoloFish_445	C30H35N5O2	[M + H]+	3-beta-hydroxy delta-5-steroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+445	MS2	all	HoloFish	446	445_MS2_all_HoloFish_446	C19H34O5	[M + H]+	Prostaglandins and related compounds	Prostaglandins and related compounds	Eicosanoids	Fatty Acyls	Lipids and lipid-like molecules
+446	MS2	all	HoloFish	447	446_MS2_all_HoloFish_447	C21H28N2O4	[M + H]+	3-alkylindoles	3-alkylindoles	Indoles	Indoles and derivatives	Organoheterocyclic compounds
+448	MS2	all	HoloFish	449	448_MS2_all_HoloFish_449	C18H36NO3	[M + K]+	N-acyl amines	N-acyl amines	Fatty amides	Fatty Acyls	Lipids and lipid-like molecules
+449	MS2	all	HoloFish	450	449_MS2_all_HoloFish_450	C30H33N5O	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+450	MS2	all	HoloFish	451	450_MS2_all_HoloFish_451	C20H32O8	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+451	MS2	all	HoloFish	452	451_MS2_all_HoloFish_452	C26H40N4O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+452	MS2	all	HoloFish	453	452_MS2_all_HoloFish_453	C32H41N5O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+453	MS2	all	HoloFish	454	453_MS2_all_HoloFish_454	C32H50N4O10	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+454	MS2	all	HoloFish	455	454_MS2_all_HoloFish_455	C29H30N4O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+455	MS2	all	HoloFish	456	455_MS2_all_HoloFish_456	C30H40N4O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+456	MS2	all	HoloFish	457	456_MS2_all_HoloFish_457	C29H45N5O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+457	MS2	all	HoloFish	458	457_MS2_all_HoloFish_458	C23H35N3O7	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+458	MS2	all	HoloFish	459	458_MS2_all_HoloFish_459	C20H39NO5	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+459	MS2	all	HoloFish	460	459_MS2_all_HoloFish_460	C19H29NO4	[M + H]+	Phenol ethers			Phenol ethers	Benzenoids
+461	MS2	all	HoloFish	462	461_MS2_all_HoloFish_462	C21H36N8O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+462	MS2	all	HoloFish	463	462_MS2_all_HoloFish_463	C20H32O5	[M + H]+	3-hydroxysteroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+463	MS2	all	HoloFish	464	463_MS2_all_HoloFish_464	C22H35N5O6	[M + H]+	Peptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+465	MS2	all	HoloFish	466	465_MS2_all_HoloFish_466	C19H29NO4	[M + H]+	Anisoles		Anisoles	Phenol ethers	Benzenoids
+468	MS2	all	HoloFish	469	468_MS2_all_HoloFish_469	C35H55N7O10	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+469	MS2	all	HoloFish	470	469_MS2_all_HoloFish_470	C36H40O4	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+470	MS2	all	HoloFish	471	470_MS2_all_HoloFish_471	C12H10B2O3	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+471	MS2	all	HoloFish	472	471_MS2_all_HoloFish_472	C18H33NO5	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+473	MS2	all	HoloFish	474	473_MS2_all_HoloFish_474	C20H39NO5	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+475	MS2	all	HoloFish	476	475_MS2_all_HoloFish_476	C23H33FN4O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+476	MS2	all	HoloFish	477	476_MS2_all_HoloFish_477	C19H36O6	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+477	MS2	all	HoloFish	478	477_MS2_all_HoloFish_478	C33H54N6O9	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+478	MS2	all	HoloFish	479	478_MS2_all_HoloFish_479	C30H37N3O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+482	MS2	all	HoloFish	483	482_MS2_all_HoloFish_483	C16H30O4	[M + H]+	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+484	MS2	all	HoloFish	485	484_MS2_all_HoloFish_485	C12H23NO2	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+485	MS2	all	HoloFish	486	485_MS2_all_HoloFish_486	C27H41N5O7	[M + K]+	Peptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+486	MS2	all	HoloFish	487	486_MS2_all_HoloFish_487	C21H37BN2O5	[M + H]+	Boronic acid derivatives			Boronic acid derivatives	Organic acids and derivatives
+489	MS2	all	HoloFish	490	489_MS2_all_HoloFish_490	C12H16N4O7	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+491	MS2	all	HoloFish	492	491_MS2_all_HoloFish_492	C18H35NO4	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+492	MS2	all	HoloFish	493	492_MS2_all_HoloFish_493	C28H48N2O4S	[M + K]+	"Hydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+493	MS2	all	HoloFish	494	493_MS2_all_HoloFish_494	C15H29N5O5	[M + Na]+	Azoles			Azoles	Organoheterocyclic compounds
+495	MS2	all	HoloFish	496	495_MS2_all_HoloFish_496	C49H80O11	[M + H]+	Triterpenoids		Triterpenoids	Prenol lipids	Lipids and lipid-like molecules
+496	MS2	all	HoloFish	497	496_MS2_all_HoloFish_497	C24H43NO4	[M + H]+	"Dihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+497	MS2	all	HoloFish	498	497_MS2_all_HoloFish_498	C33H43N5O3	[M + H]+	3-hydroxysteroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+498	MS2	all	HoloFish	499	498_MS2_all_HoloFish_499	C20H36N3O3	[M + Na]+	Lipids and lipid-like molecules				Lipids and lipid-like molecules
+499	MS2	all	HoloFish	500	499_MS2_all_HoloFish_500	C26H43NO5	[M + H]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+500	MS2	all	HoloFish	501	500_MS2_all_HoloFish_501	C3H6BF2O2	[M + Na]+	Boronic acid derivatives			Boronic acid derivatives	Organic acids and derivatives
+501	MS2	all	HoloFish	502	501_MS2_all_HoloFish_502	C27H42N4O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+503	MS2	all	HoloFish	504	503_MS2_all_HoloFish_504	C18H30O4	[M + H]+	Lineolic acids and derivatives		Lineolic acids and derivatives	Fatty Acyls	Lipids and lipid-like molecules
+504	MS2	all	HoloFish	505	504_MS2_all_HoloFish_505	C12H18O5	[M + H]+	Acrylic acid esters	Acrylic acid esters	Acrylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+505	MS2	all	HoloFish	506	505_MS2_all_HoloFish_506	C31H49N5O9	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+506	MS2	all	HoloFish	507	506_MS2_all_HoloFish_507	C23H33B2NO4	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+507	MS2	all	HoloFish	508	507_MS2_all_HoloFish_508	C26H39N3O9	[M + H]+	N-acyl-alpha amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+509	MS2	all	HoloFish	510	509_MS2_all_HoloFish_510	C24H42N6O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+510	MS2	all	HoloFish	511	510_MS2_all_HoloFish_511	C30H33N5O	[M + H]+	3-beta-hydroxy delta-5-steroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+513	MS2	all	HoloFish	514	513_MS2_all_HoloFish_514	C31H37N5O4	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+514	MS2	all	HoloFish	515	514_MS2_all_HoloFish_515	C11H20O2	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+515	MS2	all	HoloFish	516	515_MS2_all_HoloFish_516	CH4BBrO3	[M + H]+	Boronic acids		Boronic acids	Boronic acid derivatives	Organic acids and derivatives
+516	MS2	all	HoloFish	517	516_MS2_all_HoloFish_517	C11H20O2	[M + H]+	Prenol lipids			Prenol lipids	Lipids and lipid-like molecules
+517	MS2	all	HoloFish	518	517_MS2_all_HoloFish_518	C18H32O3	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+518	MS2	all	HoloFish	519	518_MS2_all_HoloFish_519	C16H22O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+519	MS2	all	HoloFish	520	519_MS2_all_HoloFish_520	C12H14O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+520	MS2	all	HoloFish	521	520_MS2_all_HoloFish_521	C26H48N8O9	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+521	MS2	all	HoloFish	522	521_MS2_all_HoloFish_522	C19H28O4	[M + H]+	Benzenoids				Benzenoids
+522	MS2	all	HoloFish	523	522_MS2_all_HoloFish_523	C19H35NO6	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+523	MS2	all	HoloFish	524	523_MS2_all_HoloFish_524	C18H28N2O3	[M + H]+	N-acyl-alpha amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+524	MS2	all	HoloFish	525	524_MS2_all_HoloFish_525	C23H41FN4O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+526	MS2	all	HoloFish	527	526_MS2_all_HoloFish_527	C25H35FN2O5	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+527	MS2	all	HoloFish	528	527_MS2_all_HoloFish_528	C9H12N2O6P2	[M + Na]+	Aminopyrimidines and derivatives	Aminopyrimidines and derivatives	Pyrimidines and pyrimidine derivatives	Diazines	Organoheterocyclic compounds
+529	MS2	all	HoloFish	530	529_MS2_all_HoloFish_530	C30H40N4O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+530	MS2	all	HoloFish	531	530_MS2_all_HoloFish_531	C13H20O2	[M + H]+	Benzoic acids and derivatives		Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+531	MS2	all	HoloFish	532	531_MS2_all_HoloFish_532	C24H41N3O7	[M + H]+	Peptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+532	MS2	all	HoloFish	533	532_MS2_all_HoloFish_533	C14H26O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+533	MS2	all	HoloFish	534	533_MS2_all_HoloFish_534	C19H35NO6	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+534	MS2	all	HoloFish	535	534_MS2_all_HoloFish_535	C24H41N3O7	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+535	MS2	all	HoloFish	536	535_MS2_all_HoloFish_536	C21H37NO5	[M + H]+	N-acyl-alpha amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+537	MS2	all	HoloFish	538	537_MS2_all_HoloFish_538	C18H28N2O3	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+538	MS2	all	HoloFish	539	538_MS2_all_HoloFish_539	C21H28N2O4	[M + H]+	Amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+540	MS2	all	HoloFish	541	540_MS2_all_HoloFish_541	C9H12N2O6P2	[M + Na]+	Pyrimidones	Pyrimidones	Pyrimidines and pyrimidine derivatives	Diazines	Organoheterocyclic compounds
+542	MS2	all	HoloFish	543	542_MS2_all_HoloFish_543	C24H34O2	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+543	MS2	all	HoloFish	544	543_MS2_all_HoloFish_544	C22H42N6O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+544	MS2	all	HoloFish	545	544_MS2_all_HoloFish_545	C11H20O2	[M + H]+	Carboxylic acid esters	Carboxylic acid esters	Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+545	MS2	all	HoloFish	546	545_MS2_all_HoloFish_546	C19H35NO5	[M + H]+	Acyl carnitines	Acyl carnitines	Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+546	MS2	all	HoloFish	547	546_MS2_all_HoloFish_547	C11H20O2	[M + H]+	Prenol lipids			Prenol lipids	Lipids and lipid-like molecules
+547	MS2	all	HoloFish	548	547_MS2_all_HoloFish_548	C15H25N	[M + H]+	Organonitrogen compounds			Organonitrogen compounds	Organic nitrogen compounds
+549	MS2	all	HoloFish	550	549_MS2_all_HoloFish_550	C14H22O2	[M + H]+	Prenol lipids			Prenol lipids	Lipids and lipid-like molecules
+551	MS2	all	HoloFish	552	551_MS2_all_HoloFish_552	C16H33BO4	[M + Na]+	Organoheterocyclic compounds				Organoheterocyclic compounds
+552	MS2	all	HoloFish	553	552_MS2_all_HoloFish_553	C30H41N3O9	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+553	MS2	all	HoloFish	554	553_MS2_all_HoloFish_554	C18H32O4	[M + H]+	Lineolic acids and derivatives		Lineolic acids and derivatives	Fatty Acyls	Lipids and lipid-like molecules
+554	MS2	all	HoloFish	555	554_MS2_all_HoloFish_555	C10H21NO	[M + H]+	Fatty amides		Fatty amides	Fatty Acyls	Lipids and lipid-like molecules
+555	MS2	all	HoloFish	556	555_MS2_all_HoloFish_556	C13H24O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+556	MS2	all	HoloFish	557	556_MS2_all_HoloFish_557	C30H37N5O3	[M + H]+	"Dihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+557	MS2	all	HoloFish	558	557_MS2_all_HoloFish_558	CH4BBrO3	[M + H]+	Boronic acids		Boronic acids	Boronic acid derivatives	Organic acids and derivatives
+558	MS2	all	HoloFish	559	558_MS2_all_HoloFish_559	C2H3Cl2O	[M + Na]+	Aryl-aldehydes	Aldehydes	Carbonyl compounds	Organooxygen compounds	Organic oxygen compounds
+560	MS2	all	HoloFish	561	560_MS2_all_HoloFish_561	C16H22O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+561	MS2	all	HoloFish	562	561_MS2_all_HoloFish_562	C3H4BN3O2	[M + Na]+	Azoles			Azoles	Organoheterocyclic compounds
+562	MS2	all	HoloFish	563	562_MS2_all_HoloFish_563	C12H14O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+563	MS2	all	HoloFish	564	563_MS2_all_HoloFish_564	C30H40N6O3	[M + H]+	"Dihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+564	MS2	all	HoloFish	565	564_MS2_all_HoloFish_565	C24H35N5O10	[M + H]+	Hydroxysteroids		Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+565	MS2	all	HoloFish	566	565_MS2_all_HoloFish_566	C19H35NO5	[M + H]+	N-acyl-alpha amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+566	MS2	all	HoloFish	567	566_MS2_all_HoloFish_567	C3H4BN3O2	[M + Na]+	Azoles			Azoles	Organoheterocyclic compounds
+568	MS2	all	HoloFish	569	568_MS2_all_HoloFish_569	C26H39N3O9	[M + H]+	N-acyl-alpha amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+570	MS2	all	HoloFish	571	570_MS2_all_HoloFish_571	C18H26N2O	[M + H]+	Phenols			Phenols	Benzenoids
+571	MS2	all	HoloFish	572	571_MS2_all_HoloFish_572	C15H27FN2O2	[M + H]+	Fluorobenzenes	Fluorobenzenes	Halobenzenes	Benzene and substituted derivatives	Benzenoids
+572	MS2	all	HoloFish	573	572_MS2_all_HoloFish_573	C29H35NO4	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+573	MS2	all	HoloFish	574	573_MS2_all_HoloFish_574	C25H31N3O4	[M + H]+	Coumaric acids and derivatives	Coumaric acids and derivatives	Hydroxycinnamic acids and derivatives	Cinnamic acids and derivatives	Phenylpropanoids and polyketides
+576	MS2	all	HoloFish	577	576_MS2_all_HoloFish_577	C13H20O4	[M + H]+	Unsaturated fatty acids	Unsaturated fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+577	MS2	all	HoloFish	578	577_MS2_all_HoloFish_578	C24H37N9O4S	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+579	MS2	all	HoloFish	580	579_MS2_all_HoloFish_580	C15H20O4	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+580	MS2	all	HoloFish	581	580_MS2_all_HoloFish_581	C15H27BN4O3	[M + Na]+	Alpha amino acid amides	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+581	MS2	all	HoloFish	582	581_MS2_all_HoloFish_582	C17H35N7O4S	[M + H]+	Biotin and derivatives			Biotin and derivatives	Organoheterocyclic compounds
+585	MS2	all	HoloFish	586	585_MS2_all_HoloFish_586	C30H39N3O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+586	MS2	all	HoloFish	587	586_MS2_all_HoloFish_587	C16H29BO3	[M + K]+	Monocarboxylic acids and derivatives		Monocarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+590	MS2	all	HoloFish	591	590_MS2_all_HoloFish_591	C19H37NO5S	[M + H]+	Alpha amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+591	MS2	all	HoloFish	592	591_MS2_all_HoloFish_592	C18H35NO5	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+592	MS2	all	HoloFish	593	592_MS2_all_HoloFish_593	C15H26O4	[M + Na]+	Polyols	Polyols	Alcohols and polyols	Organooxygen compounds	Organic oxygen compounds
+593	MS2	all	HoloFish	594	593_MS2_all_HoloFish_594	C31H49N7O10	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+594	MS2	all	HoloFish	595	594_MS2_all_HoloFish_595	C13H21F2N5O2	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+596	MS2	all	HoloFish	597	596_MS2_all_HoloFish_597	C27H44N6O4	[M + K]+	Hydroxysteroids		Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+597	MS2	all	HoloFish	598	597_MS2_all_HoloFish_598	C12H19N	[M + H]+	Phenylalkylamines	Aralkylamines	Amines	Organonitrogen compounds	Organic nitrogen compounds
+598	MS2	all	HoloFish	599	598_MS2_all_HoloFish_599	C43H73N7O10	[M + H]+	"Hydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+599	MS2	all	HoloFish	600	599_MS2_all_HoloFish_600	C32H50N4O10	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+600	MS2	all	HoloFish	601	600_MS2_all_HoloFish_601	C16H28O2	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+601	MS2	all	HoloFish	602	601_MS2_all_HoloFish_602	C32H35N5O2	[M + Na]+	Lipids and lipid-like molecules				Lipids and lipid-like molecules
+602	MS2	all	HoloFish	603	602_MS2_all_HoloFish_603	C5H8Cl2N2	[M + H]+	Azoles			Azoles	Organoheterocyclic compounds
+605	MS2	all	HoloFish	606	605_MS2_all_HoloFish_606	C17H24O3	[M + H]+	Benzenoids				Benzenoids
+607	MS2	all	HoloFish	608	607_MS2_all_HoloFish_608	C5H4N3S	[M + H]+	Azoles			Azoles	Organoheterocyclic compounds
+608	MS2	all	HoloFish	609	608_MS2_all_HoloFish_609	C18H26O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+609	MS2	all	HoloFish	610	609_MS2_all_HoloFish_610	C13H24O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+610	MS2	all	HoloFish	611	610_MS2_all_HoloFish_611	C13H24O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+611	MS2	all	HoloFish	612	611_MS2_all_HoloFish_612	C13H24O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+612	MS2	all	HoloFish	613	612_MS2_all_HoloFish_613	C13H24O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+613	MS2	all	HoloFish	614	613_MS2_all_HoloFish_614	C12H14O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+614	MS2	all	HoloFish	615	614_MS2_all_HoloFish_615	C20H32N2O2	[M + H]+	Alpha amino acid amides	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+615	MS2	all	HoloFish	616	615_MS2_all_HoloFish_616	C33H43N5O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+616	MS2	all	HoloFish	617	616_MS2_all_HoloFish_617	C20H29FN2O4	[M + H]+	Alpha amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+617	MS2	all	HoloFish	618	617_MS2_all_HoloFish_618	C26H25NO2	[M + H]+	Naphthalenes			Naphthalenes	Benzenoids
+618	MS2	all	HoloFish	619	618_MS2_all_HoloFish_619	C18H25N5	[M + H]+	Aminopyrimidines and derivatives	Aminopyrimidines and derivatives	Pyrimidines and pyrimidine derivatives	Diazines	Organoheterocyclic compounds
+619	MS2	all	HoloFish	620	619_MS2_all_HoloFish_620	C14H27N5O6	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+620	MS2	all	HoloFish	621	620_MS2_all_HoloFish_621	C19H37NO5	[M + H]+	Acyl carnitines	Acyl carnitines	Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+621	MS2	all	HoloFish	622	621_MS2_all_HoloFish_622	C3H7Cl2NO	[M + H]+	Secondary carboxylic acid amides	Carboxylic acid amides	Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+622	MS2	all	HoloFish	623	622_MS2_all_HoloFish_623	C10H21NO6	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+623	MS2	all	HoloFish	624	623_MS2_all_HoloFish_624	C32H40N4O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+624	MS2	all	HoloFish	625	624_MS2_all_HoloFish_625	C13H20O4	[M + H]+	Fatty acids and conjugates		Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+625	MS2	all	HoloFish	626	625_MS2_all_HoloFish_626	C14H27N5O6	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+626	MS2	all	HoloFish	627	626_MS2_all_HoloFish_627	C7H16B2N4O2	[M + H]+	Boronic acids		Boronic acids	Boronic acid derivatives	Organic acids and derivatives
+627	MS2	all	HoloFish	628	627_MS2_all_HoloFish_628	C30H37N5O2	[M + Na]+	3-hydroxysteroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+628	MS2	all	HoloFish	629	628_MS2_all_HoloFish_629	C25H35N5O11	[M + H]+	Alpha amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+629	MS2	all	HoloFish	630	629_MS2_all_HoloFish_630	C28H46O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+631	MS2	all	HoloFish	632	631_MS2_all_HoloFish_632	C2H6N4O4	[M + Na]+	Carboxylic acids		Carboxylic acids	Carboxylic acids and derivatives	Organic acids and derivatives
+632	MS2	all	HoloFish	633	632_MS2_all_HoloFish_633	C4H8N3O2P	[M + K]+	Organonitrogen compounds			Organonitrogen compounds	Organic nitrogen compounds
+633	MS2	all	HoloFish	634	633_MS2_all_HoloFish_634	C8H12N6O4	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+634	MS2	all	HoloFish	635	634_MS2_all_HoloFish_635	C6H7Cl2NO2	[M + H]+	Organochlorides			Organochlorides	Organohalogen compounds
+635	MS2	all	HoloFish	636	635_MS2_all_HoloFish_636	C2H3FN2O3S	[M + Na]+	Organosulfonic acids and derivatives		Organosulfonic acids and derivatives	Organic sulfonic acids and derivatives	Organic acids and derivatives
+636	MS2	all	HoloFish	637	636_MS2_all_HoloFish_637	C3H6N2O2S	[M + K]+	Azoles			Azoles	Organoheterocyclic compounds
+637	MS2	all	HoloFish	638	637_MS2_all_HoloFish_638	C4H4F2O2S	[M + Na]+	Sulfonyls			Sulfonyls	Organosulfur compounds
+638	MS2	all	HoloFish	639	638_MS2_all_HoloFish_639	C3H9NO4S	[M + K]+	Alkanesulfonic acids	Alkanesulfonic acids and derivatives	Organosulfonic acids and derivatives	Organic sulfonic acids and derivatives	Organic acids and derivatives
+639	MS2	all	HoloFish	640	639_MS2_all_HoloFish_640	C2H4BNO6	[M + K]+	Boronic acids		Boronic acids	Boronic acid derivatives	Organic acids and derivatives
+640	MS2	all	HoloFish	641	640_MS2_all_HoloFish_641	C3H6N2O2S	[M + K]+	Azoles			Azoles	Organoheterocyclic compounds
+641	MS2	all	HoloFish	642	641_MS2_all_HoloFish_642	C3H9NO4S	[M + K]+	Monoalkylamines	Primary amines	Amines	Organonitrogen compounds	Organic nitrogen compounds
+642	MS2	all	HoloFish	643	642_MS2_all_HoloFish_643	C3H5Cl2N	[M + H]+	Alkyl chlorides		Alkyl chlorides	Alkyl halides	Organohalogen compounds
+643	MS2	all	HoloFish	644	643_MS2_all_HoloFish_644	C4H10NO2PS2	[M + H]+	Carboxylic acid esters	Carboxylic acid esters	Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+644	MS2	all	HoloFish	645	644_MS2_all_HoloFish_645	C5H7ClNO3P	[M + H]+	Organic phosphonic acids and derivatives			Organic phosphonic acids and derivatives	Organic acids and derivatives
+645	MS2	all	HoloFish	646	645_MS2_all_HoloFish_646	C16H23N5O3	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+646	MS2	all	HoloFish	647	646_MS2_all_HoloFish_647	C24H41N3O11	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+647	MS2	all	HoloFish	648	647_MS2_all_HoloFish_648	C31H40N4O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+648	MS2	all	HoloFish	649	648_MS2_all_HoloFish_649	C23H39NO5	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+649	MS2	all	HoloFish	650	649_MS2_all_HoloFish_650	C24H41N3O5	[M + H]+	Histidine and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+651	MS2	all	HoloFish	652	651_MS2_all_HoloFish_652	C23H35N3O7	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+652	MS2	all	HoloFish	653	652_MS2_all_HoloFish_653	C20H35N7O4	[M + H]+	Peptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+653	MS2	all	HoloFish	654	653_MS2_all_HoloFish_654	C31H40N4O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+654	MS2	all	HoloFish	655	654_MS2_all_HoloFish_655	C10H25BO3	[M + Na]+	Straight chain fatty acids	Straight chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+655	MS2	all	HoloFish	656	655_MS2_all_HoloFish_656	C18H28O3	[M + H]+	Fatty acids and conjugates		Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+657	MS2	all	HoloFish	658	657_MS2_all_HoloFish_658	C24H41N3O6	[M + H]+	Histidine and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+658	MS2	all	HoloFish	659	658_MS2_all_HoloFish_659	C29H58N8O14	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+659	MS2	all	HoloFish	660	659_MS2_all_HoloFish_660	C36H68O10	[M + H]+	Very long-chain fatty acids	Very long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+660	MS2	all	HoloFish	661	660_MS2_all_HoloFish_661	C19H32O4	[M + H]+	Prostaglandins and related compounds	Prostaglandins and related compounds	Eicosanoids	Fatty Acyls	Lipids and lipid-like molecules
+661	MS2	all	HoloFish	662	661_MS2_all_HoloFish_662	C22H40N4O5	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+662	MS2	all	HoloFish	663	662_MS2_all_HoloFish_663	C16H27N	[M + H]+	Azacyclic compounds			Azacyclic compounds	Organoheterocyclic compounds
+663	MS2	all	HoloFish	664	663_MS2_all_HoloFish_664	C20H39N3O3S	[M + H]+	Alpha amino acid amides	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+664	MS2	all	HoloFish	665	664_MS2_all_HoloFish_665	C8H9N4O7P	[M + Na]+	Glycosyl compounds	Glycosyl compounds	Carbohydrates and carbohydrate conjugates	Organooxygen compounds	Organic oxygen compounds
+665	MS2	all	HoloFish	666	665_MS2_all_HoloFish_666	C24H38O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+666	MS2	all	HoloFish	667	666_MS2_all_HoloFish_667	C20H29N3O4	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+667	MS2	all	HoloFish	668	667_MS2_all_HoloFish_668	C18H28N6O3	[M + H]+	N-acyl-alpha amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+668	MS2	all	HoloFish	669	668_MS2_all_HoloFish_669	C30H46N4O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+669	MS2	all	HoloFish	670	669_MS2_all_HoloFish_670	C22H32N4O5	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+670	MS2	all	HoloFish	671	670_MS2_all_HoloFish_671	C15H22O4	[M + H]+	Prenol lipids			Prenol lipids	Lipids and lipid-like molecules
+672	MS2	all	HoloFish	673	672_MS2_all_HoloFish_673	C23H42N6O9	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+673	MS2	all	HoloFish	674	673_MS2_all_HoloFish_674	C21H40N8O7S	[M + Na]+	Sulfuric acid monoesters	Sulfuric acid monoesters	Sulfuric acid esters	Organic sulfuric acids and derivatives	Organic acids and derivatives
+674	MS2	all	HoloFish	675	674_MS2_all_HoloFish_675	C29H41NO7S	[M + H]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+675	MS2	all	HoloFish	676	675_MS2_all_HoloFish_676	C24H47N3O14	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+676	MS2	all	HoloFish	677	676_MS2_all_HoloFish_677	C30H40N4O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+677	MS2	all	HoloFish	678	677_MS2_all_HoloFish_678	C24H36N4O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+678	MS2	all	HoloFish	679	678_MS2_all_HoloFish_679	C13H28O4	[M + H]+	Dialkyl ethers	Dialkyl ethers	Ethers	Organooxygen compounds	Organic oxygen compounds
+679	MS2	all	HoloFish	680	679_MS2_all_HoloFish_680	C5H8Cl2N2	[M + H]+	Alkyl chlorides		Alkyl chlorides	Alkyl halides	Organohalogen compounds
+680	MS2	all	HoloFish	681	680_MS2_all_HoloFish_681	C11H18BN2O2	[M + H]+	Boronic acid derivatives			Boronic acid derivatives	Organic acids and derivatives
+681	MS2	all	HoloFish	682	681_MS2_all_HoloFish_682	C16H25B2NO3	[M + H]+	Organic metalloid salts		Organic metalloid salts	Organic metal salts	Organic salts
+682	MS2	all	HoloFish	683	682_MS2_all_HoloFish_683	C27H31NO	[M + H]+	Hydroxysteroids		Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+683	MS2	all	HoloFish	684	683_MS2_all_HoloFish_684	C10H16Cl2O	[M + H]+	Monoterpenoids		Monoterpenoids	Prenol lipids	Lipids and lipid-like molecules
+684	MS2	all	HoloFish	685	684_MS2_all_HoloFish_685	C18H39NO5	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+685	MS2	all	HoloFish	686	685_MS2_all_HoloFish_686	C3H5Cl2N	[M + H]+	Alkyl chlorides		Alkyl chlorides	Alkyl halides	Organohalogen compounds
+686	MS2	all	HoloFish	687	686_MS2_all_HoloFish_687	C20H26N2O4	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+687	MS2	all	HoloFish	688	687_MS2_all_HoloFish_688	C29H35NO4	[M + H]+	3-hydroxy delta-5-steroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+688	MS2	all	HoloFish	689	688_MS2_all_HoloFish_689	C30H33N5O	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+689	MS2	all	HoloFish	690	689_MS2_all_HoloFish_690	C29H41NO7	[M + Na]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+690	MS2	all	HoloFish	691	690_MS2_all_HoloFish_691	C18H28O3	[M + H]+	Prostaglandins and related compounds	Prostaglandins and related compounds	Eicosanoids	Fatty Acyls	Lipids and lipid-like molecules
+691	MS2	all	HoloFish	692	691_MS2_all_HoloFish_692	C3H5Cl2N	[M + H]+	Alkyl chlorides		Alkyl chlorides	Alkyl halides	Organohalogen compounds
+692	MS2	all	HoloFish	693	692_MS2_all_HoloFish_693	C6H6NO5	[M + H]+	C-nitro compounds	C-nitro compounds	Organic nitro compounds	"Allyl-type 1,3-dipolar organic compounds"	"Organic 1,3-dipolar compounds"
+693	MS2	all	HoloFish	694	693_MS2_all_HoloFish_694	C16H25FN4O2	[M + H]+	Aryl fluorides		Aryl fluorides	Aryl halides	Organohalogen compounds
+694	MS2	all	HoloFish	695	694_MS2_all_HoloFish_695	C14H20O2	[M + H]+	Sesquiterpenoids		Sesquiterpenoids	Prenol lipids	Lipids and lipid-like molecules
+695	MS2	all	HoloFish	696	695_MS2_all_HoloFish_696	C30H41NO8	[M + Na]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+697	MS2	all	HoloFish	698	697_MS2_all_HoloFish_698	C10H18O6	[M + Na]+	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+700	MS2	all	HoloFish	701	700_MS2_all_HoloFish_701	C20H26N2O4	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+701	MS2	all	HoloFish	702	701_MS2_all_HoloFish_702	C27H31NO	[M + H]+	Hydroxysteroids		Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+702	MS2	all	HoloFish	703	702_MS2_all_HoloFish_703	C15H29FN2O4	[M + H]+	Amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+705	MS2	all	HoloFish	706	705_MS2_all_HoloFish_706	C14H22B2N2O	[M + Na]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+706	MS2	all	HoloFish	707	706_MS2_all_HoloFish_707	C20H38N4O5	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+707	MS2	all	HoloFish	708	707_MS2_all_HoloFish_708	C18H25BF3NO2	[M + H]+	Benzenoids				Benzenoids
+709	MS2	all	HoloFish	710	709_MS2_all_HoloFish_710	C17H31N7O4	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+710	MS2	all	HoloFish	711	710_MS2_all_HoloFish_711	C9H12N2O6P2	[M + Na]+	Aminopyrimidines and derivatives	Aminopyrimidines and derivatives	Pyrimidines and pyrimidine derivatives	Diazines	Organoheterocyclic compounds
+711	MS2	all	HoloFish	712	711_MS2_all_HoloFish_712	C13H28O4	[M + H]+	Dialkyl ethers	Dialkyl ethers	Ethers	Organooxygen compounds	Organic oxygen compounds
+712	MS2	all	HoloFish	713	712_MS2_all_HoloFish_713	C20H30O4	[M + H]+	Prostaglandins and related compounds	Prostaglandins and related compounds	Eicosanoids	Fatty Acyls	Lipids and lipid-like molecules
+713	MS2	all	HoloFish	714	713_MS2_all_HoloFish_714	C15H24O5	[M + H]+	Prenol lipids			Prenol lipids	Lipids and lipid-like molecules
+714	MS2	all	HoloFish	715	714_MS2_all_HoloFish_715	C11H20O3	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+716	MS2	all	HoloFish	717	716_MS2_all_HoloFish_717	C12H21NO5	[M + H]+	Carboxylic acid derivatives		Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+717	MS2	all	HoloFish	718	717_MS2_all_HoloFish_718	C17H22O6	[M + H]+	Carboxylic acids and derivatives			Carboxylic acids and derivatives	Organic acids and derivatives
+718	MS2	all	HoloFish	719	718_MS2_all_HoloFish_719	C13H16O3	[M + H]+	Anisoles		Anisoles	Phenol ethers	Benzenoids
+721	MS2	all	HoloFish	722	721_MS2_all_HoloFish_722	C4H9FO4S	[M + H]+	Organosulfonic acids and derivatives		Organosulfonic acids and derivatives	Organic sulfonic acids and derivatives	Organic acids and derivatives
+722	MS2	all	HoloFish	723	722_MS2_all_HoloFish_723	C18H32O3	[M + H]+	Lineolic acids and derivatives		Lineolic acids and derivatives	Fatty Acyls	Lipids and lipid-like molecules
+723	MS2	all	HoloFish	724	723_MS2_all_HoloFish_724	C32H42N4O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+724	MS2	all	HoloFish	725	724_MS2_all_HoloFish_725	C9H14O4	[M + Na]+	Enoate esters	Carboxylic acid esters	Carboxylic acid derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+725	MS2	all	HoloFish	726	725_MS2_all_HoloFish_726	C3H6N2O2S	[M + K]+	Azoles			Azoles	Organoheterocyclic compounds
+726	MS2	all	HoloFish	727	726_MS2_all_HoloFish_727	C32H41N5O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+727	MS2	all	HoloFish	728	727_MS2_all_HoloFish_728	C10H19Cl2O3P	[M + K]+	Dialkyl alkylphosphonates	Dialkyl alkylphosphonates	Phosphonic acid diesters	Organic phosphonic acids and derivatives	Organic acids and derivatives
+728	MS2	all	HoloFish	729	728_MS2_all_HoloFish_729	C9H18N3O2	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+729	MS2	all	HoloFish	730	729_MS2_all_HoloFish_730	C13H28O4	[M + H]+	Dialkyl ethers	Dialkyl ethers	Ethers	Organooxygen compounds	Organic oxygen compounds
+730	MS2	all	HoloFish	731	730_MS2_all_HoloFish_731	C14H26O4	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+731	MS2	all	HoloFish	732	731_MS2_all_HoloFish_732	C13H28O4	[M + H]+	Dialkyl ethers	Dialkyl ethers	Ethers	Organooxygen compounds	Organic oxygen compounds
+732	MS2	all	HoloFish	733	732_MS2_all_HoloFish_733	C12H26O5	[M + H]+	Secondary alcohols	Secondary alcohols	Alcohols and polyols	Organooxygen compounds	Organic oxygen compounds
+733	MS2	all	HoloFish	734	733_MS2_all_HoloFish_734	C17H22O6	[M + H]+	Phenol ethers			Phenol ethers	Benzenoids
+734	MS2	all	HoloFish	735	734_MS2_all_HoloFish_735	C16H22N2O5	[M + H]+	Secondary alcohols	Secondary alcohols	Alcohols and polyols	Organooxygen compounds	Organic oxygen compounds
+735	MS2	all	HoloFish	736	735_MS2_all_HoloFish_736	C27H40N2O10	[M + H]+	N-substituted imidazoles	Substituted imidazoles	Imidazoles	Azoles	Organoheterocyclic compounds
+736	MS2	all	HoloFish	737	736_MS2_all_HoloFish_737	C9H16O2	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+737	MS2	all	HoloFish	738	737_MS2_all_HoloFish_738	C9H16O2	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+738	MS2	all	HoloFish	739	738_MS2_all_HoloFish_739	C15H22O2	[M + H]+	Prenol lipids			Prenol lipids	Lipids and lipid-like molecules
+739	MS2	all	HoloFish	740	739_MS2_all_HoloFish_740	C20H35NO6	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+741	MS2	all	HoloFish	742	741_MS2_all_HoloFish_742	C10H14N5O8P	[M + Na]+	Purine ribonucleoside monophosphates	Purine ribonucleoside monophosphates	Purine ribonucleotides	Purine nucleotides	"Nucleosides, nucleotides, and analogues"
+742	MS2	all	HoloFish	743	742_MS2_all_HoloFish_743	C11H17N3O7P2	[M + Na]+	Pyrimidine nucleotides			Pyrimidine nucleotides	"Nucleosides, nucleotides, and analogues"
+743	MS2	all	HoloFish	744	743_MS2_all_HoloFish_744	C20H29NO4	[M + H]+	Phenol ethers			Phenol ethers	Benzenoids
+744	MS2	all	HoloFish	745	744_MS2_all_HoloFish_745	C12H22O4	[M + H]+	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+745	MS2	all	HoloFish	746	745_MS2_all_HoloFish_746	C3H9NO4S	[M + K]+	Monoalkylamines	Primary amines	Amines	Organonitrogen compounds	Organic nitrogen compounds
+746	MS2	all	HoloFish	747	746_MS2_all_HoloFish_747	C22H34O6	[M + H]+	Prostaglandins and related compounds	Prostaglandins and related compounds	Eicosanoids	Fatty Acyls	Lipids and lipid-like molecules
+752	MS2	all	HoloFish	753	752_MS2_all_HoloFish_753	C31H35N5O3	[M + H]+	N-acyl-alpha amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+753	MS2	all	HoloFish	754	753_MS2_all_HoloFish_754	C24H30O6	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+754	MS2	all	HoloFish	755	754_MS2_all_HoloFish_755	C3H3FN4O2	[M + K]+	Azoles			Azoles	Organoheterocyclic compounds
+756	MS2	all	HoloFish	757	756_MS2_all_HoloFish_757	C3H4F3NO	[M + Na]+	Alkyl fluorides		Alkyl fluorides	Alkyl halides	Organohalogen compounds
+757	MS2	all	HoloFish	758	757_MS2_all_HoloFish_758	C22H41FN4O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+758	MS2	all	HoloFish	759	758_MS2_all_HoloFish_759	C6H7Cl2NO2	[M + H]+	Organochlorides			Organochlorides	Organohalogen compounds
+759	MS2	all	HoloFish	760	759_MS2_all_HoloFish_760	C32H42BN3O6	[M + K]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+763	MS2	all	HoloFish	764	763_MS2_all_HoloFish_764	C14H29NO8	[M + H]+	Aminoglycosides	Aminosaccharides	Carbohydrates and carbohydrate conjugates	Organooxygen compounds	Organic oxygen compounds
+766	MS2	all	HoloFish	767	766_MS2_all_HoloFish_767	C18H30N2O3S	[M + H]+	3-alkylindoles	3-alkylindoles	Indoles	Indoles and derivatives	Organoheterocyclic compounds
+767	MS2	all	HoloFish	768	767_MS2_all_HoloFish_768	C33H47N9O9	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+768	MS2	all	HoloFish	769	768_MS2_all_HoloFish_769	C14H29NO8	[M + H]+	Hexoses	Monosaccharides	Carbohydrates and carbohydrate conjugates	Organooxygen compounds	Organic oxygen compounds
+769	MS2	all	HoloFish	770	769_MS2_all_HoloFish_770	C9H16O2	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+770	MS2	all	HoloFish	771	770_MS2_all_HoloFish_771	C14H28O2	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+771	MS2	all	HoloFish	772	771_MS2_all_HoloFish_772	C2H5N2O2S	[M + K]+	Thiadiazoles		Thiadiazoles	Azoles	Organoheterocyclic compounds
+772	MS2	all	HoloFish	773	772_MS2_all_HoloFish_773	C4H4N2O3S	[M + Na]+	Azoles			Azoles	Organoheterocyclic compounds
+773	MS2	all	HoloFish	774	773_MS2_all_HoloFish_774	C3H6BF2O2	[M + Na]+	Boronic acid derivatives			Boronic acid derivatives	Organic acids and derivatives
+774	MS2	all	HoloFish	775	774_MS2_all_HoloFish_775	C34H45N5O3	[M + H]+	3-hydroxysteroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+775	MS2	all	HoloFish	776	775_MS2_all_HoloFish_776	C24H43NO5	[M + H]+	"Trihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+776	MS2	all	HoloFish	777	776_MS2_all_HoloFish_777	C34H45N5O3	[M + H]+	Aminopyrimidines and derivatives	Aminopyrimidines and derivatives	Pyrimidines and pyrimidine derivatives	Diazines	Organoheterocyclic compounds
+778	MS2	all	HoloFish	779	778_MS2_all_HoloFish_779	C3H9NO4S	[M + K]+	Alkanesulfonic acids	Alkanesulfonic acids and derivatives	Organosulfonic acids and derivatives	Organic sulfonic acids and derivatives	Organic acids and derivatives
+779	MS2	all	HoloFish	780	779_MS2_all_HoloFish_780	C3H4BN3O2	[M + Na]+	Azoles			Azoles	Organoheterocyclic compounds
+781	MS2	all	HoloFish	782	781_MS2_all_HoloFish_782	C18H30N2O2S	[M + H]+	Azacyclic compounds			Azacyclic compounds	Organoheterocyclic compounds
+782	MS2	all	HoloFish	783	782_MS2_all_HoloFish_783	C32H40N4O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+783	MS2	all	HoloFish	784	783_MS2_all_HoloFish_784	C17H26O4	[M + H]+	Lineolic acids and derivatives		Lineolic acids and derivatives	Fatty Acyls	Lipids and lipid-like molecules
+784	MS2	all	HoloFish	785	784_MS2_all_HoloFish_785	C20H26O4	[M + H]+	Alkyl aryl ethers	Alkyl aryl ethers	Ethers	Organooxygen compounds	Organic oxygen compounds
+785	MS2	all	HoloFish	786	785_MS2_all_HoloFish_786	C30H39N3O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+787	MS2	all	HoloFish	788	787_MS2_all_HoloFish_788	C18H31ClO3	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+788	MS2	all	HoloFish	789	788_MS2_all_HoloFish_789	C17H31NO5	[M + H]+	Acyl carnitines	Acyl carnitines	Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+792	MS2	all	HoloFish	793	792_MS2_all_HoloFish_793	C39H65N7O10	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+793	MS2	all	HoloFish	794	793_MS2_all_HoloFish_794	C28H46O9	[M + H]+	"Trihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+794	MS2	all	HoloFish	795	794_MS2_all_HoloFish_795	C31H51NO8S	[M + H]+	"Trihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+797	MS2	all	HoloFish	798	797_MS2_all_HoloFish_798	C34H51N3O14	[M + H]+	N-acyl-alpha amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+798	MS2	all	HoloFish	799	798_MS2_all_HoloFish_799	C11H20O2	[M + H]+	Lipids and lipid-like molecules				Lipids and lipid-like molecules
+799	MS2	all	HoloFish	800	799_MS2_all_HoloFish_800	C16H30O4	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+800	MS2	all	HoloFish	801	800_MS2_all_HoloFish_801	C21H39NO5	[M + H]+	Acyl carnitines	Acyl carnitines	Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+801	MS2	all	HoloFish	802	801_MS2_all_HoloFish_802	C8H9N4O7P	[M + Na]+	Purine nucleotides			Purine nucleotides	"Nucleosides, nucleotides, and analogues"
+803	MS2	all	HoloFish	804	803_MS2_all_HoloFish_804	C12H23FO3	[M + H]+	Halogenated fatty acids	Halogenated fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+804	MS2	all	HoloFish	805	804_MS2_all_HoloFish_805	C35H42N8O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+805	MS2	all	HoloFish	806	805_MS2_all_HoloFish_806	C24H44N4O7S	[M + H]+	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+806	MS2	all	HoloFish	807	806_MS2_all_HoloFish_807	C16H27N5O6	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+807	MS2	all	HoloFish	808	807_MS2_all_HoloFish_808	C35H34N4O4	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+809	MS2	all	HoloFish	810	809_MS2_all_HoloFish_810	C14H26O3	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+810	MS2	all	HoloFish	811	810_MS2_all_HoloFish_811	C12H24N3O2	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+811	MS2	all	HoloFish	812	811_MS2_all_HoloFish_812	C23H28N2O3	[M + H]+	Alpha amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+812	MS2	all	HoloFish	813	812_MS2_all_HoloFish_813	C11H21FO3	[M + H]+	Halogenated fatty acids	Halogenated fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+813	MS2	all	HoloFish	814	813_MS2_all_HoloFish_814	C10H21NO6	[M + H]+	Amino fatty acids	Amino fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+814	MS2	all	HoloFish	815	814_MS2_all_HoloFish_815	C11H20FN5O2	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+815	MS2	all	HoloFish	816	815_MS2_all_HoloFish_816	C29H35N5O2	[M + K]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+817	MS2	all	HoloFish	818	817_MS2_all_HoloFish_818	C10H15N3O2	[M + H]+	Alpha amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+818	MS2	all	HoloFish	819	818_MS2_all_HoloFish_819	C12H19BN6O4	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+819	MS2	all	HoloFish	820	819_MS2_all_HoloFish_820	C31H43NO8	[M + Na]+	Phenylalanine and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+820	MS2	all	HoloFish	821	820_MS2_all_HoloFish_821	C20H28N4O5	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+821	MS2	all	HoloFish	822	821_MS2_all_HoloFish_822	C22H41FN4O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+822	MS2	all	HoloFish	823	822_MS2_all_HoloFish_823	C18H26B2N2O3	[M + H]+	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids
+823	MS2	all	HoloFish	824	823_MS2_all_HoloFish_824	C18H36O3	[M + K]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+827	MS2	all	HoloFish	828	827_MS2_all_HoloFish_828	C29H35NO4	[M + H]+	3-hydroxy delta-5-steroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+829	MS2	all	HoloFish	830	829_MS2_all_HoloFish_830	C16H25BN6O4S	[M + H]+	Peptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+830	MS2	all	HoloFish	831	830_MS2_all_HoloFish_831	C3H9NO4S	[M + K]+	Alkanesulfonic acids and derivatives	Alkanesulfonic acids and derivatives	Organosulfonic acids and derivatives	Organic sulfonic acids and derivatives	Organic acids and derivatives
+831	MS2	all	HoloFish	832	831_MS2_all_HoloFish_832	C31H40N6O4	[M + H]+	3-hydroxysteroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+835	MS2	all	HoloFish	836	835_MS2_all_HoloFish_836	C30H35N5O2	[M + H]+	3-beta-hydroxy delta-5-steroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+836	MS2	all	HoloFish	837	836_MS2_all_HoloFish_837	C21H26N2O3	[M + H]+	Amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+837	MS2	all	HoloFish	838	837_MS2_all_HoloFish_838	C30H53N7O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+838	MS2	all	HoloFish	839	838_MS2_all_HoloFish_839	C25H37N5O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+840	MS2	all	HoloFish	841	840_MS2_all_HoloFish_841	C27H47NO11	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+841	MS2	all	HoloFish	842	841_MS2_all_HoloFish_842	C29H37NO4	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+842	MS2	all	HoloFish	843	842_MS2_all_HoloFish_843	C31H39N3O4	[M + H]+	"Dihydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+843	MS2	all	HoloFish	844	843_MS2_all_HoloFish_844	C9H14O	[M + H]+	Carbonyl compounds		Carbonyl compounds	Organooxygen compounds	Organic oxygen compounds
+844	MS2	all	HoloFish	845	844_MS2_all_HoloFish_845	C31H35N5O2	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+845	MS2	all	HoloFish	846	845_MS2_all_HoloFish_846	C9H14O	[M + H]+	Prenol lipids			Prenol lipids	Lipids and lipid-like molecules
+846	MS2	all	HoloFish	847	846_MS2_all_HoloFish_847	C5H8Cl2N2	[M + H]+	Aryl halides			Aryl halides	Organohalogen compounds
+848	MS2	all	HoloFish	849	848_MS2_all_HoloFish_849	C8H9N4O7P	[M + Na]+	Purine nucleotides			Purine nucleotides	"Nucleosides, nucleotides, and analogues"
+849	MS2	all	HoloFish	850	849_MS2_all_HoloFish_850	C24H38O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+850	MS2	all	HoloFish	851	850_MS2_all_HoloFish_851	C13H28O4	[M + H]+	Dialkyl ethers	Dialkyl ethers	Ethers	Organooxygen compounds	Organic oxygen compounds
+852	MS2	all	HoloFish	853	852_MS2_all_HoloFish_853	C13H22BN2O2	[M + H]+	Boronic acids		Boronic acids	Boronic acid derivatives	Organic acids and derivatives
+853	MS2	all	HoloFish	854	853_MS2_all_HoloFish_854	C15H25N	[M + H]+	Pyridines and derivatives			Pyridines and derivatives	Organoheterocyclic compounds
+854	MS2	all	HoloFish	855	854_MS2_all_HoloFish_855	C21H39NO6	[M + H]+	Fatty acid esters		Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+855	MS2	all	HoloFish	856	855_MS2_all_HoloFish_856	C9H18B3N3O3	[M + Na]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+856	MS2	all	HoloFish	857	856_MS2_all_HoloFish_857	C17H29NO5	[M + H]+	N-acyl-alpha amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+857	MS2	all	HoloFish	858	857_MS2_all_HoloFish_858	C16H21N3O2	[M + H]+	Azoles			Azoles	Organoheterocyclic compounds
+858	MS2	all	HoloFish	859	858_MS2_all_HoloFish_859	C10H18O3	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+860	MS2	all	HoloFish	861	860_MS2_all_HoloFish_861	C7H16B2N4O2	[M + H]+	Boronic acids		Boronic acids	Boronic acid derivatives	Organic acids and derivatives
+861	MS2	all	HoloFish	862	861_MS2_all_HoloFish_862	C12H23NO2	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+862	MS2	all	HoloFish	863	862_MS2_all_HoloFish_863	C34H49N7O10	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+863	MS2	all	HoloFish	864	863_MS2_all_HoloFish_864	C7H16B2N4O2	[M + H]+	Boronic acids		Boronic acids	Boronic acid derivatives	Organic acids and derivatives
+864	MS2	all	HoloFish	865	864_MS2_all_HoloFish_865	C15H32N2O5	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+865	MS2	all	HoloFish	866	865_MS2_all_HoloFish_866	C25H41B3O6	[M + H]+	"Hydroxy bile acids, alcohols and derivatives"	"Hydroxy bile acids, alcohols and derivatives"	"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+866	MS2	all	HoloFish	867	866_MS2_all_HoloFish_867	C11H20O2	[M + H]+	Prenol lipids			Prenol lipids	Lipids and lipid-like molecules
+867	MS2	all	HoloFish	868	867_MS2_all_HoloFish_868	C12H23N	[M + H]+	Cyclohexylamines		Cyclohexylamines	Organonitrogen compounds	Organic nitrogen compounds
+868	MS2	all	HoloFish	869	868_MS2_all_HoloFish_869	C10H20N2O	[M + Na]+	Organonitrogen compounds			Organonitrogen compounds	Organic nitrogen compounds
+869	MS2	all	HoloFish	870	869_MS2_all_HoloFish_870	C30H37N5O2	[M + H]+	Alpha amino acid amides	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+870	MS2	all	HoloFish	871	870_MS2_all_HoloFish_871	C9H16O2	[M + H]+	Medium-chain aldehydes	Aldehydes	Carbonyl compounds	Organooxygen compounds	Organic oxygen compounds
+871	MS2	all	HoloFish	872	871_MS2_all_HoloFish_872	C10H12N3O3	[M + H]+	Benzoic acids and derivatives		Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+872	MS2	all	HoloFish	873	872_MS2_all_HoloFish_873	C9H16O3	[M + H]+	Fatty acids and conjugates		Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+873	MS2	all	HoloFish	874	873_MS2_all_HoloFish_874	C16H30O4	[M + H]+	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+874	MS2	all	HoloFish	875	874_MS2_all_HoloFish_875	C33H39NO8	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+875	MS2	all	HoloFish	876	875_MS2_all_HoloFish_876	C24H38O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+876	MS2	all	HoloFish	877	876_MS2_all_HoloFish_877	C36H54N10O11	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+877	MS2	all	HoloFish	878	877_MS2_all_HoloFish_878	C20H34N4O8	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+879	MS2	all	HoloFish	880	879_MS2_all_HoloFish_880	C21H32N2O7	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+880	MS2	all	HoloFish	881	880_MS2_all_HoloFish_881	C24H36N4O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+881	MS2	all	HoloFish	882	881_MS2_all_HoloFish_882	C21H40N2O4	[M + Na]+	N-acyl-L-glutamines	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+882	MS2	all	HoloFish	883	882_MS2_all_HoloFish_883	C16H22O4	[M + H]+	Benzoic acid esters	Benzoic acid esters	Benzoic acids and derivatives	Benzene and substituted derivatives	Benzenoids
+883	MS2	all	HoloFish	884	883_MS2_all_HoloFish_884	C9H14O2	[M + H]+	"Alpha,beta-unsaturated carbonyl compounds"	"Alpha,beta-unsaturated carbonyl compounds"	Carbonyl compounds	Organooxygen compounds	Organic oxygen compounds
+884	MS2	all	HoloFish	885	884_MS2_all_HoloFish_885	C14H28O2	[M + H]+	Fatty Acyls			Fatty Acyls	Lipids and lipid-like molecules
+885	MS2	all	HoloFish	886	885_MS2_all_HoloFish_886	C9H12N2O6P2	[M + Na]+	Aminopyrimidines and derivatives	Aminopyrimidines and derivatives	Pyrimidines and pyrimidine derivatives	Diazines	Organoheterocyclic compounds
+887	MS2	all	HoloFish	888	887_MS2_all_HoloFish_888	C17H31NO4	[M + H]+	Acyl carnitines	Acyl carnitines	Fatty acid esters	Fatty Acyls	Lipids and lipid-like molecules
+888	MS2	all	HoloFish	889	888_MS2_all_HoloFish_889	C14H20O3	[M + H]+	Phenol ethers			Phenol ethers	Benzenoids
+889	MS2	all	HoloFish	890	889_MS2_all_HoloFish_890	C12H25N3O3	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+890	MS2	all	HoloFish	891	890_MS2_all_HoloFish_891	C12H25N5O3	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+892	MS2	all	HoloFish	893	892_MS2_all_HoloFish_893	C21H35NO5	[M + H]+	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+894	MS2	all	HoloFish	895	894_MS2_all_HoloFish_895	C26H40N4O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+895	MS2	all	HoloFish	896	895_MS2_all_HoloFish_896	C16H20O4	[M + H]+	Lactones			Lactones	Organoheterocyclic compounds
+896	MS2	all	HoloFish	897	896_MS2_all_HoloFish_897	C13H21N	[M + H]+	Pyridines and derivatives			Pyridines and derivatives	Organoheterocyclic compounds
+897	MS2	all	HoloFish	898	897_MS2_all_HoloFish_898	C3H6N2O2S	[M + K]+	Azoles			Azoles	Organoheterocyclic compounds
+898	MS2	all	HoloFish	899	898_MS2_all_HoloFish_899	C5H7N3OS	[M + K]+	Thiadiazoles		Thiadiazoles	Azoles	Organoheterocyclic compounds
+903	MS2	all	HoloFish	904	903_MS2_all_HoloFish_904	C9H16O3	[M + H]+	Secondary alcohols	Secondary alcohols	Alcohols and polyols	Organooxygen compounds	Organic oxygen compounds
+905	MS2	all	HoloFish	906	905_MS2_all_HoloFish_906	C30H37N5O2	[M + H]+	Aminopyrimidines and derivatives	Aminopyrimidines and derivatives	Pyrimidines and pyrimidine derivatives	Diazines	Organoheterocyclic compounds
+906	MS2	all	HoloFish	907	906_MS2_all_HoloFish_907	C26H37N5O9	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+907	MS2	all	HoloFish	908	907_MS2_all_HoloFish_908	C18H28O3	[M + H]+	Lineolic acids and derivatives		Lineolic acids and derivatives	Fatty Acyls	Lipids and lipid-like molecules
+908	MS2	all	HoloFish	909	908_MS2_all_HoloFish_909	C18H28O3	[M + H]+	Lineolic acids and derivatives		Lineolic acids and derivatives	Fatty Acyls	Lipids and lipid-like molecules
+909	MS2	all	HoloFish	910	909_MS2_all_HoloFish_910	C19H26O4	[M + H]+	Diterpenoids		Diterpenoids	Prenol lipids	Lipids and lipid-like molecules
+910	MS2	all	HoloFish	911	910_MS2_all_HoloFish_911	C21H40N4O5	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+911	MS2	all	HoloFish	912	911_MS2_all_HoloFish_912	C13H28O4	[M + H]+	Dialkyl ethers	Dialkyl ethers	Ethers	Organooxygen compounds	Organic oxygen compounds
+912	MS2	all	HoloFish	913	912_MS2_all_HoloFish_913	C7H16BN2O3	[M + H]+	Alpha amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+913	MS2	all	HoloFish	914	913_MS2_all_HoloFish_914	C24H34O2	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+914	MS2	all	HoloFish	915	914_MS2_all_HoloFish_915	C25H45NO6	[M + H]+	Glycosphingolipids		Glycosphingolipids	Sphingolipids	Lipids and lipid-like molecules
+915	MS2	all	HoloFish	916	915_MS2_all_HoloFish_916	C16H26O2	[M + H]+	Monocarboxylic acids and derivatives		Monocarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+916	MS2	all	HoloFish	917	916_MS2_all_HoloFish_917	C24H41N3O6	[M + H]+	Histidine and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+918	MS2	all	HoloFish	919	918_MS2_all_HoloFish_919	C18H30NO3P	[M + H]+	Phenylpropanes		Phenylpropanes	Benzene and substituted derivatives	Benzenoids
+919	MS2	all	HoloFish	920	919_MS2_all_HoloFish_920	C25H35N5O11	[M + H]+	Alpha amino acids and derivatives	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+920	MS2	all	HoloFish	921	920_MS2_all_HoloFish_921	C19H35NO6S	[M + H]+	N-acyl-alpha amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+921	MS2	all	HoloFish	922	921_MS2_all_HoloFish_922	C19H29N3OS	[M + H]+	Benzenoids				Benzenoids
+922	MS2	all	HoloFish	923	922_MS2_all_HoloFish_923	C12H25N5O4	[M + Na]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+923	MS2	all	HoloFish	924	923_MS2_all_HoloFish_924	C3H6BF2O2	[M + Na]+	Boronic acid derivatives			Boronic acid derivatives	Organic acids and derivatives
+924	MS2	all	HoloFish	925	924_MS2_all_HoloFish_925	C11H20F2N4O2	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+925	MS2	all	HoloFish	926	925_MS2_all_HoloFish_926	C15H21BN2O3	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+926	MS2	all	HoloFish	927	926_MS2_all_HoloFish_927	C12H18O4	[M + H]+	Secondary alcohols	Secondary alcohols	Alcohols and polyols	Organooxygen compounds	Organic oxygen compounds
+927	MS2	all	HoloFish	928	927_MS2_all_HoloFish_928	C21H37N5O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+928	MS2	all	HoloFish	929	928_MS2_all_HoloFish_929	C38H57N7O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+929	MS2	all	HoloFish	930	929_MS2_all_HoloFish_930	C8H15N2O2	[M + H]+	Alpha amino acid amides	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+930	MS2	all	HoloFish	931	930_MS2_all_HoloFish_931	C40H48N4O7	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+931	MS2	all	HoloFish	932	931_MS2_all_HoloFish_932	C8H14BN3O	[M + H]+	Boronic acids		Boronic acids	Boronic acid derivatives	Organic acids and derivatives
+932	MS2	all	HoloFish	933	932_MS2_all_HoloFish_933	C17H34N10O4	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+933	MS2	all	HoloFish	934	933_MS2_all_HoloFish_934	C27H49NO11	[M + H]+	O-glucuronides	Sugar acids and derivatives	Carbohydrates and carbohydrate conjugates	Organooxygen compounds	Organic oxygen compounds
+934	MS2	all	HoloFish	935	934_MS2_all_HoloFish_935	C13H20O4	[M + H]+	Unsaturated fatty acids	Unsaturated fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+935	MS2	all	HoloFish	936	935_MS2_all_HoloFish_936	C24H38N8O8	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+937	MS2	all	HoloFish	938	937_MS2_all_HoloFish_938	C8H9N4O7P	[M + Na]+	Purines and purine derivatives		Purines and purine derivatives	Imidazopyrimidines	Organoheterocyclic compounds
+938	MS2	all	HoloFish	939	938_MS2_all_HoloFish_939	C12H18O4	[M + H]+	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+939	MS2	all	HoloFish	940	939_MS2_all_HoloFish_940	C13H28O4	[M + H]+	Dialkyl ethers	Dialkyl ethers	Ethers	Organooxygen compounds	Organic oxygen compounds
+940	MS2	all	HoloFish	941	940_MS2_all_HoloFish_941	C18H29N7O6	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+943	MS2	all	HoloFish	944	943_MS2_all_HoloFish_944	C16H24N6O5	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+944	MS2	all	HoloFish	945	944_MS2_all_HoloFish_945	C34H55N7O9S2	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+945	MS2	all	HoloFish	946	945_MS2_all_HoloFish_946	C16H24O5	[M + H]+	Prostaglandins and related compounds	Prostaglandins and related compounds	Eicosanoids	Fatty Acyls	Lipids and lipid-like molecules
+946	MS2	all	HoloFish	947	946_MS2_all_HoloFish_947	C18H30O3	[M + H]+	Lineolic acids and derivatives		Lineolic acids and derivatives	Fatty Acyls	Lipids and lipid-like molecules
+947	MS2	all	HoloFish	948	947_MS2_all_HoloFish_948	C15H29NO5	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+948	MS2	all	HoloFish	949	948_MS2_all_HoloFish_949	C23H36N2O2	[M + K]+	Lipids and lipid-like molecules				Lipids and lipid-like molecules
+949	MS2	all	HoloFish	950	949_MS2_all_HoloFish_950	C30H35N5O	[M + H]+	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids and lipid-like molecules
+950	MS2	all	HoloFish	951	950_MS2_all_HoloFish_951	C30H35N5O2	[M + H]+	3-beta-hydroxy delta-5-steroids	3-hydroxysteroids	Hydroxysteroids	Steroids and steroid derivatives	Lipids and lipid-like molecules
+951	MS2	all	HoloFish	952	951_MS2_all_HoloFish_952	C15H23BN2O	[M + H]+	Alpha amino acid amides	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+952	MS2	all	HoloFish	953	952_MS2_all_HoloFish_953	C20H26N4O5	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+953	MS2	all	HoloFish	954	953_MS2_all_HoloFish_954	C29H37NO4	[M + H]+	"Bile acids, alcohols and derivatives"		"Bile acids, alcohols and derivatives"	Steroids and steroid derivatives	Lipids and lipid-like molecules
+954	MS2	all	HoloFish	955	954_MS2_all_HoloFish_955	C13H22F2N6O2	[M + H]+	Alpha amino acid amides	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+955	MS2	all	HoloFish	956	955_MS2_all_HoloFish_956	C16H32O4	[M + H]+	Long-chain fatty acids	Long-chain fatty acids	Fatty acids and conjugates	Fatty Acyls	Lipids and lipid-like molecules
+956	MS2	all	HoloFish	957	956_MS2_all_HoloFish_957	C22H32O4	[M + H]+	Eicosanoids		Eicosanoids	Fatty Acyls	Lipids and lipid-like molecules
+957	MS2	all	HoloFish	958	957_MS2_all_HoloFish_958	C20H28O5	[M + H]+	Diterpenoids		Diterpenoids	Prenol lipids	Lipids and lipid-like molecules
+958	MS2	all	HoloFish	959	958_MS2_all_HoloFish_959	C8H12O6	[M + H]+	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Carboxylic acids and derivatives	Organic acids and derivatives
+959	MS2	all	HoloFish	960	959_MS2_all_HoloFish_960	C17H35N3O4S	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+960	MS2	all	HoloFish	961	960_MS2_all_HoloFish_961	C27H43NO7	[M + H]+	Prostaglandins and related compounds	Prostaglandins and related compounds	Eicosanoids	Fatty Acyls	Lipids and lipid-like molecules
+961	MS2	all	HoloFish	962	961_MS2_all_HoloFish_962	C16H25N9O4	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+962	MS2	all	HoloFish	963	962_MS2_all_HoloFish_963	C31H35N5O3	[M + H]+	N-acyl-alpha amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+963	MS2	all	HoloFish	964	963_MS2_all_HoloFish_964	C5H8Cl2N2	[M + H]+	Alkyl chlorides		Alkyl chlorides	Alkyl halides	Organohalogen compounds
+964	MS2	all	HoloFish	965	964_MS2_all_HoloFish_965	C17H26O4	[M + H]+	Secondary alcohols	Secondary alcohols	Alcohols and polyols	Organooxygen compounds	Organic oxygen compounds
+965	MS2	all	HoloFish	966	965_MS2_all_HoloFish_966	C43H58N6O9	[M + H]+	Oligopeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+966	MS2	all	HoloFish	967	966_MS2_all_HoloFish_967	C14H22N2O4	[M + H]+	Dipeptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+967	MS2	all	HoloFish	968	967_MS2_all_HoloFish_968	C34H43N5O8	[M + H]+	Peptides	Peptides	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+968	MS2	all	HoloFish	969	968_MS2_all_HoloFish_969	C15H25NO2S	[M + H]+	Amino acids	Amino acids and derivatives	"Amino acids, peptides, and analogues"	Carboxylic acids and derivatives	Organic acids and derivatives
+969	MS2	all	HoloFish	970	969_MS2_all_HoloFish_970	C16H33NO3	[M + H]+	N-acyl amines	N-acyl amines	Fatty amides	Fatty Acyls	Lipids and lipid-like molecules

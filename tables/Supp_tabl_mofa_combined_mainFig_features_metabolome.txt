@@ -1,0 +1,342 @@
+feature	value	factor	R1.superclass	R2.class	R3.subclass	R4.level5	R5.specific	top.anno	anno.figure	robust
+FT_101	-0.430764921373535	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives		Bile acids, alcohols and derivatives	Lipids		Yes
+FT_103	-0.25756923811596	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Organic.acids		No
+FT_111	-0.673581391133598	Factor3	NA	NA	NA	NA	NA	unknown		Yes
+FT_114	-0.960430366460514	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_118	-1.03936191500183	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	Lipids	bile.acids	Yes
+FT_119	-1.06366546964128	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_127	-0.282851417979912	Factor1	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols		Alcohols and polyols	Oxygens		No
+FT_13	-0.506979787930877	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	Lipids	bile.acids	Yes
+FT_134	-0.206357493342112	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Trihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	No
+FT_134	-0.966993552603629	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Trihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_138	-0.416470321438919	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_141	-0.868162134345209	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_143	-0.905535332995281	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_148	-0.211475818811082	Factor1	Organoheterocyclic compounds	Oxanes			Oxanes	Organoheterocyclics		Yes
+FT_148	-0.415848624353728	Factor3	Organoheterocyclic compounds	Oxanes			Oxanes	Organoheterocyclics		Yes
+FT_152	-0.70923756798325	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Monohydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_153	0.344811026061883	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters		Fatty acid esters	Lipids		Yes
+FT_156	-0.877604821405446	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Trihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_158	-0.875983027220141	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_159	-0.243828110583103	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids		Yes
+FT_160	0.251035402377226	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Acyl carnitines	Acyl carnitines	Lipids	acyl.carnitines	Yes
+FT_161	0.396774926648146	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_162	0.522889536642778	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_163	0.218939673607843	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_164	0.257913082934904	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_166	0.470777806791884	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	Long-chain fatty acids	Lipids		Yes
+FT_169	0.530234777007	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_173	0.421395033298968	Factor1	Lipids and lipid-like molecules	Fatty Acyls			Fatty Acyls	Lipids		Yes
+FT_176	0.407058723187961	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Acyl carnitines	Acyl carnitines	Lipids	acyl.carnitines	Yes
+FT_181	0.51971771027563	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_187	0.453382400101705	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides	N-acyl amines	N-acyl amines	Lipids		Yes
+FT_188	0.596434741756512	Factor1	Organoheterocyclic compounds	Biotin and derivatives			Biotin and derivatives	Organoheterocyclics		Yes
+FT_194	0.530898360698151	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives		Dicarboxylic acids and derivatives	Organic.acids		Yes
+FT_199	0.31938955862146	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Delta-5-steroids		Delta-5-steroids	Lipids		Yes
+FT_200	-0.250586997974904	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	Lipids	bile.acids	No
+FT_201	-0.416765822479081	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	3-hydroxysteroids	3-hydroxysteroids	Lipids	hydroxysteroids	Yes
+FT_204	-0.490776418831829	Factor1	Benzenoids	Benzene and substituted derivatives			Benzene and substituted derivatives	Benzenoids		Yes
+FT_21	-0.848892309474059	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_210	-0.358702696185464	Factor1	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds		Carbonyl compounds	Oxygens		Yes
+FT_212	-0.69688601276997	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Trihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_214	0.543468578405751	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_218	0.951211178016479	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters		Fatty acid esters	Lipids		Yes
+FT_220	1.1452312902576	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_225	0.802016975678843	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_226	0.991649783419991	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_228	0.24099413924617	Factor1	Organoheterocyclic compounds	Pyridines and derivatives			Pyridines and derivatives	Organoheterocyclics		Yes
+FT_230	0.402323744679643	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_231	0.395854698420562	Factor1	Lipids and lipid-like molecules				Lipids and lipid-like molecules	Lipids		Yes
+FT_240	0.813317605734045	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_241	0.393399632487292	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_241	-0.227876968161582	Factor7	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		No
+FT_242	0.558169348733419	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_244	0.570862802766082	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_246	0.360259712909029	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	Long-chain fatty acids	Lipids		No
+FT_247	-0.204018806862819	Factor1	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Primary alcohols	Primary alcohols	Oxygens		No
+FT_248	0.292384471208845	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_249	0.833176077831182	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_252	0.601084167638766	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	N-acyl-L-glutamines	Organic.acids	amino.acids	Yes
+FT_253	-0.759655358787761	Factor1	Lipids and lipid-like molecules				Lipids and lipid-like molecules	Lipids		Yes
+FT_254	-0.336241399466359	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Monocarboxylic acids and derivatives		Monocarboxylic acids and derivatives	Organic.acids		Yes
+FT_256	0.265662926292141	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_259	0.322794074313592	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	Long-chain fatty acids	Lipids		No
+FT_260	0.726139137278661	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_261	0.835955777991377	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Amino acids and derivatives	Organic.acids	amino.acids	Yes
+FT_264	-0.421448245884968	Factor1	Organoheterocyclic compounds	Azoles	Imidazoles		Imidazoles	Organoheterocyclics		Yes
+FT_265	0.591912748697726	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_267	1.00349062345094	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_268	1.04844177322556	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_269	1.06933264898199	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Histidine and derivatives	Organic.acids	amino.acids	Yes
+FT_27	-0.576840772335282	Factor1	Organoheterocyclic compounds	Azoles	Thiadiazoles		Thiadiazoles	Organoheterocyclics		Yes
+FT_270	1.14530433884315	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_271	1.13312339980925	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_272	0.273827585069983	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids		No
+FT_273	0.244920453795356	Factor1	Organoheterocyclic compounds	Pyridines and derivatives			Pyridines and derivatives	Organoheterocyclics		Yes
+FT_274	0.757945737556826	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_275	0.933871030706747	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters		Fatty acid esters	Lipids		Yes
+FT_276	0.696008135399869	Factor1	Organic nitrogen compounds	Organonitrogen compounds	Amines	Alkanolamines	1,2-aminoalcohols	Nitrogens		Yes
+FT_277	0.638701207972791	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_279	1.02964542013391	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_280	1.03793645145174	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_281	0.843569173429991	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_282	0.86840699868397	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_283	0.752759857398549	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_284	0.962110683289497	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_285	1.06541312350032	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_286	-0.495558147019733	Factor3	NA	NA	NA	NA	NA	unknown		Yes
+FT_286	0.551553294297322	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_287	0.481858098187078	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_289	0.394595191291471	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_292	0.303327077365927	Factor1	Organic nitrogen compounds	Organonitrogen compounds			Organonitrogen compounds	Nitrogens		Yes
+FT_293	0.929232512358183	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Amino acids	Organic.acids	amino.acids	Yes
+FT_295	0.70687499155895	Factor1	Benzenoids	Benzene and substituted derivatives	Halobenzenes	Fluorobenzenes	Fluorobenzenes	Benzenoids		Yes
+FT_297	0.640690741818259	Factor1	Alkaloids and derivatives				Alkaloids and derivatives	rare.other		Yes
+FT_3	-1.17262638171286	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_30	-0.56698224029005	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Amino acids and derivatives	Organic.acids	amino.acids	Yes
+FT_301	-0.30946292209713	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids		Hydroxysteroids	Lipids		Yes
+FT_306	0.381258894349977	Factor1	Organic acids and derivatives	Borinic acid derivatives	Borinic acid esters		Borinic acid esters	Organic.acids		Yes
+FT_311	0.304034217489017	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		No
+FT_313	-0.20093104331613	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_314	0.339151862753681	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_315	0.396718393052477	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	N-acyl-L-alpha-amino acids	Organic.acids	amino.acids	Yes
+FT_316	-0.720486941520659	Factor1	Lipids and lipid-like molecules				Lipids and lipid-like molecules	Lipids		Yes
+FT_317	0.276294470253696	Factor1	Organic nitrogen compounds	Organonitrogen compounds			Organonitrogen compounds	Nitrogens		Yes
+FT_318	0.353903086692877	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_320	0.741899410675215	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_321	-0.241627552810783	Factor1	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Aminopyrimidines and derivatives	Aminopyrimidines and derivatives	Organoheterocyclics		No
+FT_322	-0.737323905371184	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_326	0.293843345661497	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_327	-0.678351213303125	Factor1	Lipids and lipid-like molecules				Lipids and lipid-like molecules	Lipids		Yes
+FT_329	0.254221283344527	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		No
+FT_330	-0.303201836953562	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Amino acids and derivatives	Organic.acids	amino.acids	No
+FT_331	-0.864862517987753	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives		Bile acids, alcohols and derivatives	Lipids		Yes
+FT_332	0.802886526849251	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_333	-1.04569191313091	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives		Bile acids, alcohols and derivatives	Lipids		Yes
+FT_340	-0.390706707781253	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_344	-0.690311079743636	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_344	-0.220440622141964	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	No
+FT_35	-0.305671795164023	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	Lipids	bile.acids	Yes
+FT_350	1.01409978317244	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_352	0.475807624972137	Factor1	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols	Secondary alcohols	Oxygens		Yes
+FT_353	0.582784470601121	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_355	0.454855473477234	Factor1	Organoheterocyclic compounds	Heteroaromatic compounds			Heteroaromatic compounds	Organoheterocyclics		Yes
+FT_356	0.34733741153821	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Amino acids	Organic.acids	amino.acids	No
+FT_357	0.45114421626385	Factor1	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols	Secondary alcohols	Oxygens		Yes
+FT_358	0.632348140340831	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_360	0.81024218159268	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_363	-0.203907108532482	Factor1	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Aminosaccharides	Aminocyclitol glycosides	Oxygens		No
+FT_369	0.218542396147433	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_370	-0.318490592997648	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_372	0.726919985427875	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_373	-0.697864440858995	Factor1	Benzenoids	Phenols			Phenols	Benzenoids		Yes
+FT_374	-0.357910996077767	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_376	0.206197134748215	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_379	0.846621875890708	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	N-acyl-alpha amino acids and derivatives	Organic.acids	amino.acids	Yes
+FT_382	-0.39035017536284	Factor1	Organic nitrogen compounds	Organonitrogen compounds	Amines	Primary amines	Monoalkylamines	Nitrogens		Yes
+FT_383	0.519961229879101	Factor1	Benzenoids	Benzene and substituted derivatives	Halobenzenes	Fluorobenzenes	Fluorobenzenes	Benzenoids		Yes
+FT_386	0.477266800912792	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Glutamic acid and derivatives	Organic.acids	amino.acids	Yes
+FT_393	-0.253487149141228	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_395	0.396494488760643	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Glutamic acid and derivatives	Organic.acids	amino.acids	Yes
+FT_397	-0.420249590463548	Factor1	Organohalogen compounds	Aryl halides	Aryl fluorides		Aryl fluorides	Organohalogens		Yes
+FT_398	0.53469585673876	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_40	-0.584438435466659	Factor1	Organoheterocyclic compounds	Azoles			Azoles	Organoheterocyclics		Yes
+FT_401	0.291712858247652	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_404	0.915393467141157	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Acyl carnitines	Acyl carnitines	Lipids	acyl.carnitines	Yes
+FT_409	0.389329436287033	Factor1	Organoheterocyclic compounds	Pyridines and derivatives			Pyridines and derivatives	Organoheterocyclics		Yes
+FT_411	0.65527943888394	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_412	0.610097979569105	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_414	0.631894762902088	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_415	-0.751879814627117	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_417	-0.29753447558232	Factor1	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Aminosaccharides	Aminocyclitol glycosides	Oxygens		Yes
+FT_418	0.611257373306286	Factor1	Lipids and lipid-like molecules	Glycerolipids	Glycosylglycerols		Glycosylglycerols	Lipids		Yes
+FT_419	0.896127171342316	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_42	-0.595431463842857	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_421	-0.260956979889701	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	Lipids	bile.acids	Yes
+FT_423	-0.731349043165099	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	3-hydroxysteroids	3-beta-hydroxy delta-5-steroids	Lipids	hydroxysteroids	Yes
+FT_426	0.294079597591037	Factor1	Organic nitrogen compounds	Organonitrogen compounds	Amines	Aralkylamines	Phenylalkylamines	Nitrogens		Yes
+FT_43	-0.205598651853326	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives		Bile acids, alcohols and derivatives	Lipids		Yes
+FT_432	-0.358152402507844	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_433	0.225226612072228	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_434	-0.212008696943904	Factor1	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	O-glycosyl compounds	Oxygens		No
+FT_435	-0.740508324869564	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	Lipids	bile.acids	Yes
+FT_435	-0.287138150951555	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	Lipids	bile.acids	No
+FT_436	-0.343935168143988	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Trihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_441	0.233279850740743	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_444	0.590732111560035	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	N-acyl-alpha amino acids and derivatives	Organic.acids	amino.acids	Yes
+FT_445	-0.283265873899203	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	3-hydroxysteroids	3-beta-hydroxy delta-5-steroids	Lipids	hydroxysteroids	Yes
+FT_446	0.422004677519517	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids	Prostaglandins and related compounds	Prostaglandins and related compounds	Lipids		Yes
+FT_447	-0.298738822145301	Factor1	Organoheterocyclic compounds	Indoles and derivatives	Indoles	3-alkylindoles	3-alkylindoles	Organoheterocyclics		No
+FT_45	-0.824982740764971	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	Lipids	bile.acids	Yes
+FT_452	0.83787875814834	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_453	0.802314449769247	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_454	0.734471943465679	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		No
+FT_455	0.778503028824596	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_456	0.826011195170493	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_457	0.217144290883285	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		No
+FT_458	0.786605244235472	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_46	-0.270431548681548	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	3-hydroxysteroids	3-beta-hydroxy delta-5-steroids	Lipids	hydroxysteroids	Yes
+FT_462	0.618811237290041	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_475	-0.603151805173224	Factor3	NA	NA	NA	NA	NA	unknown		Yes
+FT_476	0.348994126486551	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_477	0.339017403514679	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	Long-chain fatty acids	Lipids		Yes
+FT_479	0.577987147714486	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_482	0.369855165842191	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_484	0.594239960970061	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_489	-0.474255172372644	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_490	0.856115005668019	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Amino acids	Organic.acids	amino.acids	Yes
+FT_492	-0.26346916692302	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Amino acids	Organic.acids	amino.acids	Yes
+FT_495	-0.363125663698538	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_496	-0.889055249744398	Factor3	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids		Triterpenoids	Lipids		Yes
+FT_497	-0.90079119032885	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_499	-0.609330673824786	Factor3	Lipids and lipid-like molecules				Lipids and lipid-like molecules	Lipids		Yes
+FT_501	-0.275811448537575	Factor1	Organic acids and derivatives	Boronic acid derivatives			Boronic acid derivatives	Organic.acids		Yes
+FT_502	0.415889311375329	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_508	-0.32834539818296	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	N-acyl-alpha amino acids and derivatives	Organic.acids	amino.acids	Yes
+FT_513	-0.967704751690907	Factor3	NA	NA	NA	NA	NA	unknown		Yes
+FT_517	-0.221518912615317	Factor1	Lipids and lipid-like molecules	Prenol lipids			Prenol lipids	Lipids		Yes
+FT_521	0.234797901132143	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_523	0.806441981831659	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters		Fatty acid esters	Lipids		Yes
+FT_524	0.364510737065789	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	N-acyl-alpha amino acids	Organic.acids	amino.acids	Yes
+FT_525	0.607284308742605	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_529	0.385235239244345	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_53	-0.381286220177504	Factor1	Organic acids and derivatives	Boronic acid derivatives	Boronic acids		Boronic acids	Organic.acids		Yes
+FT_532	0.260502902955643	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Peptides	Organic.acids		Yes
+FT_534	0.543652559490765	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters		Fatty acid esters	Lipids		Yes
+FT_535	0.516894379890754	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_541	-0.245275112466067	Factor1	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Pyrimidones	Pyrimidones	Organoheterocyclics		Yes
+FT_543	-0.52724477789921	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives		Bile acids, alcohols and derivatives	Lipids		Yes
+FT_544	0.394698851753098	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_546	-0.21280011471343	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Acyl carnitines	Acyl carnitines	Lipids	acyl.carnitines	No
+FT_553	0.692776226577894	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_557	-0.515526677640814	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_559	-0.331675990079789	Factor1	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Aldehydes	Aryl-aldehydes	Oxygens		Yes
+FT_564	-0.434990564267493	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_565	-0.570376682772325	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids		Hydroxysteroids	Lipids		Yes
+FT_566	0.215689646732442	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	N-acyl-alpha amino acids	Organic.acids	amino.acids	Yes
+FT_567	-0.212529184285809	Factor1	Organoheterocyclic compounds	Azoles			Azoles	Organoheterocyclics		Yes
+FT_568	0.663712380034407	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_569	-0.348578354631728	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	N-acyl-alpha amino acids and derivatives	Organic.acids	amino.acids	Yes
+FT_571	-0.503289154940874	Factor1	Benzenoids	Phenols			Phenols	Benzenoids		Yes
+FT_572	-0.29913454427832	Factor1	Benzenoids	Benzene and substituted derivatives	Halobenzenes	Fluorobenzenes	Fluorobenzenes	Benzenoids		No
+FT_573	-0.439707870317289	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids		Yes
+FT_574	0.501811077202141	Factor1	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Coumaric acids and derivatives	Coumaric acids and derivatives	rare.other		Yes
+FT_578	0.349229474003966	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_582	0.544942361280903	Factor1	Organoheterocyclic compounds	Biotin and derivatives			Biotin and derivatives	Organoheterocyclics		Yes
+FT_584	0.519807288659781	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_585	1.02549077590308	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_586	0.575307591124781	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_590	0.626454759060948	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_594	0.221775204439022	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_596	-0.587932774895025	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_597	-0.244940826149347	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids		Hydroxysteroids	Lipids		Yes
+FT_598	0.324081620131294	Factor1	Organic nitrogen compounds	Organonitrogen compounds	Amines	Aralkylamines	Phenylalkylamines	Nitrogens		Yes
+FT_6	-0.66078630279213	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_600	0.754154291542895	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		No
+FT_602	-0.507500099377699	Factor1	Lipids and lipid-like molecules				Lipids and lipid-like molecules	Lipids		Yes
+FT_61	-0.453960167406642	Factor1	Organic 1,3-dipolar compounds	Allyl-type 1,3-dipolar organic compounds	Organic nitro compounds	C-nitro compounds	Nitroaromatic compounds	rare.other		Yes
+FT_616	1.05752325237756	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_618	0.769704185186864	Factor1	Benzenoids	Naphthalenes			Naphthalenes	Benzenoids		Yes
+FT_619	0.525718585507822	Factor1	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Aminopyrimidines and derivatives	Aminopyrimidines and derivatives	Organoheterocyclics		Yes
+FT_62	-0.556179365802891	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	Lipids	bile.acids	Yes
+FT_620	0.431522752976269	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_621	0.531869819932668	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Acyl carnitines	Acyl carnitines	Lipids	acyl.carnitines	Yes
+FT_624	0.622555672078358	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_626	0.399872363885337	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_628	-0.245227141936107	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	3-hydroxysteroids	3-hydroxysteroids	Lipids	hydroxysteroids	No
+FT_629	-0.338434663800127	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Organic.acids	amino.acids	Yes
+FT_643	-0.223712552317952	Factor1	Organohalogen compounds	Alkyl halides	Alkyl chlorides		Alkyl chlorides	Organohalogens		Yes
+FT_646	0.34547792097351	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_647	0.532099004827083	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_648	0.52524888544766	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_65	-0.405330122651626	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives			Steroids and steroid derivatives	Lipids		Yes
+FT_652	0.665825551134024	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_658	0.205578019493608	Factor7	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Histidine and derivatives	Organic.acids	amino.acids	No
+FT_658	0.583052509509441	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Histidine and derivatives	Organic.acids	amino.acids	Yes
+FT_659	0.316570860537474	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_660	0.395636719521165	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Very long-chain fatty acids	Very long-chain fatty acids	Lipids		Yes
+FT_662	0.407755867108442	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_665	-0.230698076885593	Factor1	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds	Glycosyl compounds	Oxygens		Yes
+FT_667	0.258946718303172	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		No
+FT_669	0.30529977557932	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_670	0.527668150718525	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_672	0.626311688930719	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_673	0.325016821071199	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_675	-0.338030902708841	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	Lipids	bile.acids	No
+FT_677	0.848749209471331	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_678	0.307511940400601	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		No
+FT_685	0.272644506807538	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Amino acids	Organic.acids	amino.acids	Yes
+FT_687	0.31568591373541	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Amino acids	Organic.acids	amino.acids	Yes
+FT_69	-1.40043217337842	Factor3	NA	NA	NA	NA	NA	unknown		Yes
+FT_690	-0.270250900411256	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	Lipids	bile.acids	Yes
+FT_696	-0.395250078547317	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	Glycinated bile acids and derivatives	Lipids	bile.acids	Yes
+FT_701	0.210256117081774	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Amino acids	Organic.acids	amino.acids	Yes
+FT_703	0.211268721653681	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Amino acids and derivatives	Organic.acids	amino.acids	Yes
+FT_707	0.315615475669391	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_708	0.317335335613615	Factor1	Benzenoids				Benzenoids	Benzenoids		Yes
+FT_709	0.322111190166151	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_710	0.539528603786558	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_716	-0.344934942789814	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_717	-0.276820085462794	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives		Carboxylic acid derivatives	Organic.acids		No
+FT_718	-0.420452099427515	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives			Carboxylic acids and derivatives	Organic.acids		Yes
+FT_72	-0.539289266734646	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_720	-0.324799272675646	Factor3	NA	NA	NA	NA	NA	unknown		No
+FT_721	-0.217638105372976	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_724	0.510033078811512	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_727	0.776597364383675	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_73	-0.3858236825662	Factor1	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Aldehydes	Aryl-aldehydes	Oxygens		Yes
+FT_74	-0.385055301779635	Factor1	Organoheterocyclic compounds	Azoles			Azoles	Organoheterocyclics		Yes
+FT_749	-0.316410369802717	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_753	-0.273335759142163	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	N-acyl-alpha amino acids	Organic.acids	amino.acids	No
+FT_761	-0.323809586934111	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_766	0.600641926747137	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_77	0.439864281167869	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_775	-0.580324984787281	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	3-hydroxysteroids	3-hydroxysteroids	Lipids	hydroxysteroids	Yes
+FT_778	-0.279495339847522	Factor3	NA	NA	NA	NA	NA	unknown		Yes
+FT_781	0.245136278923993	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_783	0.663907330512367	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_786	0.639939474924481	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_787	-0.218058381626198	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_789	0.689132505042596	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Acyl carnitines	Acyl carnitines	Lipids	acyl.carnitines	Yes
+FT_79	-0.38574954911381	Factor1	Organoheterocyclic compounds	Azoles			Azoles	Organoheterocyclics		Yes
+FT_794	-0.603492372183279	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Trihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	Yes
+FT_795	-0.282083266221077	Factor3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Hydroxy bile acids, alcohols and derivatives	Trihydroxy bile acids, alcohols and derivatives	Lipids	bile.acids	No
+FT_796	-0.640862014135506	Factor3	NA	NA	NA	NA	NA	unknown		Yes
+FT_803	0.201629511600374	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_805	0.249825654500539	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_807	0.555396821031716	Factor1	Lipids and lipid-like molecules	Fatty Acyls			Fatty Acyls	Lipids		Yes
+FT_808	0.203030197425838	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		No
+FT_809	0.310124291911904	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_812	-0.224999848505848	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acids and derivatives	Organic.acids	amino.acids	No
+FT_819	0.206634751792064	Factor3	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		No
+FT_821	0.349052419886802	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_824	0.254067587618776	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	Long-chain fatty acids	Lipids		Yes
+FT_835	0.390116777644737	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_835	0.224163206241706	Factor3	NA	NA	NA	NA	NA	unknown		Yes
+FT_839	0.268835739149295	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_855	0.582074537344948	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters		Fatty acid esters	Lipids		Yes
+FT_860	1.44961769555106	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_863	0.418061014742423	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_87	-0.352120300720431	Factor1	Organohalogen compounds	Alkyl halides	Alkyl fluorides		Alkyl fluorides	Organohalogens		Yes
+FT_870	-0.435556354537067	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Alpha amino acid amides	Organic.acids	amino.acids	Yes
+FT_880	0.475361201679876	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		Yes
+FT_882	0.54522720019617	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	N-acyl-L-glutamines	Organic.acids	amino.acids	Yes
+FT_888	0.494158691678834	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Acyl carnitines	Acyl carnitines	Lipids	acyl.carnitines	Yes
+FT_891	-0.218121478684065	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Dipeptides	Organic.acids		No
+FT_894	0.230594387969599	Factor1	NA	NA	NA	NA	NA	unknown		No
+FT_895	0.268877584196601	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_897	0.30953943204016	Factor1	Organoheterocyclic compounds	Pyridines and derivatives			Pyridines and derivatives	Organoheterocyclics		Yes
+FT_90	0.414068823065679	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_901	-0.432589951049763	Factor3	NA	NA	NA	NA	NA	unknown		Yes
+FT_903	0.43168548830549	Factor1	NA	NA	NA	NA	NA	unknown		Yes
+FT_906	-0.334253987309244	Factor1	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	Aminopyrimidines and derivatives	Aminopyrimidines and derivatives	Organoheterocyclics		Yes
+FT_915	0.409688076332118	Factor1	Lipids and lipid-like molecules	Sphingolipids	Glycosphingolipids		Glycosphingolipids	Lipids		Yes
+FT_917	0.876635353038033	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	Histidine and derivatives	Organic.acids	amino.acids	Yes
+FT_921	0.283332730564713	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Amino acids and derivatives	N-acyl-alpha amino acids	Organic.acids	amino.acids	Yes
+FT_931	0.36548709870012	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_932	-0.245868188384875	Factor1	Organic acids and derivatives	Boronic acid derivatives	Boronic acids		Boronic acids	Organic.acids		No
+FT_933	0.257398539483567	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		No
+FT_951	-0.601384725546318	Factor1	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	3-hydroxysteroids	3-beta-hydroxy delta-5-steroids	Lipids	hydroxysteroids	Yes
+FT_956	0.405444041802338	Factor1	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	Long-chain fatty acids	Lipids		Yes
+FT_966	0.611352760403775	Factor1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Peptides	Oligopeptides	Organic.acids		Yes
+FT_99	1.30217953977408	Factor1	NA	NA	NA	NA	NA	unknown		Yes

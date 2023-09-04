@@ -1,0 +1,180 @@
+2023-08-21 11:57:39 INFO::Writing function arguments to log file
+2023-08-21 11:57:39 DEBUG::Function arguments
+2023-08-21 11:57:39 DEBUG::Output folder: output_maaslin2/FA_per
+2023-08-21 11:57:39 DEBUG::Min Abundance: 0.000000
+2023-08-21 11:57:39 DEBUG::Min Prevalence: 0.100000
+2023-08-21 11:57:39 DEBUG::Normalization: NONE
+2023-08-21 11:57:39 DEBUG::Transform: LOG
+2023-08-21 11:57:39 DEBUG::Analysis method: LM
+2023-08-21 11:57:39 DEBUG::Max significance: 0.250000
+2023-08-21 11:57:39 DEBUG::Random effects: Sampling.Date
+2023-08-21 11:57:39 DEBUG::Fixed effects: Feed.Type,Size.class,Tapeworm.bin
+2023-08-21 11:57:39 DEBUG::Correction method: BH
+2023-08-21 11:57:39 DEBUG::Standardize: TRUE
+2023-08-21 11:57:39 DEBUG::Cores: 1
+2023-08-21 11:57:39 INFO::Verifying options selected are valid
+2023-08-21 11:57:39 INFO::Determining format of input files
+2023-08-21 11:57:39 INFO::Input format is data samples as rows and metadata samples as rows
+2023-08-21 11:57:39 DEBUG::A total of 412 samples were found in both the data and metadata
+2023-08-21 11:57:39 DEBUG::Reordering data/metadata to use same sample ordering
+2023-08-21 11:57:39 INFO::Formula for random effects: expr ~ (1 | Sampling.Date)
+2023-08-21 11:57:39 INFO::Formula for fixed effects: expr ~  Feed.Type + Size.class + Tapeworm.bin
+2023-08-21 11:57:39 INFO::Filter data based on min abundance and min prevalence
+2023-08-21 11:57:39 INFO::Total samples in data: 412
+2023-08-21 11:57:39 INFO::Min samples required with min abundance for a feature not to be filtered: 41.200000
+2023-08-21 11:57:39 INFO::Total filtered features: 7
+2023-08-21 11:57:39 INFO::Filtered feature names from abundance and prevalence filtering: a10.0_per, a14.1n9_per, a18.3n6_per, a20.3n9_per, a22.4n6_per, a24.0_per, a24.6n3_per
+2023-08-21 11:57:39 INFO::Total filtered features with variance filtering: 0
+2023-08-21 11:57:39 INFO::Filtered feature names from variance filtering:
+2023-08-21 11:57:39 INFO::Running selected normalization method: NONE
+2023-08-21 11:57:39 INFO::Applying z-score to standardize continuous metadata
+2023-08-21 11:57:39 INFO::Running selected transform method: LOG
+2023-08-21 11:57:39 INFO::Running selected analysis method: LM
+2023-08-21 11:57:39 INFO::Fitting model to feature number 1, a14.0_per
+2023-08-21 11:57:39 INFO::Fitting model to feature number 2, a15.0_per
+2023-08-21 11:57:39 INFO::Fitting model to feature number 3, a16.0_per
+2023-08-21 11:57:40 INFO::Fitting model to feature number 4, a16.1n7_per
+2023-08-21 11:57:40 INFO::Fitting model to feature number 5, a16.1n9_per
+2023-08-21 11:57:40 INFO::Fitting model to feature number 6, a16.2n4_per
+2023-08-21 11:57:40 INFO::Fitting model to feature number 7, a16.3n3_per
+2023-08-21 11:57:40 INFO::Fitting model to feature number 8, a16.4n3_per
+2023-08-21 11:57:40 INFO::Fitting model to feature number 9, a17.0_per
+2023-08-21 11:57:40 INFO::Fitting model to feature number 10, a18.0_per
+2023-08-21 11:57:40 INFO::Fitting model to feature number 11, a18.1n11_per
+2023-08-21 11:57:41 INFO::Fitting model to feature number 12, a18.1n7_per
+2023-08-21 11:57:41 INFO::Fitting model to feature number 13, a18.1n9_per
+2023-08-21 11:57:41 INFO::Fitting model to feature number 14, a18.2n6_per
+2023-08-21 11:57:41 INFO::Fitting model to feature number 15, a18.3n3_per
+2023-08-21 11:57:41 INFO::Fitting model to feature number 16, a18.4n3_per
+2023-08-21 11:57:41 INFO::Fitting model to feature number 17, a20.0_per
+2023-08-21 11:57:41 INFO::Fitting model to feature number 18, a20.1n11_per
+2023-08-21 11:57:41 INFO::Fitting model to feature number 19, a20.1n7_per
+2023-08-21 11:57:41 INFO::Fitting model to feature number 20, a20.1n9_per
+2023-08-21 11:57:41 INFO::Fitting model to feature number 21, a20.2n6_per
+2023-08-21 11:57:42 INFO::Fitting model to feature number 22, a20.3n6_per
+2023-08-21 11:57:42 INFO::Fitting model to feature number 23, a20.4n3_per
+2023-08-21 11:57:42 INFO::Fitting model to feature number 24, a20.4n6_ARA_per
+2023-08-21 11:57:42 INFO::Fitting model to feature number 25, a20.5n3_EPA_per
+2023-08-21 11:57:42 INFO::Fitting model to feature number 26, a21.5n3_per
+2023-08-21 11:57:42 INFO::Fitting model to feature number 27, a22.0_per
+2023-08-21 11:57:42 INFO::Fitting model to feature number 28, a22.1n11_per
+2023-08-21 11:57:42 INFO::Fitting model to feature number 29, a22.1n9_per
+2023-08-21 11:57:42 INFO::Fitting model to feature number 30, a22.5n3_DPA_per
+2023-08-21 11:57:42 INFO::Fitting model to feature number 31, a22.5n6_per
+2023-08-21 11:57:43 INFO::Fitting model to feature number 32, a22.6n3_DHA_per
+2023-08-21 11:57:43 INFO::Fitting model to feature number 33, a24.1n9_per
+2023-08-21 11:57:43 INFO::Fitting model to feature number 34, a24.5n3_per
+2023-08-21 11:57:43 INFO::Fitting model to feature number 35, sum_16.1_per
+2023-08-21 11:57:43 INFO::Fitting model to feature number 36, sum_18.1_per
+2023-08-21 11:57:43 INFO::Fitting model to feature number 37, sum_20.1_per
+2023-08-21 11:57:43 INFO::Fitting model to feature number 38, sum_22.1_per
+2023-08-21 11:57:43 INFO::Fitting model to feature number 39, sum_monounsat_per
+2023-08-21 11:57:43 INFO::Fitting model to feature number 40, sum_EPA_DHA_per
+2023-08-21 11:57:43 INFO::Fitting model to feature number 41, sum_polyunsat_per
+2023-08-21 11:57:43 INFO::Fitting model to feature number 42, sum_saturated_per
+2023-08-21 11:57:44 INFO::Fitting model to feature number 43, sum_n3_per
+2023-08-21 11:57:44 INFO::Fitting model to feature number 44, sum_n6_per
+2023-08-21 11:57:44 INFO::Counting total values for each feature
+2023-08-21 11:57:44 INFO::Writing residuals to file output_maaslin2/FA_per/residuals.rds
+2023-08-21 11:57:44 INFO::Writing fitted values to file output_maaslin2/FA_per/fitted.rds
+2023-08-21 11:57:44 INFO::Writing extracted random effects to file output_maaslin2/FA_per/ranef.rds
+2023-08-21 11:57:44 INFO::Writing all results to file (ordered by increasing q-values): output_maaslin2/FA_per/all_results.tsv
+2023-08-21 11:57:44 INFO::Writing the significant results (those which are less than or equal to the threshold of 0.250000 ) to file (ordered by increasing q-values): output_maaslin2/FA_per/significant_results.tsv
+2023-08-21 11:57:44 INFO::Writing heatmap of significant results to file: output_maaslin2/FA_per/heatmap.pdf
+2023-08-21 11:57:44 INFO::Writing association plots (one for each significant association) to output folder: output_maaslin2/FA_per
+2023-08-21 11:57:44 INFO::Plotting associations from most to least significant, grouped by metadata
+2023-08-21 11:57:44 INFO::Plotting data for metadata number 1, Feed.Type
+2023-08-21 11:57:44 INFO::Creating boxplot for categorical data, Feed.Type vs a16.1n7_per
+2023-08-21 11:57:44 INFO::Creating boxplot for categorical data, Feed.Type vs sum_16.1_per
+2023-08-21 11:57:45 INFO::Creating boxplot for categorical data, Feed.Type vs a14.0_per
+2023-08-21 11:57:45 INFO::Creating boxplot for categorical data, Feed.Type vs a15.0_per
+2023-08-21 11:57:45 INFO::Creating boxplot for categorical data, Feed.Type vs a18.3n3_per
+2023-08-21 11:57:45 INFO::Creating boxplot for categorical data, Feed.Type vs sum_polyunsat_per
+2023-08-21 11:57:46 INFO::Creating boxplot for categorical data, Feed.Type vs a22.5n3_DPA_per
+2023-08-21 11:57:46 INFO::Creating boxplot for categorical data, Feed.Type vs a20.4n6_ARA_per
+2023-08-21 11:57:46 INFO::Creating boxplot for categorical data, Feed.Type vs sum_n6_per
+2023-08-21 11:57:46 INFO::Creating boxplot for categorical data, Feed.Type vs a18.1n9_per
+2023-08-21 11:57:46 INFO::Creating boxplot for categorical data, Feed.Type vs a18.2n6_per
+2023-08-21 11:57:46 INFO::Creating boxplot for categorical data, Feed.Type vs sum_n3_per
+2023-08-21 11:57:47 INFO::Creating boxplot for categorical data, Feed.Type vs a20.1n9_per
+2023-08-21 11:57:47 INFO::Creating boxplot for categorical data, Feed.Type vs sum_monounsat_per
+2023-08-21 11:57:47 INFO::Creating boxplot for categorical data, Feed.Type vs sum_18.1_per
+2023-08-21 11:57:47 INFO::Creating boxplot for categorical data, Feed.Type vs a20.2n6_per
+2023-08-21 11:57:47 INFO::Creating boxplot for categorical data, Feed.Type vs a18.1n7_per
+2023-08-21 11:57:47 INFO::Creating boxplot for categorical data, Feed.Type vs a22.1n11_per
+2023-08-21 11:57:48 INFO::Creating boxplot for categorical data, Feed.Type vs sum_saturated_per
+2023-08-21 11:57:48 INFO::Creating boxplot for categorical data, Feed.Type vs a18.0_per
+2023-08-21 11:57:48 INFO::Creating boxplot for categorical data, Feed.Type vs a20.4n3_per
+2023-08-21 11:57:48 INFO::Creating boxplot for categorical data, Feed.Type vs a22.1n9_per
+2023-08-21 11:57:48 INFO::Creating boxplot for categorical data, Feed.Type vs a22.5n6_per
+2023-08-21 11:57:48 INFO::Creating boxplot for categorical data, Feed.Type vs a17.0_per
+2023-08-21 11:57:49 INFO::Creating boxplot for categorical data, Feed.Type vs sum_20.1_per
+2023-08-21 11:57:49 INFO::Creating boxplot for categorical data, Feed.Type vs a22.6n3_DHA_per
+2023-08-21 11:57:49 INFO::Creating boxplot for categorical data, Feed.Type vs a20.5n3_EPA_per
+2023-08-21 11:57:49 INFO::Creating boxplot for categorical data, Feed.Type vs sum_22.1_per
+2023-08-21 11:57:49 INFO::Creating boxplot for categorical data, Feed.Type vs a18.4n3_per
+2023-08-21 11:57:52 INFO::Plotting data for metadata number 2, Size.class
+2023-08-21 11:57:52 INFO::Creating boxplot for categorical data, Size.class vs a16.0_per
+2023-08-21 11:57:52 INFO::Creating boxplot for categorical data, Size.class vs sum_saturated_per
+2023-08-21 11:57:52 INFO::Creating boxplot for categorical data, Size.class vs sum_18.1_per
+2023-08-21 11:57:52 INFO::Creating boxplot for categorical data, Size.class vs sum_monounsat_per
+2023-08-21 11:57:52 INFO::Creating boxplot for categorical data, Size.class vs a18.3n3_per
+2023-08-21 11:57:52 INFO::Creating boxplot for categorical data, Size.class vs a18.0_per
+2023-08-21 11:57:53 INFO::Creating boxplot for categorical data, Size.class vs a22.6n3_DHA_per
+2023-08-21 11:57:53 INFO::Creating boxplot for categorical data, Size.class vs sum_n3_per
+2023-08-21 11:57:53 INFO::Creating boxplot for categorical data, Size.class vs a18.2n6_per
+2023-08-21 11:57:53 INFO::Creating boxplot for categorical data, Size.class vs a14.0_per
+2023-08-21 11:57:53 INFO::Creating boxplot for categorical data, Size.class vs a18.1n9_per
+2023-08-21 11:57:54 INFO::Creating boxplot for categorical data, Size.class vs a20.5n3_EPA_per
+2023-08-21 11:57:54 INFO::Creating boxplot for categorical data, Size.class vs a22.0_per
+2023-08-21 11:57:54 INFO::Creating boxplot for categorical data, Size.class vs a20.4n6_ARA_per
+2023-08-21 11:57:54 INFO::Creating boxplot for categorical data, Size.class vs sum_n6_per
+2023-08-21 11:57:54 INFO::Creating boxplot for categorical data, Size.class vs a24.5n3_per
+2023-08-21 11:57:54 INFO::Creating boxplot for categorical data, Size.class vs sum_polyunsat_per
+2023-08-21 11:57:55 INFO::Creating boxplot for categorical data, Size.class vs sum_saturated_per
+2023-08-21 11:57:55 INFO::Creating boxplot for categorical data, Size.class vs a16.0_per
+2023-08-21 11:57:55 INFO::Creating boxplot for categorical data, Size.class vs a20.0_per
+2023-08-21 11:57:55 INFO::Creating boxplot for categorical data, Size.class vs a16.1n7_per
+2023-08-21 11:57:55 INFO::Creating boxplot for categorical data, Size.class vs a16.1n9_per
+2023-08-21 11:57:56 INFO::Creating boxplot for categorical data, Size.class vs a20.4n3_per
+2023-08-21 11:57:56 INFO::Creating boxplot for categorical data, Size.class vs a20.5n3_EPA_per
+2023-08-21 11:57:56 INFO::Creating boxplot for categorical data, Size.class vs sum_EPA_DHA_per
+2023-08-21 11:57:56 INFO::Creating boxplot for categorical data, Size.class vs sum_22.1_per
+2023-08-21 11:57:56 INFO::Creating boxplot for categorical data, Size.class vs sum_22.1_per
+2023-08-21 11:57:57 INFO::Creating boxplot for categorical data, Size.class vs sum_monounsat_per
+2023-08-21 11:57:57 INFO::Creating boxplot for categorical data, Size.class vs a22.1n9_per
+2023-08-21 11:57:57 INFO::Creating boxplot for categorical data, Size.class vs a22.1n11_per
+2023-08-21 11:57:57 INFO::Creating boxplot for categorical data, Size.class vs a14.0_per
+2023-08-21 11:57:57 INFO::Creating boxplot for categorical data, Size.class vs a18.1n11_per
+2023-08-21 11:57:58 INFO::Creating boxplot for categorical data, Size.class vs a18.3n3_per
+2023-08-21 11:57:58 INFO::Creating boxplot for categorical data, Size.class vs a22.1n11_per
+2023-08-21 11:57:58 INFO::Creating boxplot for categorical data, Size.class vs a20.3n6_per
+2023-08-21 11:57:58 INFO::Creating boxplot for categorical data, Size.class vs a20.1n9_per
+2023-08-21 11:57:58 INFO::Creating boxplot for categorical data, Size.class vs sum_18.1_per
+2023-08-21 11:57:58 INFO::Creating boxplot for categorical data, Size.class vs sum_n3_per
+2023-08-21 11:57:59 INFO::Creating boxplot for categorical data, Size.class vs a18.0_per
+2023-08-21 11:57:59 INFO::Creating boxplot for categorical data, Size.class vs a16.3n3_per
+2023-08-21 11:57:59 INFO::Creating boxplot for categorical data, Size.class vs a20.4n6_ARA_per
+2023-08-21 11:57:59 INFO::Creating boxplot for categorical data, Size.class vs sum_16.1_per
+2023-08-21 11:57:59 INFO::Creating boxplot for categorical data, Size.class vs a20.2n6_per
+2023-08-21 11:57:59 INFO::Creating boxplot for categorical data, Size.class vs a18.1n11_per
+2023-08-21 11:58:00 INFO::Creating boxplot for categorical data, Size.class vs sum_20.1_per
+2023-08-21 11:58:00 INFO::Creating boxplot for categorical data, Size.class vs a22.5n6_per
+2023-08-21 11:58:00 INFO::Creating boxplot for categorical data, Size.class vs a24.1n9_per
+2023-08-21 11:58:00 INFO::Creating boxplot for categorical data, Size.class vs a22.6n3_DHA_per
+2023-08-21 11:58:00 INFO::Creating boxplot for categorical data, Size.class vs a18.4n3_per
+2023-08-21 11:58:01 INFO::Creating boxplot for categorical data, Size.class vs a17.0_per
+2023-08-21 11:58:04 INFO::Plotting data for metadata number 3, Tapeworm.bin
+2023-08-21 11:58:04 INFO::Creating boxplot for categorical data, Tapeworm.bin vs a20.4n3_per
+2023-08-21 11:58:04 INFO::Creating boxplot for categorical data, Tapeworm.bin vs a20.2n6_per
+2023-08-21 11:58:04 INFO::Creating boxplot for categorical data, Tapeworm.bin vs a20.4n6_ARA_per
+2023-08-21 11:58:04 INFO::Creating boxplot for categorical data, Tapeworm.bin vs a22.6n3_DHA_per
+2023-08-21 11:58:04 INFO::Creating boxplot for categorical data, Tapeworm.bin vs a18.2n6_per
+2023-08-21 11:58:05 INFO::Creating boxplot for categorical data, Tapeworm.bin vs sum_EPA_DHA_per
+2023-08-21 11:58:05 INFO::Creating boxplot for categorical data, Tapeworm.bin vs a22.5n3_DPA_per
+2023-08-21 11:58:05 INFO::Creating boxplot for categorical data, Tapeworm.bin vs a22.0_per
+2023-08-21 11:58:05 INFO::Creating boxplot for categorical data, Tapeworm.bin vs sum_20.1_per
+2023-08-21 11:58:05 INFO::Creating boxplot for categorical data, Tapeworm.bin vs a20.1n9_per
+2023-08-21 11:58:05 INFO::Creating boxplot for categorical data, Tapeworm.bin vs a18.4n3_per
+2023-08-21 11:58:06 INFO::Creating boxplot for categorical data, Tapeworm.bin vs a16.0_per
+2023-08-21 11:58:06 INFO::Creating boxplot for categorical data, Tapeworm.bin vs a17.0_per

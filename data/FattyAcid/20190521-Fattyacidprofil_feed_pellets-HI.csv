@@ -1,0 +1,241 @@
+﻿org.order,Lims.number,Fish.nr,Species,Organ,Diet,Analyte,Result.raw0,Result.num,Unit,Unit.type,Analyse,Latin.species.name,Analyse.Status,Full.species.name,Result.raw1,Prosjekt.nr.
+1,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,06:00,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+2,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,06:0 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+3,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,08:00,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+4,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,08:0 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+5,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,10:00,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+6,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,10:0 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+7,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,12:00,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+8,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,12:0 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+9,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,14:00,"8,70",8.7,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"8,70",15359
+10,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,14:0 %,"2,9",2.9,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"2,9",15359
+11,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,14:1n-9,"0,34",0.34,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,34",15359
+12,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,14:1n-9 %,"0,1",0.1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,1",15359
+13,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,15:00,"0,69",0.69,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,69",15359
+14,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,15:0 %,"0,2",0.2,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,2",15359
+15,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,16:00,"30,87",30.87,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"30,87",15359
+16,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,16:0 %,"10,1",10.1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"10,1",15359
+17,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,16:1n-7,"9,18",9.18,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"9,18",15359
+18,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,16:1n-7 %,"3,0",3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"3,0",15359
+19,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,16:1n-9,"0,44",0.44,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,44",15359
+20,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,16:1n-9 %,"0,1",0.1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,1",15359
+21,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,16:2n-4,"1,04",1.04,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"1,04",15359
+22,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,16:2n-4 %,"0,3",0.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,3",15359
+23,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,16:3n-3,"0,99",0.99,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,99",15359
+24,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,16:3n-3 %,"0,3",0.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,3",15359
+25,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,16:4n-3,"0,84",0.84,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,84",15359
+26,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,16:4n-3 %,"0,3",0.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,3",15359
+27,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,17:00,"0,60",0.6,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,60",15359
+28,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,17:0 %,"0,2",0.2,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,2",15359
+29,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:00,"10,28",10.28,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"10,28",15359
+30,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:0 %,"3,4",3.4,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"3,4",15359
+31,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:1n-11,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+32,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:1n-11 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+33,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:1n-7,"8,49",8.49,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"8,49",15359
+34,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:1n-7 %,"2,8",2.8,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"2,8",15359
+35,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:1n-9,"110,59",110.59,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"110,59",15359
+36,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:1n-9 %,"36,2",36.2,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"36,2",15359
+37,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:2n-6,"40,52",40.52,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"40,52",15359
+38,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:2n-6 %,"13,3",13.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"13,3",15359
+39,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:3n-3,"22,74",22.74,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"22,74",15359
+40,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:3n-3 %,"7,5",7.5,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"7,5",15359
+41,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:3n-6,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+42,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:3n-6 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+43,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:4n-3,"2,87",2.87,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"2,87",15359
+44,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,18:4n-3 %,"0,9",0.9,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,9",15359
+45,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:00,"1,32",1.32,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"1,32",15359
+46,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:0 %,"0,4",0.4,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,4",15359
+47,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:1n-11,"0,59",0.59,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,59",15359
+48,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:1n-11 %,"0,2",0.2,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,2",15359
+49,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:1n-7,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+50,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:1n-7 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+51,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:1n-9,"7,17",7.17,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"7,17",15359
+52,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:1n-9 %,"2,4",2.4,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"2,4",15359
+53,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:2n-6,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+54,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:2n-6 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+55,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:3n-3,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+56,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:3n-3 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+57,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:3n-6,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+58,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:3n-6 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+59,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:3n-9,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+60,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:3n-9 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+61,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:4n-3,"0,95",0.95,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,95",15359
+62,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:4n-3 %,"0,3",0.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,3",15359
+63,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:4n-6 (ARA),"1,30",1.3,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"1,30",15359
+64,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:4n-6 (ARA) %,"0,4",0.4,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,4",15359
+65,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:5n-3 (EPA),"13,12",13.12,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"13,12",15359
+66,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,20:5n-3 (EPA) %,"4,3",4.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"4,3",15359
+67,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,21:5n-3,"0,59",0.59,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,59",15359
+68,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,21:5n-3 %,"0,2",0.2,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,2",15359
+69,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:00,"0,77",0.77,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,77",15359
+70,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:0 %,"0,3",0.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,3",15359
+71,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:1n-11,"7,79",7.79,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"7,79",15359
+72,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:1n-11 %,"2,6",2.6,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"2,6",15359
+73,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:1n-9,"0,63",0.63,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,63",15359
+74,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:1n-9 %,"0,2",0.2,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,2",15359
+75,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:4n-6,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+76,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:4n-6 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+77,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:5n-3 (DPA),"1,98",1.98,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"1,98",15359
+78,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:5n-3 (DPA) %,"0,6",0.6,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,6",15359
+79,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:5n-6,"0,32",0.32,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,32",15359
+80,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:5n-6 %,"0,1",0.1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,1",15359
+81,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:6n-3 (DHA),"12,21",12.21,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"12,21",15359
+82,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,22:6n-3 (DHA) %,"4,0",4,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"4,0",15359
+83,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,24:00:00,"0,37",0.37,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,37",15359
+84,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,24:0 %,"0,1",0.1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,1",15359
+85,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,24:1n-9,"0,96",0.96,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,96",15359
+86,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,24:1n-9 %,"0,3",0.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,3",15359
+87,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,24:5n-3,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+88,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,24:5n-3 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+89,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,24:6n-3,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+90,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,24:6n-3 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+91,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,n-3/n-6,"1,3",1.3,-,NONE,FETTS_SAMM,,C,Fish.feed,"1,3",15359
+92,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,n-3/n-6 %,"1,3",1.3,-,NONE,FETTS_SAMM,,C,Fish.feed,"1,3",15359
+93,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,n-6/n-3,"0,7",0.7,-,NONE,FETTS_SAMM,,C,Fish.feed,"0,7",15359
+94,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,n-6/n-3 %,"0,7",0.7,-,NONE,FETTS_SAMM,,C,Fish.feed,"0,7",15359
+95,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum 16:1,"9,61",9.61,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"9,61",15359
+96,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum 16:1 %,"3,2",3.2,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"3,2",15359
+97,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum 18:1,119,119,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,119,15359
+98,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum 18:1 %,"39,1",39.1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"39,1",15359
+99,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum 20:1,"7,77",7.77,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"7,77",15359
+100,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum 20:1 %,"2,5",2.5,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"2,5",15359
+101,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum 22:1,"8,42",8.42,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"8,42",15359
+102,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum 22:1 %,"2,8",2.8,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"2,8",15359
+103,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum en-umettet,146,146,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,146,15359
+104,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum en-umettet %,"48,0",48,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"48,0",15359
+105,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum EPA + DHA,"25,3",25.3,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"25,3",15359
+106,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum EPA + DHA %,"8,3",8.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"8,3",15359
+107,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum fettsyrer,305,305,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,305,15359
+108,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum fettsyrer %,"100,0",100,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"100,0",15359
+109,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum flerumettet,"99,5",99.5,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"99,5",15359
+110,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum flerumettet %,"32,6",32.6,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"32,6",15359
+111,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum identifiserte,301,301,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,301,15359
+112,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum identifiserte %,"98,7",98.7,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"98,7",15359
+113,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum mettet,"53,6",53.6,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"53,6",15359
+114,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum mettet %,"17,6",17.6,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"17,6",15359
+115,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum n-3,"56,3",56.3,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"56,3",15359
+116,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum n-3 %,"18,5",18.5,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"18,5",15359
+117,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum n-6,"42,1",42.1,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"42,1",15359
+118,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum n-6 %,"13,8",13.8,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"13,8",15359
+119,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum uidentifiserte,"4,08",4.08,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"4,08",15359
+120,2019-292/2,Feed1.feed,Fish.feed,Fish.feed,Feed1,Sum uidentifiserte %,"1,3",1.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"1,3",15359
+121,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,06:00,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+122,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,06:0 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+123,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,08:00,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+124,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,08:0 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+125,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,10:00,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+126,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,10:0 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+127,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,12:00,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+128,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,12:0 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+129,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,14:00,"9,46",9.46,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"9,46",15359
+130,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,14:0 %,"3,1",3.1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"3,1",15359
+131,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,14:1n-9,"0,34",0.34,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,34",15359
+132,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,14:1n-9 %,"0,1",0.1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,1",15359
+133,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,15:00,"0,63",0.63,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,63",15359
+134,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,15:0 %,"0,2",0.2,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,2",15359
+135,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,16:00,"29,69",29.69,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"29,69",15359
+136,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,16:0 %,"9,7",9.7,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"9,7",15359
+137,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,16:1n-7,"9,83",9.83,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"9,83",15359
+138,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,16:1n-7 %,"3,2",3.2,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"3,2",15359
+139,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,16:1n-9,"0,41",0.41,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,41",15359
+140,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,16:1n-9 %,"0,1",0.1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,1",15359
+141,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,16:2n-4,"1,13",1.13,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"1,13",15359
+142,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,16:2n-4 %,"0,4",0.4,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,4",15359
+143,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,16:3n-3,"1,16",1.16,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"1,16",15359
+144,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,16:3n-3 %,"0,4",0.4,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,4",15359
+145,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,16:4n-3,"0,89",0.89,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,89",15359
+146,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,16:4n-3 %,"0,3",0.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,3",15359
+147,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,17:00,"0,59",0.59,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,59",15359
+148,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,17:0 %,"0,2",0.2,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,2",15359
+149,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:00,"10,55",10.55,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"10,55",15359
+150,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:0 %,"3,5",3.5,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"3,5",15359
+151,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:1n-11,"0,45",0.45,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,45",15359
+152,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:1n-11 %,"0,1",0.1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,1",15359
+153,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:1n-7,"8,57",8.57,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"8,57",15359
+154,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:1n-7 %,"2,8",2.8,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"2,8",15359
+155,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:1n-9,"112,81",112.81,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"112,81",15359
+156,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:1n-9 %,"36,9",36.9,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"36,9",15359
+157,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:2n-6,"40,65",40.65,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"40,65",15359
+158,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:2n-6 %,"13,3",13.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"13,3",15359
+159,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:3n-3,"20,83",20.83,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"20,83",15359
+160,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:3n-3 %,"6,8",6.8,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"6,8",15359
+161,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:3n-6,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+162,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:3n-6 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+163,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:4n-3,"2,78",2.78,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"2,78",15359
+164,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,18:4n-3 %,"0,9",0.9,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,9",15359
+165,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:00,"1,38",1.38,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"1,38",15359
+166,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:0 %,"0,5",0.5,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,5",15359
+167,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:1n-11,"0,61",0.61,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,61",15359
+168,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:1n-11 %,"0,2",0.2,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,2",15359
+169,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:1n-7,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+170,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:1n-7 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+171,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:1n-9,"8,17",8.17,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"8,17",15359
+172,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:1n-9 %,"2,7",2.7,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"2,7",15359
+173,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:2n-6,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+174,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:2n-6 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+175,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:3n-3,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+176,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:3n-3 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+177,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:3n-6,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+178,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:3n-6 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+179,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:3n-9,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+180,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:3n-9 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+181,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:4n-3,"1,01",1.01,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"1,01",15359
+182,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:4n-3 %,"0,3",0.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,3",15359
+183,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:4n-6 (ARA),"1,18",1.18,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"1,18",15359
+184,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:4n-6 (ARA) %,"0,4",0.4,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,4",15359
+185,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:5n-3 (EPA),"13,30",13.3,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"13,30",15359
+186,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,20:5n-3 (EPA) %,"4,4",4.4,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"4,4",15359
+187,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,21:5n-3,"0,63",0.63,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,63",15359
+188,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,21:5n-3 %,"0,2",0.2,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,2",15359
+189,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:00,"0,80",0.8,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,80",15359
+190,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:0 %,"0,3",0.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,3",15359
+191,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:1n-11,"8,39",8.39,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"8,39",15359
+192,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:1n-11 %,"2,7",2.7,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"2,7",15359
+193,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:1n-9,"0,95",0.95,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,95",15359
+194,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:1n-9 %,"0,3",0.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,3",15359
+195,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:4n-6,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+196,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:4n-6 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+197,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:5n-3 (DPA),"2,06",2.06,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"2,06",15359
+198,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:5n-3 (DPA) %,"0,7",0.7,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,7",15359
+199,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:5n-6,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+200,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:5n-6 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+201,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:6n-3 (DHA),"10,53",10.53,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"10,53",15359
+202,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,22:6n-3 (DHA) %,"3,4",3.4,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"3,4",15359
+203,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,24:00:00,"0,39",0.39,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,39",15359
+204,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,24:0 %,"0,1",0.1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,1",15359
+205,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,24:1n-9,"0,78",0.78,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"0,78",15359
+206,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,24:1n-9 %,"0,3",0.3,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"0,3",15359
+207,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,24:5n-3,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+208,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,24:5n-3 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+209,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,24:6n-3,<0.01,NA,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,<0.01,15359
+210,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,24:6n-3 %,<0.1,NA,%,PROSENT,FETTS_SAMM,,C,Fish.feed,<0.1,15359
+211,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,n-3/n-6,"1,3",1.3,-,NONE,FETTS_SAMM,,C,Fish.feed,"1,3",15359
+212,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,n-3/n-6 %,"1,3",1.3,-,NONE,FETTS_SAMM,,C,Fish.feed,"1,3",15359
+213,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,n-6/n-3,"0,8",0.8,-,NONE,FETTS_SAMM,,C,Fish.feed,"0,8",15359
+214,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,n-6/n-3 %,"0,8",0.8,-,NONE,FETTS_SAMM,,C,Fish.feed,"0,8",15359
+215,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum 16:1,"10,2",10.2,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"10,2",15359
+216,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum 16:1 %,"3,4",3.4,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"3,4",15359
+217,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum 18:1,122,122,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,122,15359
+218,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum 18:1 %,"39,9",39.9,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"39,9",15359
+219,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum 20:1,"8,79",8.79,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"8,79",15359
+220,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum 20:1 %,"2,9",2.9,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"2,9",15359
+221,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum 22:1,"9,34",9.34,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"9,34",15359
+222,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum 22:1 %,"3,1",3.1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"3,1",15359
+223,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum en-umettet,151,151,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,151,15359
+224,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum en-umettet %,"49,5",49.5,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"49,5",15359
+225,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum EPA + DHA,"23,8",23.8,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"23,8",15359
+226,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum EPA + DHA %,"7,8",7.8,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"7,8",15359
+227,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum fettsyrer,305,305,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,305,15359
+228,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum fettsyrer %,"100,0",100,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"100,0",15359
+229,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum flerumettet,"96,2",96.2,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"96,2",15359
+230,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum flerumettet %,"31,5",31.5,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"31,5",15359
+231,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum identifiserte,302,302,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,302,15359
+232,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum identifiserte %,"99,0",99,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"99,0",15359
+233,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum mettet,"53,5",53.5,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"53,5",15359
+234,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum mettet %,"17,5",17.5,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"17,5",15359
+235,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum n-3,"53,2",53.2,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"53,2",15359
+236,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum n-3 %,"17,4",17.4,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"17,4",15359
+237,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum n-6,"41,8",41.8,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"41,8",15359
+238,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum n-6 %,"13,7",13.7,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"13,7",15359
+239,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum uidentifiserte,"3,10",3.1,mg/g ww,MG_G_WW,FETTS_SAMM,,C,Fish.feed,"3,10",15359
+240,2019-292/1,Feed2.feed,Fish.feed,Fish.feed,Feed2,Sum uidentifiserte %,"1,0",1,%,PROSENT,FETTS_SAMM,,C,Fish.feed,"1,0",15359

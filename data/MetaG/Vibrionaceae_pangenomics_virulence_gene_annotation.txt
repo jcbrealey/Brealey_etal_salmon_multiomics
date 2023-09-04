@@ -1,0 +1,209 @@
+KOfam	KOfam_ACC	Pfam	Pfam_ACC	KEGG_Module_ACC	KEGG_Class	gene.short	Category
+N2-citryl-N6-acetyl-N6-hydroxylysine synthase [EC:6.3.2.38]	K03894	IucA / IucC family	PF04183.14	M00918	Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds	aerobactin.iucA	iron.aquisition
+N2-citryl-N6-acetyl-N6-hydroxylysine synthase [EC:6.3.2.38]	K03894	IucA / IucC family	PF04183.15	M00918	Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds	aerobactin.iucA	iron.aquisition
+acetyl CoA:N6-hydroxylysine acetyl transferase [EC:2.3.1.102]	K03896	Acetyltransferase (GNAT) domain	PF13523.8	M00918	Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds	aerobactin.iucB	iron.aquisition
+acetyl CoA:N6-hydroxylysine acetyl transferase [EC:2.3.1.102]	K03896	Acetyltransferase (GNAT) domain	PF13523.9	M00918	Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds	aerobactin.iucB	iron.aquisition
+lysine N6-hydroxylase [EC:1.14.13.59]	K03897	L-lysine 6-monooxygenase (NADPH-requiring)	PF13434.8	M00918	Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds	aerobactin.iucD	iron.aquisition
+lysine N6-hydroxylase [EC:1.14.13.59]	K03897	L-lysine 6-monooxygenase/L-ornithine 5-monooxygenase	PF13434.9	M00918	Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds	aerobactin.iucD	iron.aquisition
+aerobactin synthase [EC:6.3.2.39]	K03895	IucA / IucC family	PF04183.14	M00918	Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds	aerobactin.iucC	iron.aquisition
+aerobactin synthase [EC:6.3.2.39]	K03895	IucA / IucC family	PF04183.15	M00918	Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds	aerobactin.iucC	iron.aquisition
+"bile acid:Na+ symporter, BASS family"	K03453	Sodium Bile acid symporter family	PF01758.19			bile.BASS	mucin.bile.degradation
+"solute carrier family 10 (sodium/bile acid cotransporter), member 7"	K14347	SBF-like CPA transporter family (DUF4137)	PF13593.9			bile.SLC10A7	mucin.bile.degradation
+"AraC family transcriptional regulator, chitin signaling transcriptional activator"	K19693	Helix-turn-helix domain	PF12833.9			chitin.AraC	chitin
+"AraC family transcriptional regulator, chitin signaling transcriptional activator"	K19693	Helix-turn-helix domain	PF12833.10			chitin.AraC	chitin
+chitin-binding protein	K03933	"Lytic polysaccharide mono-oxygenase, cellulose-degrading"	PF03067.18			chitin.cbp	chitin
+chitin disaccharide deacetylase [EC:3.5.1.105]	K03478	YdjC-like protein	PF04794.14			chitin.chbG	chitin
+chitin disaccharide deacetylase [EC:3.5.1.105]	K03478	YdjC-like protein	PF04794.15			chitin.chbG	chitin
+chitin disaccharide deacetylase [EC:3.5.1.105]	K18454	Polysaccharide deacetylase	PF01522.24			chitin.chbG	chitin
+chitinase [EC:3.2.1.14]	K01183	Glycosyl hydrolases family 18	PF00704.30			chia	chitin
+chitinase [EC:3.2.1.14]	K01183	Glycosyl hydrolases family 18	PF00704.31			chia	chitin
+putative chitinase	K03791					chia	chitin
+hemolysin III	K11068	Haemolysin-III related	PF03006.22			hemolysin.hlyIII	lysin.hemo
+hemolysin III	K11068	Haemolysin-III related	PF03006.23			hemolysin.hlyIII	lysin.hemo
+"MarR family transcriptional regulator, transcriptional regulator for hemolysin"	K06075	MarR family	PF01047.24			hemolysin.MarR	lysin.hemo
+"MarR family transcriptional regulator, transcriptional regulator for hemolysin"	K06075	MarR family	PF01047.25			hemolysin.MarR	lysin.hemo
+hemolysin	K11016	Hemagglutinin repeat	PF13332.8			hemolysin.shlA	lysin.hemo
+hemolysin	K11016	Hemagglutinin repeat	PF13332.9			hemolysin.shlA	lysin.hemo
+hemolysin activation/secretion protein	K11017	Haemolysin secretion/activation protein ShlB/FhaC/HecB	PF03865.15			hemolysin.shlB	lysin.hemo
+hemolysin activation/secretion protein	K11017	Haemolysin secretion/activation protein ShlB/FhaC/HecB	PF03865.16			hemolysin.shlB	lysin.hemo
+putative hemolysin	K03699	Cyclin M transmembrane N-terminal domain	PF01595.22			hemolysin.tlyC	lysin.hemo
+putative hemolysin	K03699	Cyclin M transmembrane N-terminal domain	PF01595.23			hemolysin.tlyC	lysin.hemo
+		Thermostable hemolysin	PF12261.11			hemolysin.tsh	lysin.hemo
+"Fur family transcriptional regulator, ferric uptake regulator"	K03711	Ferric uptake regulator family	PF01475.21			iron.fur	iron.aquisition
+"Fur family transcriptional regulator, ferric uptake regulator"	K03711	Ferric uptake regulator family	PF01475.22			iron.fur	iron.aquisition
+"Fur family transcriptional regulator, zinc uptake regulator"	K09823	Ferric uptake regulator family	PF01475.21			iron.zur	iron.aquisition
+"Fur family transcriptional regulator, zinc uptake regulator"	K09823	Ferric uptake regulator family	PF01475.22			iron.zur	iron.aquisition
+N-acylneuraminate cytidylyltransferase [EC:2.7.7.43]	K00983	Cytidylyltransferase	PF02348.22	M00922	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.CMAS	LPS
+3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]	K00979	Cytidylyltransferase	PF02348.21	M00063	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.CTP	LPS
+3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]	K00979	Cytidylyltransferase	PF02348.22	M00063	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.CTP	LPS
+"D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase [EC:3.1.3.82 3.1.3.83]"	K03273	HAD-hyrolase-like	PF13242.8	M00064	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.gmhB	LPS
+"D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase [EC:3.1.3.82 3.1.3.83]"	K03273	HAD-hyrolase-like	PF13242.9	M00064	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.gmhB	LPS
+D-beta-D-heptose 7-phosphate kinase / D-beta-D-heptose 1-phosphate adenosyltransferase [EC:2.7.1.167 2.7.7.70]	K03272	pfkB family carbohydrate kinase	PF00294.26	M00064	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.hldE	LPS
+D-beta-D-heptose 7-phosphate kinase / D-beta-D-heptose 1-phosphate adenosyltransferase [EC:2.7.1.167 2.7.7.70]	K03272	pfkB family carbohydrate kinase	PF00294.27	M00064	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.hldE	LPS
+2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	K01627	DAHP synthetase I family	PF00793.22	M00063	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.KDOP	LPS
+2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	K01627	DAHP synthetase I family	PF00793.23	M00063	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.KDOP	LPS
+3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase) [EC:3.1.3.45]	K03270	haloacid dehalogenase-like hydrolase	PF08282.14	M00063	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.kdsC	LPS
+3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase) [EC:3.1.3.45]	K03270	haloacid dehalogenase-like hydrolase	PF08282.15	M00063	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.kdsC	LPS
+arabinose-5-phosphate isomerase [EC:5.3.1.13]	K06041	SIS domain	PF01380.24	M00063	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.kdsD	LPS
+arabinose-5-phosphate isomerase [EC:5.3.1.13]	K06041	SIS domain	PF01380.25	M00063	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.kdsD	LPS
+D-sedoheptulose 7-phosphate isomerase [EC:5.3.1.28]	K03271	SIS domain	PF13580.8	M00064	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpcA	LPS
+D-sedoheptulose 7-phosphate isomerase [EC:5.3.1.28]	K03271	SIS domain	PF13580.9	M00064	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpcA	LPS
+lipid A ethanolaminephosphotransferase [EC:2.7.8.43]	K03760	Sulfatase	PF00884.25	M00867	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.LptA	LPS
+lipid A ethanolaminephosphotransferase [EC:2.7.8.43]	K03760	Phosphoethanolamine transferase EptA/EptB	PF08019.14	M00867	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.LptA	LPS
+lipid A ethanolaminephosphotransferase [EC:2.7.8.43]	K03760	Phosphoethanolamine transferase EptA/EptB	PF08019.15	M00867	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.LptA	LPS
+lipid A ethanolaminephosphotransferase [EC:2.7.8.43]	K03760	Sulfatase	PF00884.26	M00867	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.LptA	LPS
+UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	K00677	Udp N-acetylglucosamine O-acyltransferase; Domain 2	PF13720.8	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxA	LPS
+UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	K00677	Bacterial transferase hexapeptide (six repeats)	PF00132.26	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxA	LPS
+UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	K00677	Udp N-acetylglucosamine O-acyltransferase; Domain 2	PF13720.9	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxA	LPS
+UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	K00677	Bacterial transferase hexapeptide (six repeats)	PF00132.27	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxA	LPS
+lipid-A-disaccharide synthase [EC:2.4.1.182]	K00748	Lipid-A-disaccharide synthetase	PF02684.17	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxB	LPS
+lipid-A-disaccharide synthase [EC:2.4.1.182]	K00748	Lipid-A-disaccharide synthetase	PF02684.18	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxB	LPS
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]	K02535	UDP-3-O-acyl N-acetylglycosamine deacetylase	PF03331.15	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.LpxC	LPS
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]	K02535	UDP-3-O-acyl N-acetylglycosamine deacetylase	PF03331.16	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.LpxC	LPS
+UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	K02536	Bacterial transferase hexapeptide (six repeats)	PF00132.26	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxD	LPS
+UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	K02536	Bacterial transferase hexapeptide (six repeats)	PF00132.27	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxD	LPS
+lipid A 4'-phosphatase [EC:3.1.3.-]	K23159	PAP2 superfamily	PF01569.23	M00867	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxF	LPS
+lipid A 4'-phosphatase [EC:3.1.3.-]	K23159	PAP2 superfamily	PF01569.24	M00867	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxF	LPS
+"UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]"	K03269	Calcineurin-like phosphoesterase	PF00149.30	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxH	LPS
+"UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]"	K03269	Calcineurin-like phosphoesterase superfamily domain	PF12850.9	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxH	LPS
+"UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]"	K03269	Calcineurin-like phosphoesterase superfamily domain	PF12850.10	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxH	LPS
+"UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]"	K03269	Calcineurin-like phosphoesterase	PF00149.31	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxH	LPS
+tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]	K00912	Tetraacyldisaccharide-1-P 4'-kinase	PF02606.16	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxK	LPS
+tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]	K00912	Tetraacyldisaccharide-1-P 4'-kinase	PF02606.17	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxK	LPS
+Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]	K02517	Bacterial lipid A biosynthesis acyltransferase	PF03279.15	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxL	LPS
+Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]	K02517	Bacterial lipid A biosynthesis acyltransferase	PF03279.16	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxL	LPS
+lauroyl-Kdo2-lipid IVA myristoyltransferase [EC:2.3.1.243]	K02560	Bacterial lipid A biosynthesis acyltransferase	PF03279.15	M00060	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxM	LPS
+lauroyl-Kdo2-lipid IVA myristoyltransferase [EC:2.3.1.243]	K02560	Bacterial lipid A biosynthesis acyltransferase	PF03279.15	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxM	LPS
+lauroyl-Kdo2-lipid IVA myristoyltransferase [EC:2.3.1.243]	K02560	Bacterial lipid A biosynthesis acyltransferase	PF03279.16	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxM	LPS
+lauroyl-Kdo2-lipid IVA myristoyltransferase [EC:2.3.1.243]	K02560	Bacterial lipid A biosynthesis acyltransferase	PF03279.16	M00060	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.lpxM	LPS
+UDP-N-acetylglucosamine 2-epimerase (hydrolysing) [EC:3.2.1.183]	K24257	UDP-N-acetylglucosamine 2-epimerase	PF02350.22	M00922	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.neuC	LPS
+UDP-N-acetyl-L-fucosamine synthase [EC:5.1.3.28]	K24258	UDP-N-acetylglucosamine 2-epimerase	PF02350.21	M00923	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.neuC	LPS
+lipid A 3-O-deacylase [EC:3.1.1.-]	K09953	Uncharacterized protein conserved in bacteria (DUF2219)	PF09982.12	M00867	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.pagL	LPS
+"UDP-N-acetylglucosamine 4,6-dehydratase/5-epimerase [EC:4.2.1.115 5.1.3.-]"	K15894	Polysaccharide biosynthesis protein	PF02719.17	M00923	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.pseB	LPS
+"UDP-N-acetylglucosamine 4,6-dehydratase/5-epimerase [EC:4.2.1.115 5.1.3.-]"	K15894	Polysaccharide biosynthesis protein	PF02719.18	M00923	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.pseB	LPS
+ADP-L-glycero-D-manno-heptose 6-epimerase [EC:5.1.3.20]	K03274	NAD dependent epimerase/dehydratase family	PF01370.23	M00064	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.rfaD	LPS
+ADP-L-glycero-D-manno-heptose 6-epimerase [EC:5.1.3.20]	K03274	NAD dependent epimerase/dehydratase family	PF01370.24	M00064	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.rfaD	LPS
+		O-antigen ligase like membrane protein	PF13425.8			LPS.rfaL.like	LPS
+O-antigen biosynthesis protein [EC:2.4.1.-]	K20444	Glycosyl transferase family 2	PF00535.29			LPS.rfbC	LPS
+3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]	K02527	3-Deoxy-D-manno-octulosonic-acid transferase (kdotransferase)	PF04413.18	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.waaA	LPS
+3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]	K02527	3-Deoxy-D-manno-octulosonic-acid transferase (kdotransferase)	PF04413.19	M00060|M00866	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism|Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.waaA	LPS
+O-antigen ligase [EC:2.4.1.-]	K02847	O-Antigen ligase	PF04932.18			LPS.waaL	LPS
+O-antigen ligase [EC:2.4.1.-]	K02847	O-Antigen ligase	PF04932.17			LPS.waaL	LPS
+"UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase [EC:1.1.1.367]"	K19068	NAD dependent epimerase/dehydratase family	PF01370.23	M00923	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	LPS.wbjC	LPS
+O-antigen biosynthesis protein WbqP	K13012	Bacterial sugar transferase	PF02397.18			LPS.WbqP	LPS
+O-antigen biosynthesis protein WbqP	K13012	Bacterial sugar transferase	PF02397.19			LPS.WbqP	LPS
+O-antigen polymerase [EC:2.4.1.-]	K13009	"Virulence factor membrane-bound polymerase, C-terminal"	PF11846.10			LPS.wzy	LPS
+O-antigen polymerase [EC:2.4.1.-]	K13009	"Virulence factor membrane-bound polymerase, C-terminal"	PF11846.11			LPS.wzy	LPS
+long-chain-fatty-acyl-CoA reductase [EC:1.2.1.50]	K03400	Acyl-CoA reductase (LuxC)	PF05893.16			LuxC	lux.operon
+long-chain-fatty-acyl-CoA reductase [EC:1.2.1.50]	K03400	Acyl-CoA reductase (LuxC)	PF05893.17			LuxC	lux.operon
+long-chain-fatty-acid---luciferin-component ligase [EC:6.2.1.19]	K06046	"Acyl-protein synthetase, LuxE"	PF04443.14			LuxE	lux.operon
+long-chain-fatty-acid---luciferin-component ligase [EC:6.2.1.19]	K06046	"Acyl-protein synthetase, LuxE"	PF04443.15			LuxE	lux.operon
+"two-component system, autoinducer 1 sensor kinase/phosphatase LuxN [EC:2.7.13.3 3.1.3.-]"	K15850	Response regulator receiver domain	PF00072.26			LuxN	lux.operon
+"two-component system, autoinducer 1 sensor kinase/phosphatase LuxN [EC:2.7.13.3 3.1.3.-]"	K15850	"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"	PF02518.28			LuxN	lux.operon
+"two-component system, autoinducer 1 sensor kinase/phosphatase LuxN [EC:2.7.13.3 3.1.3.-]"	K15850	Response regulator receiver domain	PF00072.27			LuxN	lux.operon
+"two-component system, repressor protein LuxO"	K10912	Sigma-54 interaction domain	PF00158.28			LuxO	lux.operon
+"two-component system, repressor protein LuxO"	K10912	Sigma-54 interaction domain	PF00158.29			LuxO	lux.operon
+autoinducer 2-binding periplasmic protein LuxP	K10910	Periplasmic binding protein domain	PF13407.8			LuxP	lux.operon
+autoinducer 2-binding periplasmic protein LuxP	K10910	Periplasmic binding protein domain	PF13407.9			LuxP	lux.operon
+autoinducer 2-binding periplasmic protein LuxP	K10910					LuxP	lux.operon
+"two-component system, autoinducer 2 sensor kinase/phosphatase LuxQ [EC:2.7.13.3 3.1.3.-]"	K10909	"LuxQ, periplasmic"	PF09308.12			LuxQ	lux.operon
+"two-component system, autoinducer 2 sensor kinase/phosphatase LuxQ [EC:2.7.13.3 3.1.3.-]"	K10909	"LuxQ, periplasmic"	PF09308.13			LuxQ	lux.operon
+"two-component system, autoinducer 2 sensor kinase/phosphatase LuxQ [EC:2.7.13.3 3.1.3.-]"	K10909	"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"	PF02518.29			LuxQ	lux.operon
+"two-component system, autoinducer 2 sensor kinase/phosphatase LuxQ [EC:2.7.13.3 3.1.3.-]"	K10909	CHASE3 domain	PF05227.16			LuxQ	lux.operon
+"LuxR family transcriptional regulator, transcriptional activator of the bioluminescence operon"	K15852	Autoinducer binding domain	PF03472.17			LuxR	lux.operon
+"LuxR family transcriptional regulator, transcriptional activator of the bioluminescence operon"	K15852	Autoinducer binding domain	PF03472.18			LuxR	lux.operon
+"LuxR family transcriptional regulator, csgAB operon transcriptional regulatory protein"	K04333	"Bacterial regulatory proteins, luxR family"	PF00196.22			LuxR.csgAB	lux.operon
+"LuxR family transcriptional regulator, glucitol operon activator"	K16247	NB-ARC domain	PF00931.24			LuxR.gutR	lux.operon
+"LuxR family transcriptional regulator, maltose regulon positive regulatory protein"	K03556	MalT-like TPR region	PF17874.3			LuxR.MalT	lux.operon
+"LuxR family transcriptional regulator, maltose regulon positive regulatory protein"	K03556	MalT-like TPR region	PF17874.4			LuxR.MalT	lux.operon
+"two-component system, LuxR family, response regulator TtrR"	K13041	Response regulator receiver domain	PF00072.26			LuxR.TtrR	lux.operon
+"two-component system, LuxR family, response regulator TtrR"	K13041	Response regulator receiver domain	PF00072.27			LuxR.TtrR	lux.operon
+"two-component system, LuxR family, sensor histidine kinase TtrS [EC:2.7.13.3]"	K13040	"ABC transporter, phosphonate, periplasmic substrate-binding protein "	PF12974.9			LuxR.TtrS	lux.operon
+"two-component system, LuxR family, sensor histidine kinase TtrS [EC:2.7.13.3]"	K13040	"ABC transporter, phosphonate, periplasmic substrate-binding protein "	PF12974.10			LuxR.TtrS	lux.operon
+"LuxR family transcriptional regulator, positive regulator of biofilm formation"	K20918	"Bacterial regulatory proteins, luxR family"	PF00196.21			LuxR.vpsT	lux.operon
+"LuxR family transcriptional regulator, positive regulator of biofilm formation"	K20918	"Bacterial regulatory proteins, luxR family"	PF00196.22			LuxR.vpsT	lux.operon
+S-ribosylhomocysteine lyase [EC:4.4.1.21]	K07173	S-Ribosylhomocysteinase (LuxS)	PF02664.17	M00609	Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism	LuxS	lux.operon
+S-ribosylhomocysteine lyase [EC:4.4.1.21]	K07173	S-Ribosylhomocysteinase (LuxS)	PF02664.18	M00609	Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism	LuxS	lux.operon
+		Tetracycline repressor LuxT C-terminal domain	PF18285.3			LuxT	lux.operon
+		Tetracycline repressor LuxT C-terminal domain	PF18285.4			LuxT	lux.operon
+"two-component system, phosphorelay protein LuxU"	K10911	Hpt domain	PF01627.25			LuxU	lux.operon
+"two-component system, phosphorelay protein LuxU"	K10911	Hpt domain	PF01627.26			LuxU	lux.operon
+MSHA pilin protein MshA	K10924	Prokaryotic N-terminal methylation motif	PF07963.14			MSHA.MshA	MSHA.pili
+MSHA pilin protein MshA	K10924	Prokaryotic N-terminal methylation motif	PF07963.15			MSHA.MshA	MSHA.pili
+MSHA pilin protein MshA	K10924					MSHA.MshA	MSHA.pili
+MSHA pilin protein MshB	K10925	Prokaryotic N-terminal methylation motif	PF07963.14			MSHA.MshB	MSHA.pili
+MSHA pilin protein MshB	K10925	Prokaryotic N-terminal methylation motif	PF07963.15			MSHA.MshB	MSHA.pili
+MSHA pilin protein MshB	K10925					MSHA.MshB	MSHA.pili
+MSHA pilin protein MshC	K10926	Prokaryotic N-terminal methylation motif	PF07963.14			MSHA.MshC	MSHA.pili
+MSHA pilin protein MshC	K10926	Prokaryotic N-terminal methylation motif	PF07963.15			MSHA.MshC	MSHA.pili
+MSHA pilin protein MshD	K10927	Prokaryotic N-terminal methylation motif	PF07963.14			MSHA.MshD	MSHA.pili
+MSHA pilin protein MshD	K10927	Prokaryotic N-terminal methylation motif	PF07963.15			MSHA.MshD	MSHA.pili
+MSHA pilin protein MshD	K10927					MSHA.MshD	MSHA.pili
+MSHA biogenesis protein MshE	K12276	Type II/IV secretion system protein	PF00437.22			MSHA.MshE	MSHA.pili
+MSHA biogenesis protein MshE	K12276	Type II/IV secretion system protein	PF00437.23			MSHA.MshE	MSHA.pili
+MSHA biogenesis protein MshF	K12277					MSHA.MshF	MSHA.pili
+MSHA biogenesis protein MshG	K12278	"Type II secretion system (T2SS), protein F"	PF00482.25			MSHA.MshG	MSHA.pili
+MSHA biogenesis protein MshG	K12278	"Type II secretion system (T2SS), protein F"	PF00482.26			MSHA.MshG	MSHA.pili
+MSHA biogenesis protein MshI	K12279					MSHA.MshI	MSHA.pili
+MSHA biogenesis protein MshI	K12279	Fimbrial assembly protein (PilN)	PF05137.16			MSHA.MshI	MSHA.pili
+MSHA biogenesis protein MshJ	K12280	"Pilus assembly protein, PilO"	PF04350.15			MSHA.MshJ	MSHA.pili
+MSHA biogenesis protein MshJ	K12280	"Pilus assembly protein, PilO"	PF04350.16			MSHA.MshJ	MSHA.pili
+MSHA biogenesis protein MshJ	K12280	"Type II secretion system (T2SS), protein M"	PF04612.14			MSHA.MshJ	MSHA.pili
+MSHA biogenesis protein MshJ	K12280	"Type II secretion system (T2SS), protein M"	PF04612.15			MSHA.MshJ	MSHA.pili
+MSHA biogenesis protein MshJ	K12280					MSHA.MshJ	MSHA.pili
+MSHA biogenesis protein MshK	K12281					MSHA.MshK	MSHA.pili
+MSHA biogenesis protein MshL	K12282	Bacterial type II and III secretion system protein	PF00263.23			MSHA.MshL	MSHA.pili
+MSHA biogenesis protein MshL	K12282	Bacterial type II and III secretion system protein	PF00263.24			MSHA.MshL	MSHA.pili
+MSHA biogenesis protein MshM	K12283	AAA domain	PF13401.8			MSHA.MshM	MSHA.pili
+MSHA biogenesis protein MshM	K12283	AAA domain	PF13401.9			MSHA.MshM	MSHA.pili
+MSHA biogenesis protein MshN	K12284	Tetratricopeptide repeat	PF14559.8			MSHA.MshN	MSHA.pili
+MSHA biogenesis protein MshN	K12284	Tetratricopeptide repeat	PF14559.9			MSHA.MshN	MSHA.pili
+MSHA biogenesis protein MshN	K12284	TPR repeat	PF13414.9			MSHA.MshN	MSHA.pili
+MSHA biogenesis protein MshN	K12284	Tetratricopeptide repeat	PF07719.20			MSHA.MshN	MSHA.pili
+MSHA biogenesis protein MshO	K12285	Prokaryotic N-terminal methylation motif	PF07963.14			MSHA.MshO	MSHA.pili
+MSHA biogenesis protein MshO	K12285	Prokaryotic N-terminal methylation motif	PF07963.15			MSHA.MshO	MSHA.pili
+MSHA biogenesis protein MshP	K12286					MSHA.MshP	MSHA.pili
+MSHA biogenesis protein MshQ	K12287					MSHA.MshQ	MSHA.pili
+MSHA biogenesis protein MshQ	K12287	H-type lectin domain	PF09458.12			MSHA.MshQ	MSHA.pili
+MSHA biogenesis protein MshQ	K12287	Family of unknown function (DUF6701)	PF20419.1			MSHA.MshQ	MSHA.pili
+MSHA biogenesis protein MshQ	K12287	Concanavalin A-like lectin/glucanases superfamily	PF13385.8			MSHA.MshQ	MSHA.pili
+2-dehydro-3-deoxy-phosphogluconate aldolase [EC:4.1.2.14]	K17463	KDGP aldolase	PF07071.13	M00631|M00061	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.dgaF	mucin.bile.degradation
+2-dehydro-3-deoxy-phosphogluconate aldolase [EC:4.1.2.14]	K17463	KDGP aldolase	PF07071.14	M00631|M00061	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.dgaF	mucin.bile.degradation
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42]	K01625	KDPG and KHG aldolase	PF01081.21	M00008|M00308|M00631|M00061	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.eda	mucin.bile.degradation
+2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42]	K01625	KDPG and KHG aldolase	PF01081.22	M00008|M00308|M00631|M00061	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.eda	mucin.bile.degradation
+2-dehydro-3-deoxygluconokinase [EC:2.7.1.45]	K00874	pfkB family carbohydrate kinase	PF00294.26	M00308|M00631|M00061	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.kdgK	mucin.bile.degradation
+2-dehydro-3-deoxygluconokinase [EC:2.7.1.45]	K00874	pfkB family carbohydrate kinase	PF00294.27	M00308|M00631|M00061	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.kdgK	mucin.bile.degradation
+glucuronate isomerase [EC:5.3.1.12]	K01812	Glucuronate isomerase	PF02614.16	M00631|M00061	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.uxaC	mucin.bile.degradation
+glucuronate isomerase [EC:5.3.1.12]	K01812	Glucuronate isomerase	PF02614.17	M00631|M00061	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism|Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.uxaC	mucin.bile.degradation
+mannonate dehydratase [EC:4.2.1.8]	K01686	D-mannonate dehydratase (UxuA)	PF03786.15	M00061	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.uxuA	mucin.bile.degradation
+mannonate dehydratase [EC:4.2.1.8]	K01686	D-mannonate dehydratase (UxuA)	PF03786.16	M00061	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.uxuA	mucin.bile.degradation
+mannonate dehydratase [EC:4.2.1.8]	K08323	Enolase C-terminal domain-like	PF13378.8	M00061	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.uxuA	mucin.bile.degradation
+mannonate dehydratase [EC:4.2.1.8]	K08323	Enolase C-terminal domain-like	PF13378.9	M00061	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.uxuA	mucin.bile.degradation
+fructuronate reductase [EC:1.1.1.57]	K00040	Mannitol dehydrogenase C-terminal domain	PF08125.15	M00061	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.uxuB	mucin.bile.degradation
+fructuronate reductase [EC:1.1.1.57]	K00040	Mannitol dehydrogenase C-terminal domain	PF08125.16	M00061	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	mucin.uxuB	mucin.bile.degradation
+hemolysin	K10948	Leukocidin/Hemolysin toxin family	PF07968.15	M00850	Signature modules; Gene set; Pathogenicity	path.cholera.hemolysin	pathogenicity
+hemolysin	K10948	Hemolytic toxin N terminal	PF12563.11	M00850	Signature modules; Gene set; Pathogenicity	path.cholera.hemolysin	pathogenicity
+hemolysin	K10948	Leukocidin/Hemolysin toxin family	PF07968.14	M00850	Signature modules; Gene set; Pathogenicity	path.cholera.hemolysin	pathogenicity
+hemolysin	K10948			M00850	Signature modules; Gene set; Pathogenicity	path.cholera.hemolysin	pathogenicity
+toxin YhaV [EC:3.1.-.-]	K19155	RTX toxin acyltransferase family	PF02794.19	M00575	Signature modules; Gene set; Pathogenicity	path.cholera.RTX	pathogenicity
+toxin YhaV [EC:3.1.-.-]	K19155	"Toxin with endonuclease activity, of toxin-antitoxin system"	PF11663.11			path.cholera.RTX	pathogenicity
+cytolysin-activating lysine-acyltransferase [EC:2.3.1.-]	K07389	RTX toxin acyltransferase family	PF02794.18	M00575	Signature modules; Gene set; Pathogenicity	path.cholera.RTX	pathogenicity
+cytolysin-activating lysine-acyltransferase [EC:2.3.1.-]	K07389	RTX toxin acyltransferase family	PF02794.19	M00575	Signature modules; Gene set; Pathogenicity	path.cholera.RTX	pathogenicity
+RTX toxin RtxA	K10953	RtxA repeat	PF07634.13	M00850	Signature modules; Gene set; Pathogenicity	path.cholera.RtxA	pathogenicity
+RTX toxin RtxA	K10953	RtxA repeat	PF07634.14	M00850	Signature modules; Gene set; Pathogenicity	path.cholera.RtxA	pathogenicity
+RTX toxin RtxA	K10953	Actin cross-linking domain	PF16671.8	M00850	Signature modules; Gene set; Pathogenicity	path.cholera.RtxA	pathogenicity
+toxin coregulated pilus biosynthesis protein I	K10961	Methyl-accepting chemotaxis protein (MCP) signalling domain	PF00015.23	M00852	Signature modules; Gene set; Pathogenicity	path.cholera.tcpI	pathogenicity
+toxin coregulated pilus biosynthesis protein I	K10961	Methyl-accepting chemotaxis protein (MCP) signalling domain	PF00015.24	M00852	Signature modules; Gene set; Pathogenicity	path.cholera.tcpI	pathogenicity
+toxin coregulated pilus biosynthesis protein P	K10920	"Transcriptional regulatory protein, C terminal"	PF00486.31	M00852	Signature modules; Gene set; Pathogenicity	path.cholera.tcpP	pathogenicity
+thermostable direct hemolysin	K11019	Vibrio thermostable direct hemolysin	PF03347.16			path.cholera.tdh	pathogenicity
+thermolabile hemolysin	K11018	GDSL-like Lipase/Acylhydrolase	PF00657.24	M00850	Signature modules; Gene set; Pathogenicity	path.cholera.tlh	pathogenicity
+thermolabile hemolysin	K11018	GDSL-like Lipase/Acylhydrolase	PF00657.25	M00850	Signature modules; Gene set; Pathogenicity	path.cholera.tlh	pathogenicity
+zona occludens toxin	K10954	Zonular occludens toxin (Zot)	PF05707.15	M00850	Signature modules; Gene set; Pathogenicity	path.cholera.Zot	pathogenicity
+"outer membrane protein, adhesin transport system"	K12543	Outer membrane efflux protein	PF02321.20	M00575|M00696|M00697	Signature modules; Gene set; Pathogenicity|Signature modules; Gene set; Drug resistance|Signature modules; Gene set; Drug resistance	path.T1SS	pathogenicity
+"outer membrane protein, adhesin transport system"	K12543	Outer membrane efflux protein	PF02321.21	M00575|M00696|M00697	Signature modules; Gene set; Pathogenicity|Signature modules; Gene set; Drug resistance|Signature modules; Gene set; Drug resistance	path.T1SS	pathogenicity
+outer membrane protein	K12340	Outer membrane efflux protein	PF02321.21	M00575|M00696|M00697	Signature modules; Gene set; Pathogenicity|Signature modules; Gene set; Drug resistance|Signature modules; Gene set; Drug resistance	path.T1SS	pathogenicity
+outer membrane protein	K12340	Outer membrane efflux protein	PF02321.20	M00575|M00696|M00697	Signature modules; Gene set; Pathogenicity|Signature modules; Gene set; Drug resistance|Signature modules; Gene set; Drug resistance	path.T1SS	pathogenicity
+type IV secretion system protein VirB11 [EC:7.4.2.8]	K03196	Type II/IV secretion system protein	PF00437.22	M00564	Signature modules; Gene set; Pathogenicity	path.T4SS	pathogenicity
+"trans-2,3-dihydro-3-hydroxyanthranilate isomerase [EC:5.3.3.17]"	K06998	Phenazine biosynthesis-like protein	PF02567.18	M00835	Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds	pyocyanine.phzF	pyocyanine
+"trans-2,3-dihydro-3-hydroxyanthranilate isomerase [EC:5.3.3.17]"	K06998	Phenazine biosynthesis-like protein	PF02567.19	M00835	Pathway modules; Biosynthesis of other secondary metabolites; Biosynthesis of other bacterial compounds	pyocyanine.phzF	pyocyanine
+"MFS transporter, ENTS family, enterobactin (siderophore) exporter"	K08225	Transmembrane secretion effector	PF05977.16			siderophore.entS	iron.aquisition

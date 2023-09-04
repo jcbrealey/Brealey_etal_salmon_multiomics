@@ -1,0 +1,17 @@
+MAG.ID,completeness,contamination
+MAG07_Photobacterium_iliopiscarium,97.35,0.48
+MAG06_Photobacterium_phosphoreum,97.4,0.27
+MAG15_Psychromonas_sp,100,1.08
+MAG08_Aliivibrio_sp,98.81,7.46
+MAG09_Aliivibrio_sp,95.26,1.13
+MAG10_Aliivibrio_salmonicida,97.4,0.13
+MAG16_Prevotella_sp,94.18,2.94
+MAG03_Mycoplasma_sp,98.59,1.25
+MAG12_Carnobacterium_maltaromaticum,98.91,4.19
+MAG14_Clostridium_ljungdahlii,84.21,1.66
+MAG11_Brevinema_sp,93.26,0
+MAG02_Mycoplasma_sp,96.15,0.77
+MAG05_Mycoplasma_sp,90.59,0.25
+MAG13_Lactobacillus_johnsonii,93.89,2.71
+MAG04_Mycoplasma_sp,97.31,1.54
+MAG01_Mycoplasma_salmoninae,86.24,1.76

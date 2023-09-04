@@ -1,0 +1,370 @@
+feature	value	factor	gene.name	anno.figure	robust
+NC_059443.1+LOC106581127	-0.258566222603374	Factor1	fucolectin-3-like	immune	No
+NC_059448.1+LOC106608552	0.202721329712301	Factor1	protein S100-P		No
+NC_059456.1+LOC106570829	0.249911853009383	Factor1	3-hydroxy-3-methylglutaryl-coenzyme A reductase	lipid	No
+NC_059448.1+fel	0.354620223656934	Factor2	Fish-egg lectin	immune	Yes
+NC_059455.1+LOC106570190	-0.348449253867004	Factor2	type-4 ice-structuring protein		Yes
+NC_059449.1+LOC106610497	-0.392091247737334	Factor2	von Willebrand factor A domain-containing protein 7-like		Yes
+NC_059457.1+LOC106574241	0.684643899865636	Factor2	desmin		Yes
+NC_059443.1+afp4	-0.404943530718629	Factor2	antifreeze protein type IV	lipid	No
+NC_059466.1+LOC106586541	-0.379973893973581	Factor2	apolipoprotein A-I	apolipoprotein	Yes
+NC_059460.1+acta2	0.701498609013777	Factor2	actin alpha 2, smooth muscle	ECM	Yes
+NC_059458.1+LOC106575168	0.686344073187742	Factor2	desmin-like		Yes
+NC_059448.1+zanl	-0.298209820105038	Factor2	zonadhesin, like		Yes
+NC_059469.1+LOC106589387	0.648812127400379	Factor2	actin, aortic smooth muscle	ECM	Yes
+NC_059444.1+elof1	0.736700184759787	Factor2	elongation factor 1		Yes
+NC_059452.1+slc12a1	0.29908474028522	Factor2	solute carrier family 12 member 1		Yes
+NC_059454.1+LOC106567267	-0.360489853967052	Factor2	acidic mammalian chitinase		Yes
+NC_059450.1+apoa1	-0.376954062611945	Factor2	apolipoprotein A-I	apolipoprotein	Yes
+NC_059445.1+LOC106602162	-0.271367579406522	Factor2	ladderlectin-like	immune	Yes
+NC_059454.1+LOC106567403	0.676560924959406	Factor2	heat shock protein beta-1		Yes
+NC_059451.1+LOC106560239	-0.303123510252526	Factor2	sodium-dependent phosphate transport protein 2B-like		No
+NC_059448.1+zgc:194655	-0.221447712216863	Factor2	uncharacterized LOC123724069		No
+NC_059442.1+LOC106587655	0.711934389329091	Factor2	thrombospondin-1-like	immune	Yes
+NC_059444.1+cnn1b	0.60388981902278	Factor2	calponin 1, basic, smooth muscle, b	ECM	Yes
+NC_059454.1+LOC100380643	0.734459438241361	Factor2	filamin A, alpha (actin binding protein 280)	ECM	Yes
+NC_059443.1+LOC106589071	0.738863525663641	Factor2	myosin-11-like	ECM	Yes
+NC_059460.1+LOC106578890	0.426147474479315	Factor2	snaclec 1-like		Yes
+NC_059449.1+LOC106592508	-0.242888188229408	Factor2	ladderlectin-like	immune	No
+NC_059442.1+LOC106569632	-0.306649572471454	Factor2	apolipoprotein A-I	apolipoprotein	Yes
+NC_059449.1+isp2	-0.228224974324123	Factor2	Type-2 ice-structuring protein		Yes
+NC_059443.1+LOC106587486	0.369596176085882	Factor2	actin, alpha skeletal muscle 2-like	ECM	Yes
+NC_059450.1+LOC106610834	0.668508228353055	Factor2	thrombospondin-1-like	immune	Yes
+NC_059443.1+LOC106577499	-0.329776960892768	Factor2	apolipoprotein A-I-like	apolipoprotein	Yes
+NC_059456.1+LOC106571178	-0.365037063225871	Factor2	apolipoprotein B-100-like	apolipoprotein	No
+NC_059443.1+LOC106577505	-0.369826034733138	Factor2	apolipoprotein A-IV	apolipoprotein	Yes
+NW_025549279.1+LOC100380663	0.619829364925301	Factor2	myosin-11	ECM	Yes
+NC_059461.1+ret2	-0.249078883335827	Factor2	Retinol-binding protein II, cellular	lipid	Yes
+NC_059455.1+LOC100136439	0.286342729882032	Factor2	cathelicidin antimicrobial peptide	immune	No
+NC_059447.1+LOC123743428	0.596606769595276	Factor2	calponin-1-like		Yes
+NC_059451.1+rbpms2a	0.703738589142527	Factor2	RNA binding protein, mRNA processing factor 2a		Yes
+NC_059448.1+LOC106608508	-0.35666045116033	Factor2	fatty acid-binding protein, intestinal	lipid	Yes
+NC_059448.1+LOC106609541	0.504112838905752	Factor2	Ig kappa-b4 chain C region-like		Yes
+NC_059457.1+LOC106573078	0.624738568275948	Factor2	non-muscle caldesmon-like	ECM	Yes
+NC_059446.1+LOC106605287	-0.24074128611666	Factor2	type-4 ice-structuring protein LS-12		Yes
+NC_059450.1+LOC106612633	0.554401168588185	Factor2	transgelin		Yes
+NC_059456.1+LOC106571269	0.621343471185856	Factor2	collagen alpha-1(XII) chain	ECM	Yes
+NC_059461.1+LOC100136573	-0.246733466560062	Factor2	apolipoprotein A-I	apolipoprotein	Yes
+NC_059463.1+LOC106583599	0.535004509814659	Factor2	myosin regulatory light polypeptide 9		Yes
+NW_025548300.1+LOC123732866	0.238688431257392	Factor2	28S ribosomal RNA		Yes
+NC_059453.1+LOC106565579	0.452307823331378	Factor2	uncharacterized LOC106565579		Yes
+NC_059445.1+LOC106602736	0.618191744870748	Factor2	synaptopodin-2		Yes
+NC_059453.1+LOC123725462	0.491435346166665	Factor2	myosin-11-like		Yes
+NC_059443.1+LOC100136446	0.529292969745405	Factor2	C type lectin receptor A	immune	Yes
+NC_059460.1+LOC106578982	0.429643895091608	Factor2	retinol-binding protein 4-B		Yes
+NC_059461.1+LOC106592016	-0.229843784460666	Factor2	diacylglycerol O-acyltransferase 2-like		Yes
+NC_059458.1+LOC123728348	0.218728145173204	Factor2	18S ribosomal RNA		Yes
+NC_059450.1+LOC123744634	0.246689468829502	Factor2	uncharacterized LOC123744634		Yes
+NC_059452.1+LOC106563252	-0.241455323121388	Factor2	fatty acid-binding protein, liver-type	lipid	Yes
+NC_059463.1+LOC106583595	0.289763978100253	Factor2	uncharacterized LOC106583595		Yes
+NC_059455.1+LOC106570460	0.418635042130347	Factor2	collagen alpha-2(I) chain	ECM	Yes
+NC_059444.1+LOC106600603	-0.202776156524307	Factor2	uncharacterized LOC106600603		No
+NC_059448.1+LOC106609426	0.452665164265389	Factor2	Ig kappa-b4 chain C region-like		Yes
+NC_059469.1+rbp4	0.418578181891737	Factor2	retinol binding protein 4, plasma		Yes
+NC_059442.1+LOC106592479	0.24368455949095	Factor2	DNA damage-inducible transcript 4 protein	signaling	No
+NC_059457.1+LOC106591349	0.632096747825145	Factor2	tensin	signaling	Yes
+NC_059444.1+LOC106598496	-0.235034439743093	Factor2	relaxin-like		Yes
+NC_059461.1+LOC106580347	0.588010601991974	Factor2	smoothelin-like		Yes
+NC_059456.1+mmp9	0.205610257967544	Factor2	matrix metalloproteinase 9	ECM	Yes
+NC_059446.1+LOC106605691	-0.323230360923667	Factor2	apolipoprotein A-IV-like	apolipoprotein	Yes
+NC_059448.1+LOC106608877	0.572346216097963	Factor2	permeability factor 2	immune	Yes
+NC_059442.1+LOC106586810	0.579304195156833	Factor2	gremlin-1-like		Yes
+NC_059453.1+LOC106564730	0.32045382501613	Factor2	actin, alpha skeletal muscle 2	ECM	Yes
+NC_059442.1+LOC106610502	0.456792304256242	Factor2	collagen alpha-1(I) chain	ECM	Yes
+NC_059446.1+LOC106605692	-0.326398630246659	Factor2	apolipoprotein A-IV	apolipoprotein	Yes
+NC_059444.1+LOC100136434	0.622034190852956	Factor2	matrix Gla protein	ECM	Yes
+NC_059462.1+LOC106581830	0.557902158399691	Factor2	myosin light chain kinase, smooth muscle-like		Yes
+NC_059451.1+LOC106560454	-0.312547947128498	Factor2	calcium-activated chloride channel regulator 1-like		No
+NC_059461.1+LOC106580821	0.482908344529888	Factor2	transgelin		Yes
+NC_059445.1+hspb1	0.479273037333371	Factor2	heat shock protein, alpha-crystallin-related, 1		Yes
+NC_059442.1+LOC106612024	-0.321033042233736	Factor2	ectonucleotide pyrophosphatase/phosphodiesterase family member 7-like		No
+NC_059450.1+LOC106612831	0.485323529653256	Factor2	elastin	ECM	Yes
+NC_059455.1+mpz	0.552064312478935	Factor2	myelin protein zero		Yes
+NC_059445.1+pdlim3a	0.574694108257567	Factor2	PDZ and LIM domain 3a		Yes
+NC_059458.1+LOC106575599	0.607404732006788	Factor2	tensin	signaling	Yes
+NC_059443.1+LOC106588082	-0.279234643151999	Factor2	group XIIB secretory phospholipase A2-like protein	lipid	Yes
+NC_059444.1+LOC106601736	-0.211098771162487	Factor2	interferon-induced protein 44	immune	No
+NC_059453.1+myl9b	0.539465818110837	Factor2	myosin, light chain 9b, regulatory		Yes
+NC_059442.1+tpm2	0.561798482084893	Factor2	tropomyosin 2 (beta)	ECM	Yes
+NC_059451.1+LOC106560919	0.575430076746272	Factor2	protein NDRG4		Yes
+NC_059442.1+cfd	0.508881607419018	Factor2	complement factor D (adipsin)	signaling	Yes
+NC_059443.1+LOC123728683	-0.204225977853257	Factor2	carcinoembryonic antigen-related cell adhesion molecule 1-like		No
+NC_059454.1+LOC106567787	0.572783671575047	Factor2	rho GTPase-activating protein 20	signaling	Yes
+NC_059442.1+LOC106604599	0.610376889303988	Factor2	sorbin and SH3 domain-containing protein 1		Yes
+NC_059448.1+LOC106597302	0.335609866747697	Factor2	Ig kappa-b4 chain C region-like		Yes
+NC_059457.1+ccl25b	0.477952278501674	Factor2	chemokine (C-C motif) ligand 25b	immune	Yes
+NC_059462.1+LOC106581666	0.4842523463806	Factor2	collagen alpha-3(VI) chain	ECM	Yes
+NC_059464.1+LOC106591811	-0.205655061162065	Factor2	mucin-2		No
+NC_059454.1+LOC106567093	0.532123195544167	Factor2	junctophilin-2-like		Yes
+NC_059444.1+LOC106600852	0.340585923783334	Factor2	collagen alpha-1(I) chain	ECM	Yes
+NC_059468.1+LOC106588865	0.577810421035643	Factor2	adenylyl cyclase-associated protein 2-like		Yes
+NC_059459.1+cxcl12a	0.569492058020295	Factor2	chemokine (C-X-C motif) ligand 12a (stromal cell-derived factor 1)	immune	Yes
+NC_059449.1+pdli3	0.493232852066816	Factor2	PDZ and LIM domain protein 3		Yes
+NC_059468.1+LOC106588714	-0.27253475675107	Factor2	adseverin	ECM	No
+NC_059461.1+LOC106580088	-0.269553653096644	Factor2	ladderlectin	immune	Yes
+NC_059444.1+LOC106600868	0.563635220201224	Factor2	sodium channel protein type 4 subunit alpha B		Yes
+NC_059457.1+LOC106573503	0.546647919318339	Factor2	tropomyosin alpha-1 chain	ECM	Yes
+NC_059469.1+col1a1b	0.424323974129333	Factor2	collagen, type I, alpha 1b	ECM	Yes
+NC_059464.1+LOC106584496	0.506033739530315	Factor2	fibulin-1	ECM	Yes
+NC_059458.1+lum	0.549667464565606	Factor2	lumican	ECM	Yes
+NC_059451.1+tpm1	0.575880357522603	Factor2	tropomyosin 1 (alpha)	ECM	Yes
+NC_059470.1+LOC106590538	0.268511951382063	Factor2	lipocalin		No
+NC_059442.1+LOC100194678	0.556815003117742	Factor2	smoothelin-like protein 1		Yes
+NC_059457.1+gpx4a	-0.262278564433276	Factor2	glutathione peroxidase 4a		Yes
+NC_059461.1+LOC106580076	0.53731315951579	Factor2	calphotin		Yes
+NC_059458.1+LOC100380696	0.420723070695136	Factor2	fibronectin	ECM	Yes
+NC_059450.1+LOC106612854	-0.222827447444609	Factor2	solute carrier family 13 member 2-like		No
+NC_059461.1+slc6a4b	0.519410109100366	Factor2	solute carrier family 6 member 4b		Yes
+NC_059459.1+LOC106577395	0.259250608100923	Factor2	DNA damage-inducible transcript 4 protein-like	signaling	No
+NC_059457.1+prs23	0.485065926257807	Factor2	Serine protease 23		Yes
+NC_059450.1+spon2b	0.542488550977255	Factor2	spondin 2b, extracellular matrix protein	ECM	Yes
+NC_059448.1+LOC106608612	0.547462325076324	Factor2	synaptopodin-2-like		Yes
+NC_059450.1+lpp60	0.376157081846721	Factor2	60 kDa lysophospholipase		Yes
+NC_059456.1+LOC106572749	0.519345860402263	Factor2	tensin-2-like	signaling	Yes
+NC_059462.1+LOC100286503	0.574262366680535	Factor2	tensin-1	signaling	Yes
+NC_059447.1+LOC100194731	0.54804753945202	Factor2	primary amine oxidase, liver isozyme		Yes
+NC_059447.1+mbl2	0.491922666807149	Factor2	Mannose-binding protein C		Yes
+NC_059460.1+cavin1	0.50384575530621	Factor2	caveolae associated protein 1		Yes
+NC_059448.1+LOC106609495	-0.268985578962526	Factor2	platelet glycoprotein 4-like	signaling	Yes
+NC_059455.1+LOC106568853	0.538493153742784	Factor2	glypican-5-like	ECM	Yes
+NC_059450.1+LOC106611720	0.46513937035282	Factor2	four and a half LIM domains protein 1		Yes
+NC_059444.1+LOC106601915	0.224238086339934	Factor2	suppressor of cytokine signaling 3-like	immune	Yes
+NC_059450.1+tgfbi	0.475417044188194	Factor2	transforming growth factor beta induced	ECM	Yes
+NC_059462.1+LOC106582581	0.473271396997775	Factor2	collagen alpha-2(VI) chain	ECM	Yes
+NC_059444.1+LOC106600490	0.500782067531141	Factor2	myelin protein P0		Yes
+NC_059447.1+LOC106608185	-0.266009001076701	Factor2	phospholipase B1, membrane-associated	lipid	No
+NC_059453.1+prelp	0.519168202485286	Factor2	proline/arginine-rich end leucine-rich repeat protein	ECM	Yes
+NC_059469.1+LOC106589822	-0.301928269215239	Factor2	chitin synthase chs-2-like		No
+NC_059461.1+LOC106581002	0.446172194558075	Factor2	complement C4-B		Yes
+NC_059459.1+LOC106576938	0.516922380673869	Factor2	potassium channel subfamily K member 18-like		Yes
+NC_059469.1+asah2	-0.204422353719644	Factor2	N-acylsphingosine amidohydrolase 2		No
+NC_059450.1+dusp1	0.246440441875056	Factor2	dual specificity phosphatase 1	signaling	No
+NC_059465.1+klf9	0.369091637893281	Factor2	Kruppel-like factor 9		Yes
+NC_059450.1+LOC106610841	0.505971052901078	Factor2	gremlin-1-like		Yes
+NC_059448.1+LOC106608552	-0.233972556740375	Factor2	protein S100-P		Yes
+NC_059456.1+mamdc2a	0.488912324193039	Factor2	MAM domain containing 2a		Yes
+NC_059468.1+LOC106588939	0.352807902382443	Factor2	collagen alpha-2(I) chain	ECM	Yes
+NC_059455.1+LOC106570128	-0.317545690132739	Factor2	apolipoprotein Eb	apolipoprotein	Yes
+NC_059450.1+LOC106612582	0.452226437320182	Factor2	vitamin K-dependent protein S		Yes
+NC_059452.1+c6	0.423379231740355	Factor2	complement component 6	immune	Yes
+NC_059455.1+LOC106570152	0.203290143262716	Factor2	Ig kappa-b4 chain C region-like		No
+NC_059456.1+LOC106572423	0.563919984049012	Factor2	protein phosphatase 1 regulatory subunit 12B		Yes
+NC_059451.1+LOC100195293	0.476706877711179	Factor2	fibulin 1	ECM	Yes
+NC_059442.1+LOC106601584	0.527407241697945	Factor2	fermitin family homolog 2	signaling	Yes
+NW_025550562.1+LOC100380615	0.271918443745806	Factor2	complement component 1, q subcomponent, B chain	immune	No
+NC_059442.1+LOC106561820	0.518028408056921	Factor2	integrin alpha-1-like	signaling	Yes
+NC_059454.1+LOC106566399	0.268422528765904	Factor2	matrix metalloproteinase-9-like	ECM	Yes
+NC_059467.1+crld2	0.510168519416506	Factor2	Cysteine-rich secretory protein LCCL domain-containing 2		Yes
+NC_059458.1+LOC106576384	0.33695755098192	Factor2	Ig kappa-b4 chain C region-like		Yes
+NC_059450.1+LOC106613249	0.475249197798005	Factor2	pentraxin-related protein PTX3	immune	Yes
+NC_059456.1+LOC106571431	0.470019667888063	Factor2	protein stum homolog		Yes
+NC_059450.1+LOC106612711	0.530318444238586	Factor2	latent-transforming growth factor beta-binding protein 4	immune	Yes
+NC_059450.1+LOC100380299	0.452611105650713	Factor2	actinin alpha 1	ECM	Yes
+NC_059457.1+LOC106593628	0.46801316403079	Factor2	fibronectin-like		Yes
+NC_059453.1+LOC123725541	0.366901298653123	Factor2	uncharacterized LOC123725541		Yes
+NC_059469.1+LOC106589839	0.380007139778766	Factor2	metalloproteinase inhibitor 2		Yes
+NC_059442.1+LOC106568813	0.450232879041215	Factor2	collagen alpha-1(XI) chain-like	ECM	Yes
+NC_059460.1+pi15a	0.495134678156084	Factor2	peptidase inhibitor 15a		Yes
+NC_059461.1+isg15	-0.226809647220852	Factor2	ISG15 ubiquitin like modifier		No
+NC_059458.1+LOC106576427	-0.239454117318568	Factor2	platelet glycoprotein 4	signaling	No
+NC_059442.1+actn1	0.481095108747292	Factor2	actinin, alpha 1	ECM	Yes
+NC_059444.1+LOC123741740	-0.255742928910004	Factor2	lysoplasmalogenase-like		Yes
+NC_059455.1+LOC106592181	0.448724568098482	Factor2	collagen alpha-2(VI) chain-like	ECM	Yes
+NC_059453.1+nbl1	0.484512174817944	Factor2	NBL1, DAN family BMP antagonist		Yes
+NC_059468.1+LOC106588303	0.349992059885991	Factor2	Ig kappa chain V-III region MOPC 321-like		Yes
+NC_059455.1+LOC106568918	0.481192311967278	Factor2	uncharacterized LOC106568918		Yes
+NC_059463.1+LOC106582712	0.432882627842059	Factor2	cysteine and glycine-rich protein 1		Yes
+NC_059442.1+LOC106608814	0.460827908228783	Factor2	VIP peptides-like		Yes
+NC_059447.1+col1a1a	0.357624570025743	Factor2	collagen, type I, alpha 1a	ECM	Yes
+NC_059447.1+ctsbb	-0.205751460701272	Factor2	cathepsin Bb		Yes
+NC_059459.1+LOC106577553	-0.247145400763004	Factor2	nuclear factor 7, brain		Yes
+NC_059442.1+tnca	0.416249071983722	Factor2	tenascin Ca		Yes
+NC_059452.1+LOC106562955	0.466328910508809	Factor2	epidermal growth factor-like protein 7		Yes
+NC_059448.1+LOC106576454	0.409737623958644	Factor2	lumican	ECM	Yes
+NC_059452.1+LOC106562962	0.439564132360093	Factor2	collagen alpha-1(V) chain	ECM	Yes
+NC_059454.1+LOC106567965	0.266276708916995	Factor2	uncharacterized LOC106567965		Yes
+NC_059451.1+elavl4	0.404238826339234	Factor2	ELAV like neuron-specific RNA binding protein 4		Yes
+NC_059451.1+LOC106560296	0.481311819093769	Factor2	regulator of G-protein signaling 5	signaling	Yes
+NC_059442.1+slc5a1	-0.271275963267052	Factor2	solute carrier family 5 member 1		No
+NC_059450.1+LOC106612870	0.415028363332165	Factor2	complement C4		Yes
+NC_059455.1+LOC106570558	0.372460416404205	Factor2	stathmin-2-like		Yes
+NC_059459.1+sb:cb1058	-0.221900796220789	Factor2	uncharacterized LOC106578097		Yes
+NC_059449.1+LOC106610225	0.502933999379581	Factor2	endothelin receptor type B	signaling	Yes
+NC_059454.1+LOC106567727	0.28506200146909	Factor2	zinc finger and BTB domain-containing protein 16-A		Yes
+NC_059460.1+LOC106578378	0.236822816205824	Factor2	lipocalin	lipid	Yes
+NC_059451.1+faxdc2	-0.211780078628663	Factor2	fatty acid hydroxylase domain containing 2	lipid	No
+NC_059444.1+LOC106601904	0.235120151400159	Factor2	Ig lambda chain C region-like		No
+NC_059452.1+LOC106563533	0.494784668872889	Factor2	CD81 antigen		Yes
+NC_059450.1+fbln4	0.453064714174387	Factor2	fibulin 4		Yes
+NC_059466.1+LOC106586667	0.455629585180932	Factor2	uncharacterized LOC106586667		Yes
+NC_059454.1+slmapb	0.451788713322947	Factor2	sarcolemma associated protein b		Yes
+NC_059447.1+LOC106606327	0.469735934086054	Factor2	peripheral myelin protein 22		Yes
+NC_059455.1+LOC106569131	0.461382530285546	Factor2	dystrobrevin alpha		Yes
+NC_059451.1+LOC106613694	0.27150942073635	Factor2	lipoprotein lipase	lipid	Yes
+NC_059447.1+ctgf	0.320316508790513	Factor2	connective tissue growth factor	signaling	Yes
+NC_059446.1+LOC106604170	0.228604867297602	Factor2	uncharacterized LOC106604170		No
+NC_059467.1+LOC100195089	0.494262378062181	Factor2	RNA-binding protein with multiple splicing		Yes
+NC_059446.1+fhl1	0.409003438335326	Factor2	Four and a half LIM domains protein 1		Yes
+NC_059454.1+tns2a	0.466130591590261	Factor2	tensin 2a	signaling	Yes
+NC_059458.1+LOC123728251	0.280012678856845	Factor2	uncharacterized LOC123728251		Yes
+NC_059465.1+c7a	0.431745524477836	Factor2	complement component 7a	immune	Yes
+NC_059447.1+LOC106606413	-0.209534413363366	Factor2	lysoplasmalogenase-like		Yes
+NC_059452.1+LOC106587327	0.452308758341972	Factor2	cysteine-rich secretory protein LCCL domain-containing 2-like		Yes
+NC_059451.1+tm4sf4	-0.225404714256501	Factor2	transmembrane 4 L six family member 4		No
+NC_059452.1+LOC106563633	-0.232523998177441	Factor2	organic solute transporter subunit alpha-like	lipid	No
+NC_059462.1+gpm6bb	0.438146787285058	Factor2	glycoprotein M6Bb		Yes
+NC_059445.1+LOC106610223	0.477149200150295	Factor2	endothelin receptor type B	signaling	Yes
+NC_059470.1+LOC106590176	0.431616555552491	Factor2	uncharacterized LOC106590176		Yes
+NC_059465.1+LOC106585608	0.454466748715282	Factor2	vinexin		Yes
+NC_059452.1+LOC106562790	0.478677489329994	Factor2	RNA-binding protein, mRNA-processing factor 2a		Yes
+NC_059448.1+LOC106608788	0.443887706691805	Factor2	multiple PDZ domain protein		Yes
+NC_059447.1+LOC106607795	-0.2017996890639	Factor2	unc-93 homolog A		No
+NC_059463.1+LOC106583134	0.418941979764491	Factor2	matrix remodeling-associated protein 8-like	ECM	Yes
+NC_059446.1+LOC106604192	0.373556736427324	Factor2	SPARC		Yes
+NC_059445.1+LOC106603358	0.460656741328025	Factor2	tubulin polymerization-promoting protein family member 3		Yes
+NC_059457.1+LOC100195512	0.406126582269425	Factor2	Follistatin-related protein 1		Yes
+NC_059443.1+LOC106575974	0.431253169480222	Factor2	protein S100-A1		Yes
+NC_059458.1+pgs2	0.466325561369912	Factor2	Decorin	ECM	Yes
+NC_059444.1+LOC106602034	0.375531657381388	Factor2	pulmonary surfactant-associated protein D-like		Yes
+NW_025550366.1+LOC123739324	0.207352668836803	Factor2	18S ribosomal RNA		Yes
+NC_059468.1+LOC106588374	0.426928729445382	Factor2	tenascin-X	ECM	Yes
+NC_059446.1+LOC106605423	0.408466314771323	Factor2	NAC-alpha domain-containing protein 1-like		Yes
+NC_059468.1+LOC106588507	0.429548693961203	Factor2	zinc transporter 2		Yes
+NW_025550923.1+msrb3	0.398873312224676	Factor2	methionine sulfoxide reductase B3		Yes
+NC_059447.1+pecam1a	0.444752716400705	Factor2	platelet and endothelial cell adhesion molecule 1a		Yes
+NC_059460.1+tgfi1	0.480693245172545	Factor2	Transforming growth factor beta-1-induced transcript 1 protein		Yes
+NC_059445.1+LOC106603109	0.412717513268191	Factor2	interleukin-13 receptor subunit alpha-2-like	immune	Yes
+NC_059444.1+LOC106600995	0.382788041255372	Factor2	C-type mannose receptor 2		Yes
+NC_059463.1+LOC106582964	0.227407287767553	Factor2	transcription factor HES-5		Yes
+NC_059445.1+LOC106602771	0.231640983416117	Factor2	RING finger protein 24-like		Yes
+NC_059466.1+LOC106586824	0.418019302843438	Factor2	collagen alpha-2(V) chain	ECM	Yes
+NC_059454.1+LOC106567513	0.466510182124949	Factor2	dihydropyrimidinase-related protein 3-like	ECM	Yes
+NC_059455.1+LOC106570545	0.414282284063186	Factor2	collagen alpha-1(XVI) chain	ECM	Yes
+NC_059457.1+LOC106574583	0.266576639012131	Factor2	uncharacterized LOC106574583		Yes
+NC_059455.1+LOC100136469	-0.224194658064915	Factor2	anterior gradient-2-like protein 2		No
+NC_059452.1+LOC106563118	0.478405703840446	Factor2	calcium/calmodulin-dependent protein kinase kinase 2-like		Yes
+NC_059447.1+pln	0.418392033492691	Factor2	phospholamban		Yes
+NC_059452.1+mdka	0.365435043983351	Factor2	midkine a		Yes
+NC_059466.1+LOC106586160	0.375334076776874	Factor2	myosin light chain kinase, smooth muscle-like		Yes
+NC_059452.1+loxa	0.364274037047843	Factor2	lysyl oxidase a		Yes
+NC_059455.1+LOC106597727	0.289350111748057	Factor2	Ig kappa-b4 chain C region-like		Yes
+NC_059454.1+LOC100380652	0.297172134500189	Factor2	peptidase inhibitor 16		Yes
+NC_059447.1+LOC106607104	0.224113304890711	Factor2	CD9 antigen		Yes
+NC_059460.1+LOC106578557	0.375579332801274	Factor2	zinc finger E-box-binding homeobox 1-like		Yes
+NC_059456.1+LOC106571081	0.432977862002779	Factor2	EMILIN-1-like		Yes
+NC_059465.1+plcxd3	0.389135048064014	Factor2	phosphatidylinositol-specific phospholipase C, X domain containing 3	lipid	Yes
+NC_059450.1+LOC106611119	0.471370310515268	Factor2	fermitin family homolog 2-like	signaling	Yes
+NC_059456.1+LOC106572760	-0.238013277825091	Factor2	keratin, type I cytoskeletal 18-like		Yes
+NC_059444.1+LOC106599471	0.283723205747522	Factor2	extended synaptotagmin-2-B	lipid	Yes
+NC_059465.1+npc1l1	-0.21966838870637	Factor2	NPC1-like 1	lipid	No
+NC_059467.1+LOC106587204	0.359148995348549	Factor2	pro-adrenomedullin	immune	Yes
+NC_059463.1+asic1b	0.324922753064321	Factor2	acid-sensing (proton-gated) ion channel 1b		Yes
+NC_059455.1+LOC106561261	0.266561918805366	Factor2	collagen alpha-1(VI) chain-like	ECM	Yes
+NC_059450.1+LOC106612255	0.345286110097497	Factor2	SPARC		Yes
+NC_059465.1+thbs4a	0.368699589307189	Factor2	thrombospondin 4a	immune	Yes
+NC_059459.1+LOC123723834	0.447359549806459	Factor2	zinc finger and BTB domain-containing protein 38-like		Yes
+NC_059468.1+LOC106588292	-0.210918478831328	Factor2	uncharacterized LOC106588292		No
+NC_059459.1+LOC106576775	-0.391613150855879	Factor3	cysteine sulfinic acid decarboxylase-like	taurine	Yes
+NC_059443.1+gadl1	-0.430981864187603	Factor3	glutamate decarboxylase like 1	taurine	Yes
+NC_059456.1+mmp9	-0.202703921273188	Factor3	matrix metalloproteinase 9	ECM	No
+NC_059461.1+LOC106580183	-0.281852710122211	Factor3	cysteine dioxygenase type 1-like	taurine	No
+NC_059450.1+LOC106611589	-0.200202547770439	Factor3	leukocyte cell-derived chemotaxin-2	immune	No
+NC_059451.1+LOC106613965	-0.320300619894627	Factor3	flavin-containing monooxygenase 5		No
+NC_059454.1+LOC106566649	-0.215961313752063	Factor3	solute carrier family 12 member 5-like		No
+NC_001960.1+rna133439	-0.552466394717615	Factor7			Yes
+NC_059455.1+LOC106570190	-0.468033554563781	Factor7	type-4 ice-structuring protein		Yes
+NC_059449.1+LOC106610497	-0.221332585829534	Factor7	von Willebrand factor A domain-containing protein 7-like		Yes
+NC_001960.1+rna133441	-0.562992109993803	Factor7			Yes
+NC_059466.1+LOC106586541	-0.571135160329874	Factor7	apolipoprotein A-I	apolipoprotein	Yes
+NC_059448.1+zanl	-0.268386567253163	Factor7	zonadhesin, like		Yes
+NC_001960.1+rna133438	-0.469741660692254	Factor7			Yes
+NC_059450.1+apoa1	-0.212801858118009	Factor7	apolipoprotein A-I	apolipoprotein	Yes
+NC_059464.1+LOC106584699	-0.216497612107437	Factor7	dual oxidase maturation factor 1-like		Yes
+NC_059442.1+LOC106587655	-0.382980632372013	Factor7	thrombospondin-1-like	immune	Yes
+NC_059443.1+gadl1	-0.407935698928572	Factor7	glutamate decarboxylase like 1	taurine	Yes
+NC_059453.1+LOC123725565	-0.526557211567264	Factor7	uncharacterized LOC123725565		Yes
+NC_059442.1+LOC106569632	-0.460388018003004	Factor7	apolipoprotein A-I	apolipoprotein	Yes
+NC_059443.1+LOC106587486	0.206509804936474	Factor7	actin, alpha skeletal muscle 2-like	ECM	Yes
+NC_059450.1+LOC106610834	-0.271203418418807	Factor7	thrombospondin-1-like	immune	Yes
+NC_059443.1+LOC106577499	-0.394327474134606	Factor7	apolipoprotein A-I-like	apolipoprotein	Yes
+NC_059443.1+LOC106577505	-0.477556254178832	Factor7	apolipoprotein A-IV	apolipoprotein	Yes
+NC_059461.1+ret2	-0.426319270959902	Factor7	Retinol-binding protein II, cellular	lipid	Yes
+NC_059444.1+LOC106601071	0.209607880447976	Factor7	hemoglobin subunit alpha-4	heme	Yes
+NC_059446.1+LOC106605287	-0.326843796094535	Factor7	type-4 ice-structuring protein LS-12		Yes
+NW_025548300.1+LOC123732866	-0.42429312660164	Factor7	28S ribosomal RNA		Yes
+NC_059458.1+LOC123728348	-0.217454180055824	Factor7	18S ribosomal RNA		Yes
+NC_059450.1+LOC123744634	-0.260085193740446	Factor7	uncharacterized LOC123744634		Yes
+NC_001960.1+rna133449	-0.314113393531536	Factor7			Yes
+NC_059457.1+LOC106591349	-0.273074530223116	Factor7	tensin	signaling	No
+NC_059446.1+LOC106605691	-0.36598566508337	Factor7	apolipoprotein A-IV-like	apolipoprotein	Yes
+NC_059449.1+LOC106610314	0.314249872513624	Factor7	hydroperoxide isomerase ALOXE3-like	heme	Yes
+NC_059453.1+LOC106564730	0.287937058012589	Factor7	actin, alpha skeletal muscle 2	ECM	Yes
+NC_059446.1+LOC106605692	-0.417150467380216	Factor7	apolipoprotein A-IV	apolipoprotein	Yes
+NC_059451.1+LOC106560454	-0.278513939925483	Factor7	calcium-activated chloride channel regulator 1-like		Yes
+NC_059460.1+LOC106578314	-0.294846275897485	Factor7	angiotensin-converting enzyme-like	signaling	Yes
+NC_059458.1+LOC106576106	-0.20393218780147	Factor7	ladderlectin	immune	Yes
+NC_059455.1+mpz	-0.232333297472862	Factor7	myelin protein zero		Yes
+NC_059458.1+LOC106575599	-0.216539227364553	Factor7	tensin	signaling	No
+NC_059443.1+LOC106588082	-0.365311312376989	Factor7	group XIIB secretory phospholipase A2-like protein	lipid	Yes
+NC_059461.1+LOC106580183	-0.331121707058699	Factor7	cysteine dioxygenase type 1-like	taurine	Yes
+NC_059443.1+LOC106594168	-0.288640826914009	Factor7	cytochrome P450 3A27	heme	Yes
+NC_059462.1+LOC106581666	0.206490751944015	Factor7	collagen alpha-3(VI) chain	ECM	Yes
+NC_059468.1+LOC106588714	-0.320913319051477	Factor7	adseverin	ECM	Yes
+NC_059450.1+LOC106611098	0.217386345036347	Factor7	olfactomedin-4		No
+NC_059450.1+LOC106612854	-0.266505847580099	Factor7	solute carrier family 13 member 2-like		Yes
+NC_059459.1+LOC106577395	-0.207499851084186	Factor7	DNA damage-inducible transcript 4 protein-like	signaling	Yes
+NC_059456.1+LOC106572749	-0.427099869487268	Factor7	tensin-2-like	signaling	Yes
+NC_059444.1+LOC106601915	-0.262734849207945	Factor7	suppressor of cytokine signaling 3-like	immune	Yes
+NC_059445.1+glb1	-0.209587038409659	Factor7	galactosidase, beta 1		Yes
+NC_059444.1+LOC106600490	-0.225179644392353	Factor7	myelin protein P0		Yes
+NC_059469.1+asah2	-0.242420236115218	Factor7	N-acylsphingosine amidohydrolase 2		Yes
+NC_059450.1+dusp1	-0.341656257522714	Factor7	dual specificity phosphatase 1	signaling	Yes
+NC_059465.1+klf9	-0.219407836545309	Factor7	Kruppel-like factor 9		Yes
+NC_059455.1+LOC106570128	-0.32831707325194	Factor7	apolipoprotein Eb	apolipoprotein	Yes
+NC_059444.1+LOC106593002	0.210747089949539	Factor7	monocarboxylate transporter 7-like	taurine	Yes
+NC_059455.1+LOC106570356	-0.330538512132051	Factor7	serine/threonine-protein kinase Sgk1		Yes
+NC_059467.1+crld2	-0.275410094262456	Factor7	Cysteine-rich secretory protein LCCL domain-containing 2		Yes
+NC_059450.1+LOC106613249	-0.258678817617852	Factor7	pentraxin-related protein PTX3	immune	Yes
+NC_059442.1+LOC106612488	-0.34909753602451	Factor7	chitin synthase		Yes
+NC_059450.1+LOC106612711	-0.220247918684145	Factor7	latent-transforming growth factor beta-binding protein 4	immune	Yes
+NC_059453.1+LOC123725541	-0.273257008361598	Factor7	uncharacterized LOC123725541		No
+NC_059469.1+LOC106589894	-0.222856707236567	Factor7	G-protein coupled receptor family C group 5 member C		Yes
+NC_059468.1+LOC106589109	-0.221032648236438	Factor7	alpha-L-fucosidase 1		Yes
+NC_059459.1+scdb	-0.298291606470131	Factor7	stearoyl-CoA desaturase b	lipid	Yes
+NC_059444.1+LOC123741740	-0.360909595835334	Factor7	lysoplasmalogenase-like		Yes
+NC_059443.1+LOC106590330	-0.218952080872258	Factor7	heme oxygenase	heme	Yes
+NC_059454.1+LOC106567965	-0.2216286016643	Factor7	uncharacterized LOC106567965		Yes
+NC_059451.1+elavl4	-0.240522474990534	Factor7	ELAV like neuron-specific RNA binding protein 4		Yes
+NC_059457.1+alpi.2	-0.258810049436406	Factor7	alkaline phosphatase, intestinal, tandem duplicate 2		Yes
+NC_059459.1+sb:cb1058	-0.265298902573485	Factor7	uncharacterized LOC106578097		Yes
+NC_059449.1+LOC106610225	-0.245153514838875	Factor7	endothelin receptor type B	signaling	Yes
+NC_059457.1+LOC106573930	-0.294350353034373	Factor7	growth arrest and DNA damage-inducible protein GADD45 beta		Yes
+NC_059454.1+LOC106567727	-0.226180070806282	Factor7	zinc finger and BTB domain-containing protein 16-A		Yes
+NC_059445.1+LOC106603518	-0.271303661130772	Factor7	clathrin heavy chain 1		Yes
+NC_059447.1+ctgf	-0.248504692931652	Factor7	connective tissue growth factor	signaling	Yes
+NC_059454.1+tns2a	-0.260999655815927	Factor7	tensin 2a	signaling	Yes
+NC_059447.1+LOC106606413	-0.426726440748246	Factor7	lysoplasmalogenase-like		Yes
+NC_059452.1+LOC106587327	-0.264877784420531	Factor7	cysteine-rich secretory protein LCCL domain-containing 2-like		Yes
+NC_059452.1+LOC106563633	-0.234007471158792	Factor7	organic solute transporter subunit alpha-like	lipid	Yes
+NC_059442.1+LOC106565855	-0.257493599137294	Factor7	C-C motif chemokine 19	immune	Yes
+NC_059445.1+LOC106610223	-0.2226727850889	Factor7	endothelin receptor type B	signaling	Yes
+NC_059443.1+LOC106582649	0.252579165771269	Factor7	uncharacterized LOC106582649		Yes
+NC_059453.1+LOC106590030	-0.227126811093164	Factor7	heme oxygenase	heme	Yes
+NC_059467.1+LOC106587816	-0.206517180904499	Factor7	lactadherin-like		Yes
+NC_059457.1+LOC100195512	0.252277778415532	Factor7	Follistatin-related protein 1		Yes
+NC_059442.1+1433b	-0.290993463716791	Factor7	14-3-3 protein beta/alpha	signaling	No
+NW_025550366.1+LOC123739324	-0.226847149186055	Factor7	18S ribosomal RNA		Yes
+NC_059447.1+myo6a	-0.299007339319153	Factor7	myosin VIa	ECM	Yes
+NC_059459.1+t4s5	-0.308988650119301	Factor7	Transmembrane 4 L6 family member 5		Yes
+NC_059453.1+LOC106565905	0.227514410043006	Factor7	angiotensin II receptor-associated protein	signaling	Yes
+NC_059444.1+LOC106602055	-0.214001276678011	Factor7	retinoid-inducible serine carboxypeptidase-like		Yes
+NC_059455.1+LOC100136469	0.244764925048197	Factor7	anterior gradient-2-like protein 2		Yes
+NC_059450.1+LOC100196094	-0.229161494896461	Factor7	dipeptidyl peptidase 1	immune	Yes
+NC_059459.1+muc3a	-0.25599616374917	Factor7	mucin 3A, cell surface associated		Yes
+NC_059446.1+LOC106605689	-0.255216921953405	Factor7	apolipoprotein Eb	apolipoprotein	Yes
+NC_059465.1+plcxd3	-0.217772003776093	Factor7	phosphatidylinositol-specific phospholipase C, X domain containing 3	lipid	Yes
+NC_059468.1+agr2	0.231026790452069	Factor7	anterior gradient 2		Yes
+NC_059447.1+LOC106606429	-0.215474659380854	Factor7	suppressor of cytokine signaling 3-like	immune	Yes
+NC_059445.1+LOC106602715	-0.271496712910398	Factor7	microsomal triglyceride transfer protein-like	lipid	Yes
+NC_059465.1+npc1l1	-0.296612600500102	Factor7	NPC1-like 1	lipid	Yes
+NC_059467.1+LOC106587204	-0.27680670464919	Factor7	pro-adrenomedullin	immune	Yes
