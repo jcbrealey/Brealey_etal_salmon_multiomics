@@ -814,7 +814,7 @@ row.names(fa.ratio) <- fa.ratio$Fish.ID
 ```
 
 
-**PCA**
+### Supp figure: PCA
 
 ```{r fig.height=5, fig.width=10}
 # PCA on % analytes (not sums) including pellets
@@ -844,7 +844,7 @@ ggplot()+
              data = per.pca1.coord, size = 3)+
   scale_x_continuous(limits = c(-9,9)) + scale_y_continuous(limits = c(-9,9))+
   coord_equal()+
-  labs(x = paste0("PC1 (",fa.pc1,"%)"), y = paste0("PC2 (",fa.pc2,"%)"), color = "FA batch", shape = "Feed type")+
+  labs(x = paste0("PC1 (",fa.pc1,"%)"), y = paste0("PC2 (",fa.pc2,"%)"), color = "Fatty acid\nbatch", shape = "Feed type")+
   theme_bw() + theme(panel.grid = element_blank(), legend.position = "right",
                      axis.text = element_text(size = 12, colour = "black"), axis.title = element_text(size = 13), panel.border = element_rect(size = 1.2))
 
@@ -855,27 +855,36 @@ ggplot()+
              data = per.pca1.coord, size = 3)+
   scale_x_continuous(limits = c(-9,9)) + scale_y_continuous(limits = c(-9,9))+
   coord_equal()+
-  labs(x = paste0("PC1 (",fa.pc1,"%)"), y = paste0("PC3 (",fa.pc3,"%)"), color = "Size class")+
+  labs(x = paste0("PC1 (",fa.pc1,"%)"), y = paste0("PC3 (",fa.pc3,"%)"), color = "Size class", shape = "Feed type")+
   theme_bw() + theme(panel.grid = element_blank(), legend.position = "right",
                      axis.text = element_text(size = 12, colour = "black"), axis.title = element_text(size = 13), panel.border = element_rect(size = 1.2))
 
 cowplot::plot_grid(fa.p1, fa.p2, align = "hv", axis = "lrtb", nrow = 1)
-
+ggsave("figures/Supp_figure_fatty_acid_PCAs.png", units = "in", dpi = 800, width = 10, height = 5)
 ```
 
-**PCA of fatty acid abundances** coloured processing batch (**A**) and size class (**B**). Shape indicates feed type in both. PCA on fatty acid profiles shows clear separation by feed type (PC1), fatty acid processing batch (PC2) and size class (PC3).
+**Fig. S4.** Ordination (PCA) of fatty acid profiles in salmon muscle. Individuals show strong variation by feed type on PC1 and some variation by fatty acid processing batch on PC2 (**A**) and some variation by size class on PC3 (**B**). PCAs were based on normalised and transformed fatty acid abundances. Based on PERMANOVA results using Euclidean distances, feed type contributed to 34.8% of the variation in fatty acid abundances (F = 242.4, p = 0.001), size class contributed to 5.8% of the variation (F = 20.33, p = 0.001) and fatty acid processing batch contributed to 1.0% of the variation (F = 1.82, p = 0.086). Detailed results from the PERMANOVAs are presented in Table S1.
+
 
 ```{r}
 per.dist.euc <- vegdist(per.pca.df[,which(names(per.pca.df) %in% analytes.per)], method = "euclidean")
 
-adonis2(per.dist.euc ~ per.pca.df$Feed.Type +  per.pca.df$Size.class + per.pca.df$Tapeworm.bin + per.pca.df$Fatty_Acid_Batch, permutations = 999)
+fatty.acid.perm <- adonis2(per.dist.euc ~ per.pca.df$Feed.Type +  per.pca.df$Size.class + per.pca.df$Tapeworm + per.pca.df$Fatty_Acid_Batch, permutations = 999)
+fatty.acid.perm
 
+# format to print as table
+fatty.acid.perm.df <- as.data.frame(fatty.acid.perm)
+fatty.acid.perm.df$Variable <- row.names(fatty.acid.perm.df)
+fatty.acid.perm.df$Dataset <- "fatty.acid"
+row.names(fatty.acid.perm.df) <- NULL
 ```
 
 PERMANOVA shows that feed type explains ~ 35% of the variation between samples, size class ~ 5.5% and batch effects ~ 1.5%. Note that some of the observed batch effects are driven by one group that were sampled on the last day and had been starved by 2.5 days.
 
 
-### Supp table: Differential abundance testing
+**Differential abundance testing**
+
+Note this analysis was not included in the final version of the manuscript.
 
 Abundance associations with [Maaslin2](https://huttenhower.sph.harvard.edu/maaslin/). Testing for individual fatty acids associated with feed type, size class and tapeworm detection, while controlling for sampling date as a random effect.
 
@@ -913,7 +922,7 @@ if(file.exists("output_maaslin2/FA_per/all_results.tsv")){
 ```
 
 
-**Table S1**. Associations (FDR < 0.2) between fish phenotypes and fatty acid relative abundances in muscle.
+Associations (FDR < 0.2) between fish phenotypes and fatty acid relative abundances in muscle.
 
 ```{r echo = TRUE, results='asis'}
 maas.fa.per <- maas.fa.per[order(maas.fa.per$metadata, maas.fa.per$value, maas.fa.per$coef),]
@@ -1116,7 +1125,7 @@ pheatmap(m16S.df.clr.nas[asv.list.hm,m16S.sample.list.hm], cluster_cols = F, clu
          show_rownames = F, show_colnames = F)
 ```
 
-**Fig. S4**. Microbiota community composition of salmon gut content compared to salmon gut 1529 mucosa scrapes and feed pellet, determined by 16S metabarcoding. (**A**) Heatmap of the abundance (centre-log-ratio normalised) of the 64 amplicon sequence variants (ASVs) present in at least 5 samples after quality control. ASVs are annotated by their taxonomic clade, where “other” indicates ASVs that could not be assigned taxonomy at the level of order. ASVs within the order *Alteromonadales* were classified as the genus *Neiella*. ASVs within the family *Mycoplasmataceae* were classified as the genus *Mycoplasma* (17 ASVs) or an unknown genus within the *Mycoplasmataceae* family (13 ASVs). Other taxonomic clades are provided at the genus level. Samples are annotated by sample type and commercial feed type.
+**Fig. S7**. Microbiota community composition of salmon gut content compared to salmon gut 1529 mucosa scrapes and feed pellet, determined by 16S metabarcoding. (**A**) Heatmap of the abundance (centre-log-ratio normalised) of the 64 amplicon sequence variants (ASVs) present in at least 5 samples after quality control. ASVs are annotated by their taxonomic clade, where “other” indicates ASVs that could not be assigned taxonomy at the level of order. ASVs within the order *Alteromonadales* were classified as the genus *Neiella*. ASVs within the family *Mycoplasmataceae* were classified as the genus *Mycoplasma* (17 ASVs) or an unknown genus within the *Mycoplasmataceae* family (13 ASVs). Other taxonomic clades are provided at the genus level. Samples are annotated by sample type and commercial feed type.
 
 ### Supp figure: Venn
 
@@ -1144,7 +1153,7 @@ ggsave("figures/Supp_figure_16S_venn.png", units = "in", dpi = 800, width = 5, h
 
 ```
 
-**Fig. S4**. Microbiota community composition of salmon gut content compared to salmon gut 1529 mucosa scrapes and feed pellet, determined by 16S metabarcoding. (**B**) Venn diagram of the 64 ASVs in **Fig. S4A** detected at least once within each sample type. The 16 ASVs unique to gut content samples included 14 low-abundant *Mycoplasmataceae* taxa and 2 *Alteromonadales* taxa.
+**Fig. S7**. Microbiota community composition of salmon gut content compared to salmon gut 1529 mucosa scrapes and feed pellet, determined by 16S metabarcoding. (**B**) Venn diagram of the 64 ASVs in **Fig. S7A** detected at least once within each sample type. The 16 ASVs unique to gut content samples included 14 low-abundant *Mycoplasmataceae* taxa and 2 *Alteromonadales* taxa.
 
 ```{r}
 ## what are unique to feed pellet and gut content?
@@ -1421,7 +1430,7 @@ ggplot(comparison, aes(ASV.abund, bin.abund, color = Genus))+
 ggsave("figures/Supp_figure_16S_vs_MAG_abundance.png", units = "in", dpi = 600, width = 7, height = 5)
 ```
 
-**Fig. S3.** Comparison of microbial relative abundances in salmon gut content samples captured by MAG assembly versus 16S profiling. The colours represent microbial genera, families, or orders in the case of Alteromonadales, as defined in the legend. The dashed line indicates hypothetical perfect concordance in relative abundances between the MAG and 16S profiling methods. Relative abundances are shown on a log10 scale. Generally, good agreement was observed for the most common microbial taxa. However, Psychromonas and Clostridium were only detected by MAG assembly (with relative abundances < 0.1%), while Neiella was only detected by 16S profiling. Psychromonas and Neiella are both of the order Alteromonadales and have somewhat similar relative abundances in the MAG and 16S datasets, respectively, suggesting that they may partly represent the same cluster of microbes that were assigned different taxonomies at lower levels due to differences in the databases used. ‘Other’ represents all 16S amplicon sequencing variants (ASVs) that are not represented by the MAG catalogue and accounts for approximately 0.1% of the total number of reads assigned to ASVs.
+**Fig. S6.** Comparison of microbial relative abundances in salmon gut content samples captured by MAG assembly versus 16S profiling. The colours represent microbial genera, families, or orders in the case of Alteromonadales, as defined in the legend. The dashed line indicates hypothetical perfect concordance in relative abundances between the MAG and 16S profiling methods. Relative abundances are shown on a log10 scale. Generally, good agreement was observed for the most common microbial taxa. However, Psychromonas and Clostridium were only detected by MAG assembly (with relative abundances < 0.1%), while Neiella was only detected by 16S profiling. Psychromonas and Neiella are both of the order Alteromonadales and have somewhat similar relative abundances in the MAG and 16S datasets, respectively, suggesting that they may partly represent the same cluster of microbes that were assigned different taxonomies at lower levels due to differences in the databases used. ‘Other’ represents all 16S amplicon sequencing variants (ASVs) that are not represented by the MAG catalogue and accounts for approximately 0.1% of the total number of reads assigned to ASVs.
 
 
 ## MetaG community analysis
@@ -1473,6 +1482,12 @@ ord.euc <- ps_ordination_f(bin.ps.log, "NMDS", "euclidean", c(2:4), "output_ordi
 dist.euc <- phyloseq::distance(bin.ps.log, method = "euclidean")
 perm.euc <- adonis2(dist.euc ~ Size.class + Tapeworm + Feed.Type, data = data.frame(sample_data(bin.ps.log)), method = "euclidean")
 perm.euc
+
+# format to print as table
+perm.euc.df <- as.data.frame(perm.euc)
+perm.euc.df$Variable <- row.names(perm.euc.df)
+perm.euc.df$Dataset <- "MAG.abund"
+row.names(perm.euc.df) <- NULL
 ```
 
 Using *log10-transformed* filtered abundances and NMDS on euclidean distances. NMDS stress: `r round(ord.euc$ord$stress, digits = 3)`, k = `r ord.euc$k`. Overall size, cestode index and feed type explain `r round((1-perm.euc["Residual","R2"])*100, digits = 1)`% of sample variation. Some tendency for small, tapewormy fish to be on one side of D1 and large, tapeworm-less fish to be on the other but not a strong association - however, wider variation between samples within small, tapeworm-y fish, compared to larger, healthier fish.
@@ -1577,6 +1592,12 @@ ordPA.jac.scores <- merge(ordPA.jac.scores, meta[,c("Fish.ID",metavar.fish)], by
 
 perm.PAjac <- adonis2(distPA.jac ~ Tapeworm + Size.class + Feed.Type, data = ordPA.jac.scores, method = "jaccard")
 perm.PAjac
+
+# format to print as table
+perm.PAjac.df <- as.data.frame(perm.PAjac)
+perm.PAjac.df$Variable <- row.names(perm.PAjac.df)
+perm.PAjac.df$Dataset <- "MAG.det"
+row.names(perm.PAjac.df) <- NULL
 ```
 
 
@@ -1741,7 +1762,7 @@ meta$Bin.ab.NMDS2 <- sapply(meta$Fish.ID, function(x){
 ```
 
 
-### Supplementary ordination figure
+### Supp figure ordination
 
 ```{r message=FALSE, warning=FALSE, fig.height=10, fig.width=12}
 
@@ -1821,7 +1842,7 @@ ggsave("figures/Supp_figure_metag_ordinations.png", units = "in", dpi = 600, wid
 
 ```
 
-**Fig. S1.** Ordination (NMDS) of metagenomes, based on MAG abundance (**A, C, E**) and MAG presence/absence (**B, D, F**). Individuals are coloured by cestode index (**A, B**), size class (**C, D**) or feed type (**E, F**). For MAG abundance (**A, C, E**), the NMDS was generated using Euclidean distances (NMDS stress: 0.200, k = 2). Based on PERMANOVA results, cestode index contributed to 5.70% of the variation in abundance (F = 8.21, p = 0.001), size class to 3.56% (F = 7.70, p = 0.001), and feed type to 1.68% (F = 7.28, p = 0.001). For presence/absence (**B, D, F**), the NMDS was generated from Jaccard distances (NMDS stress: 0.135, k = 3). In the PERMANOVA, all three phenotypes explained very little variation in MAG detection. Detailed results from the PERMANOVAs are presented in table S3.
+**Fig. S1.** Ordination (NMDS) of metagenomes, based on MAG abundance (**A, C, E**) and MAG presence/absence (**B, D, F**). Individuals are coloured by cestode index (A, B), size class (C, D) or feed type (E, F). For MAG abundance (A, C, E), the NMDS was generated using Euclidean distances (NMDS stress: 0.200, k = 2). Based on PERMANOVA results, cestode index contributed to 5.70% of the variation in abundance (F = 8.21, p = 0.001), size class to 3.56% (F = 7.70, p = 0.001), and feed type to 1.68% (F = 7.28, p = 0.001). For presence/absence (B, D, F), the NMDS was generated from Jaccard distances (NMDS stress: 0.135, k = 3). In the PERMANOVA, all three phenotypes explained very little variation in MAG detection.  Detailed results from the PERMANOVAs are presented in Table S1.
 
 ### Figure 2
 
@@ -1944,9 +1965,9 @@ ggplot(meta, aes(Size.class, Bin.alpha.hill1))+
 ggsave("figures/Supp_figure_metag_alphadiv.png", units = "in", dpi = 600, width = 7, height = 4)
 ```
 
-**Fig. S2**. Alpha diversity (Hill’s Shannon index) of metagenomes, based on MAG abundance, stratified by cestode detection and size class.
+**Fig. S5**. Alpha diversity (Hill’s Shannon index) of metagenomes, based on MAG abundance, stratified by cestode detection and size class.
 
-**Table S4**. Linear model of metagenome alpha diversity differences among fish phenotypes.
+**Table S3**. Linear model of metagenome alpha diversity differences among fish phenotypes.
 
 ```{r message=FALSE, warning=FALSE}
 # Statistics for figure:
@@ -1972,7 +1993,7 @@ maas.mag.abund <- maas.mag.abund[order(maas.mag.abund$metadata,maas.mag.abund$va
 ```
 
 
-**Table S5A.** Associations (FDR < 0.05) between fish phenotypes and metagenomes, based on MAG abundance (n = 392).
+**Table S4A.** Associations (FDR < 0.05) between fish phenotypes and metagenomes, based on MAG abundance (n = 392).
 
 ```{r echo = TRUE, results='asis'}
 maas.mag.abund[which(maas.mag.abund$qval < 0.05 & !maas.mag.abund$value %in% c(".C",".Q")),c(1:5,9)] %>%
@@ -2005,7 +2026,7 @@ maas.mag.pa <- maas.mag.pa[order(maas.mag.pa$metadata,maas.mag.pa$value,maas.mag
 ```
 
 
-**Table S5B.** Associations (FDR < 0.05) between fish phenotypes and metagenomes, based on MAG presence/absence (n = 392).
+**Table S4B.** Associations (FDR < 0.05) between fish phenotypes and metagenomes, based on MAG presence/absence (n = 392).
 
 ```{r echo = TRUE, results='asis'}
 maas.mag.pa[which(maas.mag.pa$qval < 0.05 & !maas.mag.pa$value %in% c(".C",".Q")),c(1:5,9)] %>%
@@ -2327,7 +2348,7 @@ ggplot(myco.pangenes.heatmap[which(myco.pangenes.heatmap$aln.per > 0.5),], aes(p
 
 ```
 
-**Fig. 5A**. Functional analysis of *Mycoplasmataceae* MAGs compared to reference genomes. Genomes are ordered by their phylogenetic relationships, from a tree built from single-copy bacterial genes present in all genomes (tree not shown in Rmarkdown). Trees were rooted using *Ureaplasma* reference genomes as outgroups. Heatmap presents the presence (grey) or absence (white) of genes involved in nutrient metabolism, colonisation and/or virulence functions. Genes are grouped by related functions, including genes in the arginine deiminase pathway, glycerol uptake and metabolism, adherins that bind to host cell molecules and enzymes which cleave host cell polysaccharides to aid adherence and more specific virulence factors, including the *M. mobile* gliding mechanism Gli349 and bacterial toxin production. A complete list of gene symbols with detailed names and functions is provided in table S13.
+**Fig. 5A**. Functional analysis of *Mycoplasmataceae* MAGs compared to reference genomes. Genomes are ordered by their phylogenetic relationships, from a tree built from single-copy bacterial genes present in all genomes (tree not shown in Rmarkdown). Trees were rooted using *Ureaplasma* reference genomes as outgroups. Heatmap presents the presence (grey) or absence (white) of genes involved in nutrient metabolism, colonisation and/or virulence functions. Genes are grouped by related functions, including genes in the arginine deiminase pathway, glycerol uptake and metabolism, adherins that bind to host cell molecules and enzymes which cleave host cell polysaccharides to aid adherence and more specific virulence factors, including the *M. mobile* gliding mechanism Gli349 and bacterial toxin production. A complete list of gene symbols with detailed names and functions is provided in Table S12.
 
 ### Vibrionaceae
 
@@ -2510,7 +2531,7 @@ ggplot(vibrio.pangenes.heatmap, aes(gene.short, subj.name, fill = present))+
 # ggsave("figures/Figure_metag_vibrio_pangenomics_230822_nolabels.png", units = "in", dpi = 800, width = 5.5, height = 4)
 ```
 
-**Fig. 5B**. Functional analysis of *Vibrionaceae* MAGs compared to reference genomes. Genomes are ordered by their phylogenetic relationships, from a tree built from single-copy bacterial genes present in all genomes (tree not shown in Rmarkdown). Trees were rooted using *Vibrio* reference genomes as outgroups. Heatmap presents the presence (grey) or absence (white) of genes involved in nutrient metabolism, colonisation and/or virulence functions. Genes are grouped by related functions, including genes of known relevance to the *Vibrionaceae* clade, specifically genes involved in chitin degradation, (involved in the colonisation of invertebrates), the D-glucuronate degradation pathway (involved in adaptation to the gut), synthesis of aerobactin (siderophore used to sequester iron), community communication via quorum sensing, hemolysin toxin production and other toxin-producing genes. A complete list of gene symbols with detailed names and functions is provided in table S13.
+**Fig. 5B**. Functional analysis of *Vibrionaceae* MAGs compared to reference genomes. Genomes are ordered by their phylogenetic relationships, from a tree built from single-copy bacterial genes present in all genomes (tree not shown in Rmarkdown). Trees were rooted using *Vibrio* reference genomes as outgroups. Heatmap presents the presence (grey) or absence (white) of genes involved in nutrient metabolism, colonisation and/or virulence functions. Genes are grouped by related functions, including genes of known relevance to the *Vibrionaceae* clade, specifically genes involved in chitin degradation, (involved in the colonisation of invertebrates), the D-glucuronate degradation pathway (involved in adaptation to the gut), synthesis of aerobactin (siderophore used to sequester iron), community communication via quorum sensing, hemolysin toxin production and other toxin-producing genes. A complete list of gene symbols with detailed names and functions is provided in Table S12.
 
 ## HostG
 
@@ -2790,7 +2811,7 @@ gg_qqplot_df <- function(ps, ci = 0.95) {
   return(df)
 }
 
-gwas.mag05.res.all <- read.delim("output_GWAS/binPA_MAG05_Mycoplasma_sp_all.assoc.clean.txt")
+gwas.mag05.res.all <- read.delim(gzfile("output_GWAS/binPA_MAG05_Mycoplasma_sp_all.assoc.clean.txt.gz","rt"))
 MAG05.qqplot.df <- gg_qqplot_df(gwas.mag05.res.all$p_wald)
 # gwas.mag05.res.all is large, remove after getting plot data
 rm(gwas.mag05.res.all)
@@ -3024,17 +3045,28 @@ ggplot(rna.pca.coord, aes(Dim.1, Dim.4, color=Size.class))+
 
 cowplot::plot_grid(supp.fig.pca1, supp.fig.pca2, align = "hv", axis = "tblr", nrow = 2, labels = c("A","B"))
 
-ggsave("figures/Supp_figure_hostRNA_PCAs.png", units = "in", dpi = 800, width = 6, height = 7)
+# ggsave("figures/Supp_figure_hostRNA_PCAs.png", units = "in", dpi = 800, width = 6, height = 7)
 ```
 
-**Fig. S6.** Ordination (PCA) of host gut epithelial transcriptomes. Individuals showed some variation by feed type on PC3 (**A**) and some variation by size class on PC4 (**B**). PCAs were based on normalised and transformed gene expression data. Based on PERMANOVA results (see below), feed type contributed to 2.7% of the variation in gene expression values (F = 9.63, p = 0.001) and size class contributed to 2.0% of the variation (F = 3.53, p = 0.001). Detailed results from the PERMANOVAs are presented in table S3.
+**Fig. S2.** Ordination (PCA) of host gut epithelial transcriptomes. Individuals showed some variation by feed type on PC3 (**A**) and some variation by size class on PC4 (**B**). PCAs were based on normalised and transformed gene expression data. Based on PERMANOVA results using Euclidean distances, feed type contributed to 2.7% of the variation in gene expression values (F = 9.63, p = 0.001) and size class contributed to 2.0% of the variation (F = 3.53, p = 0.001). Detailed results from the PERMANOVAs are presented in Table S1.
 
 
 ```{r}
 rna.dist <- vegdist(t(rna.vst.data), method = "euclidean")
 
-adonis2(rna.dist ~ Feed.Type + Size.class, rna.meta,
-        permutations = 999, method = "euclidean")
+# adonis2(rna.dist ~ Feed.Type + Size.class, rna.meta,
+#         permutations = 999, method = "euclidean")
+
+perm.rna <- adonis2(rna.dist ~ Feed.Type + Size.class + Tapeworm, rna.meta,
+                    permutations = 999, method = "euclidean")
+perm.rna
+
+# format to print as table
+perm.rna.df <- as.data.frame(perm.rna)
+perm.rna.df$Variable <- row.names(perm.rna.df)
+perm.rna.df$Dataset <- "HostRNA"
+row.names(perm.rna.df) <- NULL
+
 ```
 
 
@@ -3118,7 +3150,7 @@ plot_grid(fig3a,
           align = "hv", axis = "ltb",
           nrow = 2,
           labels = c("A","B","C","D"))
-ggsave("figures/Figure_gwas_MAG05chr5.png", units = "in", dpi = 800, height = 7, width = 10)
+# ggsave("figures/Figure_gwas_MAG05chr5.png", units = "in", dpi = 800, height = 7, width = 10)
 ```
 
 
@@ -3234,6 +3266,128 @@ MAG05.chr5.deseq.m3.res <- run_deseq_f(
 )
 
 ```
+
+### QC
+
+Summary of RNA integrity numbers (RINs) of sequenced samples:
+
+```{r}
+summary(rna.mapping.stats$RNA.extract.RIN)
+```
+
+#### Supp figure
+
+Coverage curves of genes of interest (identified in GWAS above and MOFA below) before and after DegNorm normalisation for RNA degradation - only including samples used for analysis:
+
+- GWAS: LOC106604312 = ANKHD1 ankyrin 232 repeat and KH domain-containing protein 1-like 
+- MOFA-cestode: GADL1 = glutamate decarboxylase like 1 [taurine biosynthesis]
+- MOFA-cestode: LOC106576775 = CSAD cysteine sulfinic acid decarboxylase-like [taurine biosynthesis]
+- MOFA-size/Vibrio: LOC106576106 = ladderlectin [immune pathway]
+- MOFA-size/Vibrio: LOC106586541 = APOA1 apolipoprotein A-I [apolipoprotein]
+- MOFA-size/Vibrio: LOC106564730 = actin, alpha skeletal muscle 2 [ECM]
+
+
+```{r}
+# GWAS gene: LOC106604312 (ANKHD1-like)
+dn.ANKHD1 <- read.csv("data/HostRNA/DegNorm_coverage_LOC106604312.csv")
+dn.ANKHD1$Step <- factor(dn.ANKHD1$Step, levels = c("Original","Normalised"))
+dn.ANKHD1 <- subset(dn.ANKHD1, Fish.ID %in% rna.samples.50)
+
+p.ANKHD1 <-
+ggplot(dn.ANKHD1, aes(Position, coverage, group = Fish.ID))+
+  geom_line(color = "grey50", alpha = 0.5)+
+  labs(x = "Position in gene", y = "Coverage", title = "ANKHD1-like")+
+  theme_classic()+
+  theme(axis.text = element_text(color = "black", size = 10), legend.position = "none", 
+        axis.title = element_text(size = 12),
+        plot.title = element_text(size = 13, color = "black", hjust = 0.5, face = "bold"))+
+  facet_wrap(~ Step)
+
+# MOFA gene (cestode, taurine): LOC106576775 (CSAD-like)
+dn.CSAD <- read.csv("data/HostRNA/DegNorm_coverage_LOC106576775.csv")
+dn.CSAD$Step <- factor(dn.CSAD$Step, levels = c("Original","Normalised"))
+dn.CSAD <- subset(dn.CSAD, Fish.ID %in% rna.samples.50)
+
+p.CSAD <-
+ggplot(dn.CSAD, aes(Position, coverage, group = Fish.ID))+
+  geom_line(color = "grey50", alpha = 0.5)+
+  labs(x = "Position in gene", y = "Coverage", title = "CSAD-like")+
+  theme_classic()+
+  theme(axis.text = element_text(color = "black", size = 10), legend.position = "none", 
+        axis.title = element_text(size = 12),
+        plot.title = element_text(size = 13, color = "black", hjust = 0.5, face = "bold"))+
+  facet_wrap(~ Step)
+
+# MOFA gene (cestode, taurine): GADL1
+dn.GADL1 <- read.csv("data/HostRNA/DegNorm_coverage_GADL1.csv")
+dn.GADL1$Step <- factor(dn.GADL1$Step, levels = c("Original","Normalised"))
+dn.GADL1 <- subset(dn.GADL1, Fish.ID %in% rna.samples.50)
+
+p.GADL1 <-
+ggplot(dn.GADL1, aes(Position, coverage, group = Fish.ID))+
+  geom_line(color = "grey50", alpha = 0.5)+
+  labs(x = "Position in gene", y = "Coverage", title = "GADL1")+
+  theme_classic()+
+  theme(axis.text = element_text(color = "black", size = 10), legend.position = "none", 
+        axis.title = element_text(size = 12),
+        plot.title = element_text(size = 13, color = "black", hjust = 0.5, face = "bold"))+
+  facet_wrap(~ Step)
+
+# MOFA gene (size, immune): LOC106576106 (ladderlectin)
+dn.ladder <- read.csv("data/HostRNA/DegNorm_coverage_LOC106576106.csv")
+dn.ladder$Step <- factor(dn.ladder$Step, levels = c("Original","Normalised"))
+dn.ladder <- subset(dn.ladder, Fish.ID %in% rna.samples.50)
+
+p.ladder <-
+ggplot(dn.ladder, aes(Position, coverage, group = Fish.ID))+
+  geom_line(color = "grey50", alpha = 0.5)+
+  labs(x = "Position in gene", y = "Coverage", title = "Ladderlectin")+
+  theme_classic()+
+  theme(axis.text = element_text(color = "black", size = 10), legend.position = "none", 
+        axis.title = element_text(size = 12),
+        plot.title = element_text(size = 13, color = "black", hjust = 0.5, face = "bold"))+
+  facet_wrap(~ Step)
+
+# MOFA gene (size, apolipoprotein): LOC106586541 (APOA1)
+dn.apoli <- read.csv("data/HostRNA/DegNorm_coverage_LOC106586541.csv")
+dn.apoli$Step <- factor(dn.apoli$Step, levels = c("Original","Normalised"))
+dn.apoli <- subset(dn.apoli, Fish.ID %in% rna.samples.50)
+
+p.apoli <-
+ggplot(dn.apoli, aes(Position, coverage, group = Fish.ID))+
+  geom_line(color = "grey50", alpha = 0.5)+
+  labs(x = "Position in gene", y = "Coverage", title = "APOA1")+
+  theme_classic()+
+  theme(axis.text = element_text(color = "black", size = 10), legend.position = "none", 
+        axis.title = element_text(size = 12),
+        plot.title = element_text(size = 13, color = "black", hjust = 0.5, face = "bold"))+
+  facet_wrap(~ Step)
+
+# MOFA gene (size, ECM): LOC106564730 (actin)
+dn.actin <- read.csv("data/HostRNA/DegNorm_coverage_LOC106564730.csv")
+dn.actin$Step <- factor(dn.actin$Step, levels = c("Original","Normalised"))
+dn.actin <- subset(dn.actin, Fish.ID %in% rna.samples.50)
+
+p.actin <-
+ggplot(dn.actin, aes(Position, coverage, group = Fish.ID))+
+  geom_line(color = "grey50", alpha = 0.5)+
+  labs(x = "Position in gene", y = "Coverage", title = "Actin")+
+  theme_classic()+
+  theme(axis.text = element_text(color = "black", size = 10), legend.position = "none", 
+        axis.title = element_text(size = 12),
+        plot.title = element_text(size = 13, color = "black", hjust = 0.5, face = "bold"))+
+  facet_wrap(~ Step)
+```
+
+
+```{r fig.width=9, fig.height=11}
+cowplot::plot_grid(p.GADL1,p.CSAD,p.ladder,p.apoli,p.actin,p.ANKHD1, 
+                   axis = "tblr", align = "hv", nrow = 3,
+                   labels = c("A","B","C","D","E","F"))
+ggsave("figures/Supp_figure_hostRNA_DegNorm_coverage_plots_genes_of_interest.png", units = "in", dpi = 800, width = 9, height = 11)
+```
+
+**Fig. S11**. RNA coverage curves before and after normalisation by DegNorm for each of the 343 samples included in the final RNA analyses, for six genes of interest, based on the GWAS and MOFA analyses. (**A**) Glutamate decarboxylase like 1 (GADL1) and (**B**) cysteine sulfinic acid decarboxylase-like (CSAD-like), two genes involved in taurine biosynthesis that were associated with cestode presence and Mycoplasma MAGs in the MOFA (factor 3 in Fig. 4). (**C**) Ladderlectin and (**D**) apolipoprotein A-I (APOA1), two genes involved in immune-related pathways that were associated with small fish and Vibrionaceae MAGs in the MOFA (factor 7 in Fig. 4). (**E**) Actin, alpha skeletal muscle 2 (Actin), a gene involved in cell division and the cytoskeleton that was associated with large fish in the MOFA (factor7 in Fig. 4). (**F**) Ankyrin repeat and KH domain-containing protein 1-like (ANKHD1-like), which contained a SNP that was associated with MAG05 detection in the GWAS (Fig. 3).
 
 ## Metabolomics
 
@@ -3454,7 +3608,7 @@ ggplot(mbol.nb.pca.coord, aes(Dim.1, Dim.2, color=Size.class))+
         legend.position = "right", legend.text = element_text(size = 12), legend.title = element_text(size = 12))
 ```
 
-#### Supplementary figure
+#### Supp figure
 
 ```{r fig.height=13, fig.width=10}
 
@@ -3467,19 +3621,51 @@ ggsave("figures/Supp_figure_mbol_PCAs.png", units = "in", dpi = 600, width = 10,
 
 ```
 
-**Fig. S7.** Ordination (PCA) of gut metabolomes, before (A, C, E) and after (B, D, F) removal of batch effects. Batch effects are a common problem in metabolomic studies and in this study, metabolome batch explains 11.4% of the variation in metabolite abundance before correction (F = 14.88, p = 0.001) (A), while after correction, batch does not significantly explain metabolite abundance variation (B). Feed type consistently explains 2.2-2.5% of the variation (F = 8.56, p = 0.001) (C–D) and size class explains 3.2-3.6% of the variation (F = 6.35, p = 0.001). Detailed results from the PERMANOVAs (see below) are presented in table S3.
+**Fig. S3.** Ordination (PCA) of gut metabolomes, before (**A, C, E**) and after (**B, D, F**) removal of batch effects. Batch effects are a common problem in metabolomic studies and in this study, metabolome batch explains 11.4% of the variation in metabolite abundance before correction (F = 14.98, p = 0.001) (A), while after correction, batch does not significantly explain metabolite abundance variation (B). Feed type consistently explains 2.2-2.5% of the variation (F = 8.62, p = 0.001) (C–D) and size class explains 3.2-3.6% of the variation (F = 6.39, p = 0.001). Detailed results from the PERMANOVAs are presented in Table S1. PERMANOVAs were based on Euclidean distances.
+
 
 ```{r}
 # permanovas
 mbol.before.dist <- vegdist(t(assay(mbol.met[["norm_imputed"]])), method = "euclidean")
 
-adonis2(mbol.before.dist ~ Mbol.batch + Feed.Type + Size.class, mbol.meta[match(mbol.meta$Fish.ID,colnames(assay(mbol.met[["norm_imputed"]]))),],
-        permutations = 999, method = "euclidean")
+perm.mbol.before <-adonis2(mbol.before.dist ~ Mbol.batch + Feed.Type + Size.class + Tapeworm,
+                                mbol.meta[match(mbol.meta$Fish.ID,colnames(assay(mbol.met[["norm_imputed"]]))),],
+                                permutations = 999, method = "euclidean")
+perm.mbol.before
 
 mbol.after.dist <- vegdist(t(mbol.nobatch), method = "euclidean")
 
-adonis2(mbol.after.dist ~ Mbol.batch + Feed.Type + Size.class, mbol.meta[match(mbol.meta$Fish.ID,colnames(mbol.nobatch)),],
-        permutations = 999, method = "euclidean")
+perm.mbol.after <- adonis2(mbol.after.dist ~ Mbol.batch + Feed.Type + Size.class + Tapeworm,
+                           mbol.meta[match(mbol.meta$Fish.ID,colnames(mbol.nobatch)),],
+                           permutations = 999, method = "euclidean")
+perm.mbol.after
+
+# format to print as table
+perm.mbol.before.df <- as.data.frame(perm.mbol.before)
+perm.mbol.before.df$Variable <- row.names(perm.mbol.before.df)
+perm.mbol.before.df$Dataset <- "Mbol.before"
+row.names(perm.mbol.before.df) <- NULL
+
+perm.mbol.after.df <- as.data.frame(perm.mbol.after)
+perm.mbol.after.df$Variable <- row.names(perm.mbol.after.df)
+perm.mbol.after.df$Dataset <- "Mbol.after"
+row.names(perm.mbol.after.df) <- NULL
+
+### write all permanovas into one table
+if(!file.exists("tables/Supp_table_permanovas.csv")){
+  perm.all <- rbind.data.frame(
+    fatty.acid.perm.df,
+    perm.euc.df,
+    perm.PAjac.df,
+    perm.rna.df,
+    perm.mbol.before.df,
+    perm.mbol.after.df
+  )
+  write.csv(perm.all[,c(7,6,1:5)],
+            "tables/Supp_table_permanovas.csv",
+            row.names = F, quote = F)
+  rm(perm.all)
+}
 
 ```
 
@@ -3679,7 +3865,7 @@ mofa.anno.mbol.f1 <- annotate_mofa_f(mofa.trained.feed1$feature.weights, "mbol",
 ```
 
 
-#### Supplementary figure
+#### Supp figure
 
 Comparisons with combined model:
 
@@ -3850,7 +4036,7 @@ ggsave("figures/Supp_figure_mofa_FEED1_summary_results.png", units = "in", dpi =
 
 ```
 
-**Fig. S8.** MOFA results from the Feed1 model, for Factors 1, 2, 3, 6 and 7. These factors from the Feed1 model are shown here because they captured similar patterns in variation as in the full combined model (**Figure 4**). The factor numbers are not comparable between models (for links between factors in each model, see table S9). (**A**) Factors 1, 6 and 7 were correlated with size class. (**B**) Factors 3 and 6 were correlated with cestode detection. (**C–E**) Feature weights for the metagenome (**C**), metabolome (**D**) and transcriptome (**E**) for Factors 1, 2, 3, 6 and 7. Features are ranked according to their weight. The higher the absolute weight, the more strongly associated a feature is with that factor. A positive weight indicates the feature has higher levels in samples with positive factor values, while a negative weight indicates the opposite. Features with weights > 0.2 or < -0.2 are coloured by MAG species or genus (C) or most frequent functional annotation (D-E), while features with less frequent annotations, or those with weights outside the threshold range (as indicated by the dashed lines) are shown in grey.
+**Fig. S9.** MOFA results from the Feed1 model, for Factors 1, 2, 3, 6 and 7. These factors from the Feed1 model are shown here because they captured similar patterns in variation as in the full combined model (Fig. 4). The factor numbers are not comparable between models (for links between factors in each model, see Table S9). (**A**) Factors 1, 6 and 7 were correlated with size class. (**B**) Factors 3 and 6 were correlated with cestode detection. (**C–E**) Feature weights for the metagenome (**C**), metabolome (**D**) and transcriptome (**E**) for Factors 1, 2, 3, 6 and 7. Features are ranked according to their weight. The higher the absolute weight, the more strongly associated a feature is with that factor. A positive weight indicates the feature has higher levels in samples with positive factor values, while a negative weight indicates the opposite. Features with weights > 0.2 or < -0.2 are coloured by MAG species or genus (C) or most frequent functional annotation (D-E), while features with less frequent annotations, or those with weights outside the threshold range (as indicated by the dashed lines) are shown in grey.
 
 ### Feed2 model
 
@@ -3911,7 +4097,7 @@ mofa.anno.mbol.f2 <- annotate_mofa_f(mofa.trained.feed2$feature.weights, "mbol",
 ```
 
 
-#### Supplementary figure
+#### Supp figure
 
 Comparisons with combined model:
 
@@ -4077,7 +4263,7 @@ ggsave("figures/Supp_figure_mofa_FEED2_summary_results.png", units = "in", dpi =
 
 ```
 
-**Fig. S9.** MOFA results from the Feed2 model, for Factors 1, 2, 4–6. These factors from the Feed2 model are shown here because they captured similar patterns in variation as in the full combined model (**Figure 4**). The factor numbers are not comparable between models (for links between factors in each model, see table S9). (**A**) Factors 1, 5 and 6 were correlated with size class. (**B**) Factors 4 and 6 were correlated with cestode detection. (**C–E**) Feature weights for the metagenome (**C**), metabolome (**D**) and transcriptome (**E**) for Factors 1, 2, 4–6. Features are ranked according to their weight. The higher the absolute weight, the more strongly associated a feature is with that factor. A positive weight indicates the feature has higher levels in samples with positive factor values, while a negative weight indicates the opposite. Features with weights > 0.2 or < -0.2 are coloured by MAG species or genus (C) or most frequent functional annotation (D-E), while features with less frequent annotations, or those with weights outside the threshold range (as indicated by the dashed lines) are shown in grey.
+**Fig. S10.** MOFA results from the Feed2 model, for Factors 1, 2, 4–6. These factors from the Feed2 model are shown here because they captured similar patterns in variation as in the full combined model (Fig. 4). The factor numbers are not comparable between models (for links between factors in each model, see Table S9). (**A**) Factors 1, 5 and 6 were correlated with size class. (**B**) Factors 4 and 6 were correlated with cestode detection. (**C–E**) Feature weights for the metagenome (**C**), metabolome (**D**) and transcriptome (**E**) for Factors 1, 2, 4–6. Features are ranked according to their weight. The higher the absolute weight, the more strongly associated a feature is with that factor. A positive weight indicates the feature has higher levels in samples with positive factor values, while a negative weight indicates the opposite. Features with weights > 0.2 or < -0.2 are coloured by MAG species or genus (C) or most frequent functional annotation (D-E), while features with less frequent annotations, or those with weights outside the threshold range (as indicated by the dashed lines) are shown in grey.
 
 
 ### Figure 4
@@ -4445,7 +4631,7 @@ mofa.anno.tx.f2$direction <- ifelse(mofa.anno.tx.f2$value > 0.2,"pos",ifelse(mof
 # View(mofa.anno.tx.f2[which(mofa.anno.tx.f2$factor == "Factor5" & mofa.anno.tx.f2$direction == "pos"),])
 ```
 
-### MOFA Supplementary tables
+### MOFA Supp data
 
 ```{r warning=FALSE, message=FALSE}
 # write summaries - only "significant" findings to cut down size
